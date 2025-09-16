@@ -81,6 +81,7 @@ function App() {
         display: "flex",
         minHeight: "100vh",
         background: "linear-gradient(135deg,#dbeafe,#fff,#fce7f3)",
+        height:'100vh'
       }}
     >
       {/* LEFT SIDE - Câu hỏi */}
@@ -209,18 +210,18 @@ function App() {
           display: "flex",
           flexDirection: "column",
           gap: "10px",
-          overflowX: "auto"
+          overflowX: "auto",paddingTop:'0px'
         }}
       >
-        <h3 style={{ textAlign: "center", fontWeight: "bold", marginBottom: "10px" }}>
+        <p style={{ textAlign: "center", fontWeight: "bold", marginBottom: "10px" }}>
           Danh sách câu hỏi
-        </h3>
+        </p>
         <div
           style={{
             display: "flex",
             flexWrap: "wrap",
             gap: "8px",
-            maxHeight: "400px",
+            maxHeight: "100vh",
             overflowY: "auto",
             justifyContent: 'space-around'
           }}
