@@ -106,7 +106,13 @@ function App() {
               marginBottom: "24px",
             }}
           >
-            {currentQuestion.question_number}: {currentQuestion.question_text}
+            {currentQuestion.question_number}:{" "}
+            {currentQuestion.question_text.split('\n').map((line, idx) => (
+              <span key={idx}>
+                {line}
+                <br />
+              </span>
+            ))}
           </h1>
 
           {/* Answers */}

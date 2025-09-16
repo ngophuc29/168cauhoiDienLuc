@@ -288,15 +288,15 @@
       "/ 0.70 m",
       "/ 1.00 m"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1
   },
   {
     "question": "Khoảng cách cho phép nhỏ nhất đến phần có điện cao áp xoay chiều với cấp điện áp trên trên 35kV đến 110kV là:",
       "options": [
-        "/  0.35 m",
-        "/ 0.60 m",
-        "/ 0.70 m",
-        "/ 1.00 m"
+          "/ 0.60 m.",
+          "/ 1 m.",
+          "/ 2 m.",
+          "/ 4 m."
       ],
     "correctAnswer": 1
   },
@@ -338,7 +338,7 @@
       "/ 1,5 m.",
       "/ 2,5 m."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Theo yêu cầu về nối đất thì đường dây, thiết bị điện được xem là đang có điện nếu như:",
@@ -431,12 +431,12 @@
     "correctAnswer": 3
   },
   {
-      "question": "Để chuẩn bị nơi làm việc khi cắt điện một phần hay cắt điện hoàn toàn phải thực hiện lần lượt theo thứ tự các biện pháp kỹ thuật an toàn nào sau đây mới đúng? \t1/ Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc. 2/ Đặt nối đất (tiếp đất hoặc tiếp địa). 3/ Kiểm tra không còn điện. 4/ Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết).. t",
+      "question": "Để chuẩn bị nơi làm việc khi cắt điện một phần hay cắt điện hoàn toàn phải thực hiện lần lượt theo thứ tự các biện pháp kỹ thuật an toàn nào sau đây mới đúng? \n 1/ Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc. \n 2/ Đặt nối đất (tiếp đất hoặc tiếp địa). \n 3/ Kiểm tra không còn điện. \n 4/ Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết)..",
       "options": [
       "/ Theo thứ tự 1, 2, 3, 4.",
       "/ Theo thứ tự 1, 3, 2, 4.",
       "/ Theo thứ tự 1, 4, 2, 3.",
-      "/ Theo thứ tự 1, 2, 4, 3."
+      "/ Theo thứ tự 1, 2, 4, 3." 
     ],
       "correctAnswer": 1
   },
@@ -768,7 +768,7 @@
       "/ Phương án thi công và biện pháp an toàn phải được phê duyệt trước khi thực hiện.",
       "/ Cả 3 câu A,B,C."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Theo quy trình an toàn điện, biện pháp an toàn khi làm việc có điện như sau:",
@@ -1451,7 +1451,7 @@
     "correctAnswer": 3
   },
   {
-    "question": "Câu số 146. Trong quá trình làm việc, đơn vị công tác được phép làm những công việc nào sau.",
+    "question": "Trong quá trình làm việc, đơn vị công tác được phép làm những công việc nào sau.",
     "options": [
       "/ Vượt qua ranh giới vùng làm việc an toàn do Đơn vị QLVH lập và bàn giao cho Đơn vị công tác nếu công việc đang làm cần phải vượt qua.",
       "/ Được phép dịch chuyển, dỡ bỏ rào chắn, biển báo, tín hiệu xác định vùng làm việc an toàn và các biện pháp an toàn do Đơn vị QLVH lập.",
