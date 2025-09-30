@@ -94,11 +94,20 @@ function App() {
         display: "flex",
         minHeight: "100vh",
         background: "linear-gradient(135deg,#dbeafe,#fff,#fce7f3)",
-        height:'100vh'
+        height: '100vh',
+        overflow: "hidden", // disable page-level vertical scroll so columns scroll independently
       }}
     >
       {/* LEFT SIDE - Câu hỏi */}
-      <div style={{ flex: 3, padding: "20px" }}>
+      <div
+        style={{
+          flex: 3,
+          padding: "20px",
+          display: "flex",
+          flexDirection: "column",
+          maxHeight: "100vh",
+        }}
+      >
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
@@ -108,6 +117,8 @@ function App() {
             padding: "32px",
             boxShadow: "0 10px 25px rgba(0,0,0,0.1)",
             border: "1px solid #bfdbfe",
+            flex: 1,                 // allow content area to expand and be scrollable
+            overflowY: "auto",      // enable vertical scrolling when content exceeds column height
           }}
         >
           <h1
@@ -228,20 +239,23 @@ function App() {
           </AnimatePresence>
         </motion.div>
       </div>
-
-      {/* RIGHT SIDE - Danh sách câu hỏi */}
-      <div
-        style={{
-          flex: 1,
-          padding: "20px",
-          backgroundColor: "#f1f5f9",
-          borderLeft: "1px solid #e5e7eb",
-          display: "flex",
-          flexDirection: "column",
-          gap: "10px",
-          overflowX: "auto",paddingTop:'0px'
-        }}
-      >
+ 
+       {/* RIGHT SIDE - Danh sách câu hỏi */}
+       <div
+         style={{
+           flex: 1,
+           padding: "20px",
+           backgroundColor: "#f1f5f9",
+           borderLeft: "1px solid #e5e7eb",
+           display: "flex",
+           flexDirection: "column",
+           gap: "10px",
+           overflowX: "auto",
+           overflowY: "auto",
+           maxHeight: "100vh",
+           paddingTop: "0px",
+         }}
+       >
         <p style={{ textAlign: "center", fontWeight: "bold", marginBottom: "10px" }}>
           Danh sách câu hỏi
         </p>
