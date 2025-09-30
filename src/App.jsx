@@ -9,20 +9,33 @@ function App() {
   const [answersStatus, setAnswersStatus] = useState({}); // {0: "correct", 1: "wrong"}
 
   useEffect(() => {
-    fetch("/questions.json")
+    // fetch("/questions.json")
+      fetch("/cauhoiphuluc1.json")
       .then((res) => res.json())
       .then((data) => {
         // Parse lại dữ liệu từ file JSON gốc sang dạng UI đang dùng
-        const parsed = data.map((q, idx) => ({
-          question_number: idx + 1,
-          question_text: q.question,
-          answers: q.options.map((opt, i) => ({
-            option: String.fromCharCode(65 + i), // A, B, C, D...
-            text: opt.replace(/^[A-D]\.\s*|^\//, '').trim(), // loại bỏ ký tự đầu nếu có
-            is_correct: i === q.correctAnswer,
-          })),
-          correct_answer: String.fromCharCode(65 + q.correctAnswer),
-        }));
+        const parsed = data.map((q, idx) => {
+          // treat q.correctAnswer as 1..4 (user request) -> convert to 0-based index safely
+          const raw = Number(q.correctAnswer);
+          const correctIdx =
+            Number.isFinite(raw) && raw >= 1
+              ? Math.min(Math.max(raw - 1, 0), (q.options || []).length - 1)
+              : 0;
+
+          return {
+            question_number: idx + 1,
+            // thêm stt và chuyên môn vào object để dùng khi render
+            stt: q.stt ?? null,
+            chuyenmon: q.chuyenmon ?? "",
+            question_text: q.question,
+            answers: (q.options || []).map((opt, i) => ({
+              option: String.fromCharCode(65 + i), // A, B, C, D...
+              text: String(opt).replace(/^[A-D]\.\s*|^\//, "").trim(),
+              is_correct: i === correctIdx,
+            })),
+            correct_answer: String.fromCharCode(65 + correctIdx),
+          };
+        });
         setQuestions(parsed);
       });
   }, []);
@@ -106,6 +119,14 @@ function App() {
               marginBottom: "24px",
             }}
           >
+            { /* Thêm hiển thị STT và chuyên môn ngay trên tiêu đề câu hỏi */}
+            {currentQuestion.stt || currentQuestion.chuyenmon ? (
+              <div style={{ textAlign: "center", color: "red", marginBottom: "8px" }}>
+                {currentQuestion.stt ? <span>STT: {currentQuestion.stt}</span> : null}
+                {currentQuestion.stt && currentQuestion.chuyenmon ? <span> — </span> : null}
+                {currentQuestion.chuyenmon ? <span>Chuyên Môn :{currentQuestion.chuyenmon}</span> : null}
+              </div>
+            ) : null}
             {currentQuestion.question_number}:{" "}
             {currentQuestion.question_text.split('\n').map((line, idx) => (
               <span key={idx}>
@@ -114,6 +135,8 @@ function App() {
               </span>
             ))}
           </h1>
+
+
 
           {/* Answers */}
           <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
