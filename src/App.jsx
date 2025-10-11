@@ -1,300 +1,87 @@
-import { useState, useEffect } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import React, { useEffect, useState } from "react";
 
 function App() {
   const [questions, setQuestions] = useState([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [isCorrect, setIsCorrect] = useState(null);
-  const [answersStatus, setAnswersStatus] = useState({}); // {0: "correct", 1: "wrong"}
+  const [activeQuestion, setActiveQuestion] = useState(null); // câu đang thao tác
+  const [selectedOption, setSelectedOption] = useState(null); // đáp án được chọn
 
   useEffect(() => {
-    // fetch("/questions.json")
-      fetch("/cauhoiphuluc1.json")
+    fetch("/ghi_dien_thu_ngan_giao_dich_2025.json")
       .then((res) => res.json())
-      .then((data) => {
-        // Parse lại dữ liệu từ file JSON gốc sang dạng UI đang dùng
-        const parsed = data.map((q, idx) => {
-          // treat q.correctAnswer as 1..4 (user request) -> convert to 0-based index safely
-          const raw = Number(q.correctAnswer);
-          const correctIdx =
-            Number.isFinite(raw) && raw >= 1
-              ? Math.min(Math.max(raw - 1, 0), (q.options || []).length - 1)
-              : 0;
-
-          return {
-            question_number: idx + 1,
-            // thêm stt và chuyên môn vào object để dùng khi render
-            stt: q.stt ?? null,
-            chuyenmon: q.chuyenmon ?? "",
-            question_text: q.question,
-            answers: (q.options || []).map((opt, i) => ({
-              option: String.fromCharCode(65 + i), // A, B, C, D...
-              text: String(opt).replace(/^[A-D]\.\s*|^\//, "").trim(),
-              is_correct: i === correctIdx,
-            })),
-            correct_answer: String.fromCharCode(65 + correctIdx),
-          };
-        });
-        setQuestions(parsed);
-      });
+      .then((data) => setQuestions(data))
+      .catch((err) => console.error(err));
   }, []);
 
-  const handleAnswerClick = (option) => {
-    if (selectedAnswer) return;
-    setSelectedAnswer(option);
-
-    const currentQuestion = questions[currentQuestionIndex];
-    const result = option === currentQuestion.correct_answer;
-    setIsCorrect(result);
-
-    setAnswersStatus((prev) => ({
-      ...prev,
-      [currentQuestionIndex]: result ? "correct" : "wrong",
-    }));
+  const handleSelect = (qNumber, key) => {
+    // Khi chọn ở câu khác => clear hết kết quả cũ, chỉ giữ câu mới
+    setActiveQuestion(qNumber);
+    setSelectedOption(key);
   };
 
-  const handleNextQuestion = () => {
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex((prev) => prev + 1);
-      setSelectedAnswer(null);
-      setIsCorrect(null);
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }
+  const getCorrectKey = (q) => {
+    const keys = Object.keys(q.options);
+    const correctIndex = parseInt(q.answer, 10) - 1;
+    return keys[correctIndex];
   };
-
-  const handleSelectQuestion = (index) => {
-    setCurrentQuestionIndex(index);
-    setSelectedAnswer(null);
-    setIsCorrect(null);
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
-  if (!questions.length)
-    return (
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          height: "100vh",
-          fontSize: "1.5rem",
-          fontWeight: "bold",
-        }}
-      >
-        Đang tải câu hỏi...
-      </div>
-    );
-
-  const currentQuestion = questions[currentQuestionIndex];
 
   return (
-    <div
-      style={{
-        display: "flex",
-        minHeight: "100vh",
-        background: "linear-gradient(135deg,#dbeafe,#fff,#fce7f3)",
-        height: '100vh',
-        overflow: "hidden", // disable page-level vertical scroll so columns scroll independently
-      }}
-    >
-      {/* LEFT SIDE - Câu hỏi */}
-      <div
-        style={{
-          flex: 3,
-          padding: "20px",
-          display: "flex",
-          flexDirection: "column",
-          maxHeight: "100vh",
-        }}
-      >
-        <motion.div
-          initial={{ opacity: 0, y: 40 }}
-          animate={{ opacity: 1, y: 0 }}
-          style={{
-            backgroundColor: "#fff",
-            borderRadius: "20px",
-            padding: "32px",
-            boxShadow: "0 10px 25px rgba(0,0,0,0.1)",
-            border: "1px solid #bfdbfe",
-            flex: 1,                 // allow content area to expand and be scrollable
-            overflowY: "auto",      // enable vertical scrolling when content exceeds column height
-          }}
-        >
-          <h1
+    <div style={{ padding: 20, fontFamily: "sans-serif" }}>
+      <h1 style={{ textAlign: "center", color: "#007bff" }}>
+        🧩 Trắc nghiệm Ghi điện & Thu ngân 2025
+      </h1>
+
+      {questions.map((q) => {
+        const isActive = activeQuestion === q.number;
+        const correctKey = getCorrectKey(q);
+        const isCorrect = selectedOption === correctKey;
+
+        return (
+          <div
+            key={q.number}
             style={{
-              fontSize: "1.8rem",
-              fontWeight: "800",
-              textAlign: "center",
-              color: "#1e3a8a",
-              marginBottom: "24px",
+              border: "1px solid #ccc",
+              borderRadius: 10,
+              padding: 15,
+              marginBottom: 15,
+              background: isActive ? "#f9f9f9" : "white",
             }}
           >
-            { /* Thêm hiển thị STT và chuyên môn ngay trên tiêu đề câu hỏi */}
-            {currentQuestion.stt || currentQuestion.chuyenmon ? (
-              <div style={{ textAlign: "center", color: "red", marginBottom: "8px" }}>
-                {currentQuestion.stt ? <span>STT: {currentQuestion.stt}</span> : null}
-                {currentQuestion.stt && currentQuestion.chuyenmon ? <span> — </span> : null}
-                {currentQuestion.chuyenmon ? <span>Chuyên Môn :{currentQuestion.chuyenmon}</span> : null}
-              </div>
-            ) : null}
-            {currentQuestion.question_number}:{" "}
-            {currentQuestion.question_text.split('\n').map((line, idx) => (
-              <span key={idx}>
-                {line}
-                <br />
-              </span>
+            <p style={{ fontWeight: "bold" }}>
+              {q.number}. {q.question}
+            </p>
+
+            {Object.entries(q.options).map(([key, text]) => (
+              <label key={key} style={{ display: "block", marginBottom: 5 }}>
+                <input
+                  type="radio"
+                  name={`q-${q.number}`}
+                  value={key}
+                  checked={isActive && selectedOption === key}
+                  onChange={() => handleSelect(q.number, key)}
+                  style={{ marginRight: 6 }}
+                />
+                {text}
+              </label>
             ))}
-          </h1>
 
-
-
-          {/* Answers */}
-          <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
-            {currentQuestion.answers.map((answer) => {
-              const isSelected = selectedAnswer === answer.option;
-              const isCorrectAnswer = answer.is_correct;
-
-              let styleBtn = {
-                padding: "16px",
-                borderRadius: "12px",
-                fontSize: "1.1rem",
-                border: "2px solid #d1d5db",
-                backgroundColor: "#fff",
-                cursor: selectedAnswer ? "default" : "pointer",
-                textAlign: "left",
-              };
-
-              if (selectedAnswer) {
-                if (isCorrectAnswer) {
-                  styleBtn = {
-                    ...styleBtn,
-                    backgroundColor: "#22c55e",
-                    color: "#fff",
-                    fontWeight: "bold",
-                    borderColor: "#15803d",
-                  };
-                }
-                if (isSelected && !isCorrectAnswer) {
-                  styleBtn = {
-                    ...styleBtn,
-                    backgroundColor: "#ef4444",
-                    color: "#fff",
-                    fontWeight: "bold",
-                    borderColor: "#b91c1c",
-                  };
-                }
-              }
-
-              return (
-                <button
-                  key={answer.option}
-                  style={styleBtn}
-                  onClick={() => handleAnswerClick(answer.option)}
-                  disabled={!!selectedAnswer}
-                >
-                  <b>{answer.option}.</b> {answer.text}
-                </button>
-              );
-            })}
-          </div>
-
-          {/* Result + Next */}
-          <AnimatePresence>
-            {selectedAnswer && (
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                style={{ marginTop: "20px", textAlign: "center" }}
-              >
-                <p
-                  style={{
-                    fontSize: "1.2rem",
-                    fontWeight: "bold",
-                    color: isCorrect ? "#15803d" : "#b91c1c",
-                  }}
-                >
-                  {isCorrect
-                    ? "🎉 Chính xác!"
-                    : "❌ Sai rồi! Xem đáp án đúng được tô xanh."}
-                </p>
-                <button
-                  style={{
-                    marginTop: "10px",
-                    padding: "12px 24px",
-                    backgroundColor: "#2563eb",
-                    color: "#fff",
-                    borderRadius: "8px",
-                    fontWeight: "bold",
-                  }}
-                  onClick={handleNextQuestion}
-                  disabled={currentQuestionIndex === questions.length - 1}
-                >
-                  {currentQuestionIndex === questions.length - 1
-                    ? "Hoàn thành 🎯"
-                    : "Câu tiếp theo ➡️"}
-                </button>
-              </motion.div>
+            {/* Chỉ hiển thị kết quả cho câu đang hoạt động */}
+            {isActive && selectedOption && (
+              <div style={{ marginTop: 8 }}>
+                {isCorrect ? (
+                  <span style={{ color: "green" }}>✅ Đáp án đúng</span>
+                ) : (
+                  <span style={{ color: "red" }}>
+                    ❌ Sai. Đáp án đúng là:{" "}
+                    <b style={{ color: "green" }}>
+                      {correctKey}. {q.options[correctKey]}
+                    </b>
+                  </span>
+                )}
+              </div>
             )}
-          </AnimatePresence>
-        </motion.div>
-      </div>
- 
-       {/* RIGHT SIDE - Danh sách câu hỏi */}
-       <div
-         style={{
-           flex: 1,
-           padding: "20px",
-           backgroundColor: "#f1f5f9",
-           borderLeft: "1px solid #e5e7eb",
-           display: "flex",
-           flexDirection: "column",
-           gap: "10px",
-           overflowX: "auto",
-           overflowY: "auto",
-           maxHeight: "100vh",
-           paddingTop: "0px",
-         }}
-       >
-        <p style={{ textAlign: "center", fontWeight: "bold", marginBottom: "10px" }}>
-          Danh sách câu hỏi
-        </p>
-        <div
-          style={{
-            display: "flex",
-            flexWrap: "wrap",
-            gap: "8px",
-            maxHeight: "100vh",
-            overflowY: "auto",
-            justifyContent: 'space-around'
-          }}
-        >
-          {questions.map((q, idx) => {
-            let bg = "#fff";
-            if (answersStatus[idx] === "correct") bg = "#22c55e";
-            if (answersStatus[idx] === "wrong") bg = "#ef4444";
-
-            return (
-              <button
-                key={q.id}
-                onClick={() => handleSelectQuestion(idx)}
-                style={{
-                  width: "70px",
-                  height: "45px",
-                  borderRadius: "8px",
-                  backgroundColor: idx === currentQuestionIndex ? "#2563eb" : bg,
-                  color: idx === currentQuestionIndex ? "#fff" : "#111",
-                  fontWeight: "bold",
-                  border: "1px solid #d1d5db",
-                  textAlign: "center",
-                }}
-              >
-                {idx + 1}
-              </button>
-            );
-          })}
-        </div>
-      </div>
+          </div>
+        );
+      })}
     </div>
   );
 }

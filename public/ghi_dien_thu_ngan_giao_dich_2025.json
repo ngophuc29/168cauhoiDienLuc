@@ -1,0 +1,2997 @@
+[
+  {
+    "number": 1,
+    "question": "Hình thức GCS công tơ trực tiếp là gì?",
+    "options": {
+      "A": "a. Là hình thức người GCS đến địa điểm/vị trí lắp đặt công tơ để thu thập chỉ số công tơ bằng máy tính bảng, điện thoại thông minh hoặc thiết bị thu thập dữ liệu công tơ chuyên dụng.",
+      "B": "b. Là hình thức tự động thu thập chỉ số công tơ bằng Hệ thống thu thập số liệu đo đếm (HTTTSL) của Đơn vị Điện lực.",
+      "C": "c. GCS do khách hàng đọc qua điện thoại.",
+      "D": "d. GCS do khách hàng ghi trước cửa nhà."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 2,
+    "question": "Hình thức GCS công tơ từ xa là gì?",
+    "options": {
+      "A": "a. Là hình thức người GCS đến địa điểm/vị trí lắp đặt công tơ để thu thập chỉ số công tơ bằng máy tính bảng, điện thoại thông minh hoặc thiết bị thu thập dữ liệu công tơ chuyên dụng.",
+      "B": "b. Là hình thức tự động thu thập chỉ số công tơ bằng Hệ thống thu thập số liệu đo đếm (HTTTSL) của Đơn vị Điện lực.",
+      "C": "c. GCS do khách hàng đọc qua điện thoại.",
+      "D": "d. GCS do khách hàng ghi trước cửa nhà."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 3,
+    "question": "Đảm bảo quyền giám sát của khách hàng đối với việc GCS công tơ như thế?",
+    "options": {
+      "A": "a. Lịch GCS phải được Đơn vị Điện lực công khai trên các kênh giao dịch để khách hàng có thể giám sát, kiểm tra.",
+      "B": "b. Đưa dữ liệu chỉ số công tơ, điện tiêu thụ lên website của Trung tâm CSKH trong thời gian ≤ 24 giờ kể từ thời điểm GCS công tơ.",
+      "C": "c. Hình thức thông báo chỉ số công tơ được thỏa thuận trong Hợp đồng mua bán điện.",
+      "D": "d. Tất cả các câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 4,
+    "question": "Yêu cầu đối với công tác ghi điện:",
+    "options": {
+      "A": "a. Ghi đủ.",
+      "B": "b. Ghi đúng chu kỳ.",
+      "C": "c. Ghi chính xác.",
+      "D": "d. Tất cả các câu trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 5,
+    "question": "Quy định lịch ghi chỉ số điện kế ranh giới giao nhận điện như thế nào?",
+    "options": {
+      "A": "a. GCS tại thời điểm 00h00 ngày 01 hàng tháng. Trường hợp công tơ không thu thập được dữ liệu đo đếm từ xa, cho phép GCS chậm nhất trước thời điểm 12h00 ngày 01 hàng tháng",
+      "B": "b. Ghi lúc 0h00 đến 12h00 ngày 01 hàng tháng.",
+      "C": "c. Ghi lúc 0h00 ngày cuối tháng tháng.",
+      "D": "d. Ghi lúc 0h00±12h giờ ngày cuối tháng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 6,
+    "question": "Khi thay đổi ngày GCS, Điện lực phải thông báo cho khách hàng biết trước ngày GCS:",
+    "options": {
+      "A": "a. ≥ 05 ngày.",
+      "B": "b. 24 giờ.",
+      "C": "c. ≥ 03 ngày.",
+      "D": "d. Chậm nhất vào ngày 15 của tháng trước liền kề tháng thay đổi ngày ghi chỉ số công tơ"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 7,
+    "question": "Quy định lịch ghi chỉ số công tơ trạm công cộng như thế nào?",
+    "options": {
+      "A": "a. GCS lần 1 cùng phiên GCS của tất cả các công tơ khách hàng dùng điện sau trạm biến áp đó.",
+      "B": "b. GCS lần 2 vào lúc 0 giờ ngày 01 hàng tháng.",
+      "C": "c. Chỉ ghi vào ngày 30 hoặc 31 hàng tháng.",
+      "D": "d. Thực hiện cả a. và b"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 8,
+    "question": "Để theo dõi tổn thất điện năng lưới phân phối theo phương án mới của EVN, những công tơ nào phải GCS vào ngày 01 hàng tháng?",
+    "options": {
+      "A": "a. Công tơ ranh giới.",
+      "B": "b. Công tơ ranh giới và các công tơ trạm chuyên dùng.",
+      "C": "c. Công tơ ranh giới, các công tơ trạm chuyên dùng và trạm công cộng.",
+      "D": "d. Các công tơ trạm chuyên dùng và trạm công cộng."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 9,
+    "question": "Khi thay đổi lịch GCS khách hàng về ngày cuối tháng thì thời điểm ghi chỉ số công tơ của khách hàng có điện năng tiêu thụ từ 50.000 đến 100.000 kWh/tháng như thế nào?",
+    "options": {
+      "A": "a. Ghi lúc 24h00 ngày 15 và ngày cuối cùng của mỗi tháng.",
+      "B": "b. Ghi lúc 0 giờ ngày 10 hàng tháng.",
+      "C": "c. Ghi lúc 0 giờ ngày 15 hàng tháng.",
+      "D": "d. Ghi lúc 0 giờ ngày 30 hoặc 31 hàng tháng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 10,
+    "question": "Khi thay đổi lịch GCS khách hàng về ngày cuối tháng thì thời điểm ghi chỉ số công tơ của khách hàng có điện năng tiêu thụ trên 100.000 kWh/tháng như thế nào?",
+    "options": {
+      "A": "a. Ghi lúc 24h00 các ngày 10, 20 và ngày cuối cùng của mỗi tháng.",
+      "B": "b. Ghi lúc 0 giờ ngày 10 hàng tháng.",
+      "C": "c. Ghi lúc 0 giờ ngày 20 hàng tháng.",
+      "D": "d. Ghi lúc 0 giờ ngày 30 hàng tháng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 11,
+    "question": "Nhiệm vụ của người GCS khi đến ghi trực tiếp tại công tơ:",
+    "options": {
+      "A": "a. Thực hiện đúng nhiệm vụ và lộ trình GCS được giao, kiểm tra đảm bảo tình trạng hoạt động của thiết bị ghi điện và những dụng cụ an toàn khác.",
+      "B": "b. Tạo điều kiện để khách hàng có thể đọc và kiểm tra việc GCS công tơ của khách hàng.",
+      "C": "c. Ghi nhận chính xác, đầy đủ các chỉ số của công tơ trên thiết bị ghi điện; thông báo sản lượng điện sử dụng cho khách hàng.",
+      "D": "d. Tất cả các câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 12,
+    "question": "Trong quá trình thực hiện GCS trực tiếp tại công tơ, người GCS phải:",
+    "options": {
+      "A": "a. Kiểm tra tình trạng bên ngoài và hoạt động của hệ thống đo đếm điện năng.",
+      "B": "b. Tổ chức kiểm tra khách hàng sử dụng điện.",
+      "C": "c. Báo cáo bộ phận điều hành để tiến hành kiểm tra, xác minh khi phát hiện có các số liệu bất thường hoặc các cảnh báo lỗi của công tơ.",
+      "D": "d. Câu a. và câu c. đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 13,
+    "question": "Nhiệm vụ của người GCS đọc tập trung từ xa:",
+    "options": {
+      "A": "a. Thực hiện chính xác các thao tác và trình tự GCS công tơ từ xa theo quy định.",
+      "B": "b. Kiểm tra lại toàn bộ các số liệu đọc về trên file bản ghi nhằm phát hiện các số liệu còn trống, các số liệu bất thường được cảnh báo sau khi chương trình hoàn thành việc đọc số liệu để xác minh lại chỉ số.",
+      "C": "c. Tự xử lý dữ liệu trên chương trình hoặc sửa chữa file bản ghi chỉ số công tơ khi phát hiện có dữ liệu trống.",
+      "D": "d. Câu a. và câu b. đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 14,
+    "question": "Theo Quy trình kinh doanh điện năng của EVN và hướng dẫn thực hiện quy trình kinh doanh điện năng của EVN SPC, các công tơ có chỉ số bất thường là các công tơ có:",
+    "options": {
+      "A": "a. Chỉ số cuối kỳ nhỏ hơn chỉ số đầu kỳ; bộ đếm của công tơ qua vòng; công tơ không lên chỉ số; điện năng tiêu thụ tăng hoặc giảm hơn 20% so với kỳ trước…",
+      "B": "b. Chỉ số cuối kỳ nhỏ hơn chỉ số đầu kỳ; bộ đếm của công tơ qua vòng; công tơ không lên chỉ số; điện năng tiêu thụ tăng hoặc giảm hơn 30% so với kỳ trước…",
+      "C": "c. Chỉ số cuối kỳ nhỏ hơn chỉ số đầu kỳ; bộ đếm của công tơ qua vòng; công tơ không lên chỉ số; điện năng tiêu thụ tăng hoặc giảm hơn 50% so với kỳ trước…",
+      "D": "d. Chỉ số cuối kỳ nhỏ hơn chỉ số đầu kỳ; bộ đếm của công tơ qua vòng; công tơ không lên chỉ số; điện năng tiêu thụ tăng hoặc giảm hơn 60% so với kỳ trước."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 15,
+    "question": "Yêu cầu đối với GCS trực tiếp:",
+    "options": {
+      "A": "a. Người GCS đến ghi trực tiếp tại công tơ có thể kiêm nhiệm công tác thu tiền điện; treo/tháo công tơ tại khu vực đang được phân công GCS.",
+      "B": "b. Điện lực phải thực hiện hoán đổi người GCS ở từng lộ trình, tối thiểu 06 tháng/lần.",
+      "C": "c. Điện lực có trách nhiệm GCS công tơ tại khu vực thuê dịch vụ bán lẻ điện năng ≥01 lần trong 06 tháng liên tiếp.",
+      "D": "d. Câu a. sai."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 16,
+    "question": "Đối với công tơ áp dụng hình thức GCS từ xa nhưng không đọc được chỉ số thì Đơn vị phải làm gì?",
+    "options": {
+      "A": "a. Tính toán điện năng tiêu thụ bình quân 3 tháng liền kề.",
+      "B": "b. Tạm tính điện năng tiêu thụ bằng tháng trước liền kề.",
+      "C": "c. Giữ nguyên chỉ số tháng trước liền kề.",
+      "D": "d. Cho phép lấy chỉ số thu thập của ngày liền kề trước hoặc ngày liền kề sau ngày GCS theo phiên để tính hóa đơn tiền điện."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 17,
+    "question": "Thời gian giải quyết các kiến nghị về GCS",
+    "options": {
+      "A": "a. Khi nhận được kiến nghị của khách hàng về việc GCS, lãnh đạo đơn vị phải tổ chức kiểm tra, giải quyết kịp thời, theo đúng quy định của pháp luật trong thời hạn ≤02 giờ.",
+      "B": "b. Khi nhận được kiến nghị của khách hàng về việc GCS, lãnh đạo đơn vị phải tổ chức kiểm tra, giải quyết kịp thời, theo đúng quy định của pháp luật trong thời hạn ≤08 giờ.",
+      "C": "c. Khi nhận được kiến nghị của khách hàng về việc GCS, lãnh đạo đơn vị phải tổ chức kiểm tra, giải quyết kịp thời, theo đúng quy định của pháp luật trong vòng 24 giờ.",
+      "D": "d. Khi nhận được kiến nghị của khách hàng về việc GCS, lãnh đạo đơn vị phải tổ chức kiểm tra, giải quyết kịp thời, theo đúng quy định của pháp luật trong thời hạn ≤48 giờ."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 18,
+    "question": "Nội dung của công tác phúc tra GCS:",
+    "options": {
+      "A": "a. Điện lực phải bố trí bộ phận chuyên trách phúc tra, đánh giá chất lượng công tác GCS công tơ và độc lập với bộ phận GCS.",
+      "B": "b. Lập lịch phúc tra thường xuyên hoặc đột xuất các lộ trình GCS để phúc tra đối chiếu và đánh giá chất lượng ghi của từng người GCS.",
+      "C": "c. Phúc tra và báo cáo kết quả kiểm tra các trường hợp bất thường, Kiến nghị lãnh đạo đơn vị xử lý các sai sót, vi phạm.",
+      "D": "d. Tất cả các câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 19,
+    "question": "Việc lập hoá đơn tiền điện phải căn cứ vào:",
+    "options": {
+      "A": "a. Hợp đồng mua bán điện; Biên bản treo tháo các thiết bị đo đếm điện hoặc biên bản nghiệm thu hệ thống đo đếm điện năng; Các biên bản thoả thuận truy thu hoặc bồi thường về sự cố hệ thống đo đếm.",
+      "B": "b. Sổ GCS hoặc file dữ liệu GCS công tơ.",
+      "C": "c. Biểu giá bán điện, biểu thuế suất giá trị gia tăng và các thông tư hướng dẫn của Nhà nước.",
+      "D": "d. Tất cả các câu trên."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 20,
+    "question": "Theo quy định của EVN SPC, thời hạn phát hành hóa đơn tiền điện cho khách hàng mua điện kể từ ngày GCS công tơ là:",
+    "options": {
+      "A": "a. Tối đa không quá 24 giờ.",
+      "B": "b. Tối đa không quá 02 ngày làm việc.",
+      "C": "c. Tối đa không quá 07 ngày làm việc.",
+      "D": "d. Tối đa không quá 05 ngày làm việc."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 21,
+    "question": "Hình thức hóa đơn tiền điện đang được sử dụng gồm:",
+    "options": {
+      "A": "a. Hóa đơn giấy tự in.",
+      "B": "b. Hóa đơn giấy đặt in.",
+      "C": "c. Hóa đơn điện tử.",
+      "D": "d. Hóa đơn điện tử và hóa đơn giấy tự in (chỉ áp dụng đối với trường hợp phải chuyển đổi từ hóa đơn điện tử theo quy định)."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 22,
+    "question": "Các công việc phải được tiến hành trước khi tiến hành lập hóa đơn tiền điện gồm:",
+    "options": {
+      "A": "a. Cập nhật dữ liệu gốc (bổ sung khách hàng mới, xóa khách hàng đã thanh lý HĐMBĐ, thay đổi nội dung thỏa thuận HĐMBĐ, thay đổi chỉ số công tơ do thay bảo trì, thay ngưng – hư – cháy … nếu có).",
+      "B": "b. Cập nhật chỉ số công tơ từ sổ GCS hoặc từ file dữ liệu chỉ số công tơ.",
+      "C": "c. Kiểm tra chỉ số công tơ để xác minh lại các trường hợp chỉ số bất thường.",
+      "D": "d. Tất cả các câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 23,
+    "question": "Việc lập và quản lý Bảng kê chi tiết hóa đơn tiền điện được quy định như sau:",
+    "options": {
+      "A": "a. Bảng kê hóa đơn tiền điện được lập hàng tháng, được in ra giấy, được ký xác nhận bởi người lập bảng kê hóa đơn tiền điện và lãnh đạo đơn vị (hoặc người được ủy quyền), được lưu trữ trong 10 (mười) năm.",
+      "B": "b. Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong 05 (năm) năm (định dạng file PDF, không được can thiệp, chỉnh sửa) trên hệ thống chương trình CMIS; và được ký chữ ký điện tử của của người lập bảng kê hóa đơn tiền điện và lãnh đạo đơn vị (hoặc người được ủy quyền).",
+      "C": "c. Bảng kê phải được kiểm tra trước khi phát hành. Trường hợp phát hiện dữ liệu trên bảng kê sai phải làm thủ tục hủy bảng kê sai và lập lại bảng kê đúng.",
+      "D": "d. Câu b. và câu c. đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 24,
+    "question": "Hóa đơn tiền điện được phép phát hành khi:",
+    "options": {
+      "A": "a. Dữ liệu trên Bảng kê chi tiết hóa đơn và dữ liệu trên hóa đơn được kiểm tra xác nhận đầy đủ và chính xác.",
+      "B": "b. Sau khi cập nhật chỉ số, lập hóa đơn trên chương trình CMIS.",
+      "C": "c. Sau khi lãnh đạo đơn vị (hoặc người được ủy quyền ký hợp đồng) ký chữ ký điện tử vào bảng kê.",
+      "D": "d. Câu a. và câu c. đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 25,
+    "question": "Trường hợp hóa đơn tiền điện đã phát hành, chưa thu tiền khách hàng nhưng phát hiện có sai sót về chỉ số công tơ, giá bán điện, số hộ dùng chung, … thì phải:",
+    "options": {
+      "A": "a. Thực hiện thủ tục hủy bỏ hóa đơn gồm: lập Phiếu giải trình hủy bỏ hóa đơn, các biên bản liên quan, bản thể hiện hóa đơn và lập bảng kê hủy bỏ.",
+      "B": "b. Thực hiện lập hóa đơn điều chỉnh hoặc thay thế; bắt buộc lập biên bản thỏa thuận với người mua (nếu là tổ chức, doanh nghiệp) trước khi thực hiện hóa đơn điều chỉnh hoặc thay thế. Biên bản này phải ghi rõ sai sót và nội dung điều chỉnh.",
+      "C": "c. Thực hiện thủ tục truy thu thêm phần sản lượng còn thiếu gồm: lập Phiếu giải trình truy thu, các biên bản liên quan, lập hóa đơn truy thu và bảng kê truy thu.",
+      "D": "d. Thực hiện thủ tục thoái hoàn phần sản lượng tính dư gồm: lập Phiếu giải trình thoái hoàn, các biên bản liên quan, lập hóa đơn thoái hoàn và bảng kê thoái hoàn."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 26,
+    "question": "Trường hợp hóa đơn tiền điện đã phát hành, đã thu tiền khách hàng nhưng phát hiện điện năng tiêu thụ bị bỏ sót không tính, điện năng bồi thường do hành vi trộm cắp điện của khách hàng hoặc do công tơ bị mất, hỏng, chạy không chính xác, do sai giá... thì phải:",
+    "options": {
+      "A": "a. Thực hiện thủ tục hủy bỏ hóa đơn gồm: lập Phiếu giải trình hủy bỏ hóa đơn, các biên bản liên quan, bản thể hiện hóa đơn và lập bảng kê hủy bỏ.",
+      "B": "b. Thực hiện thủ tục hủy bỏ - lập lại hóa đơn gồm: lập Phiếu giải trình hủy bỏ - lập lại, các biên bản liên quan, bản thể hiện hóa đơn và lập bảng kê hủy bỏ, lập hóa đơn và bảng kê lập lại.",
+      "C": "c. Thực hiện thủ tục truy thu thêm phần sản lượng còn thiếu gồm: lập phiếu giải trình truy thu; lập biên bản thỏa thuận điều chỉnh hóa đơn (có ký xác nhận của lãnh đạo đơn vị và khách hàng phải truy thu, ưu tiên thực hiện theo phương thức điện tử); lập hóa đơn điều chỉnh tăng (Hóa đơn điện tử điều chỉnh hóa đơn điện tử đã lập sai phải có dòng chữ “Điều chỉnh cho hóa đơn Mẫu số… ký hiệu… số… ngày… tháng… năm”) và bảng kê truy thu; (v) Gửi thông báo với cơ quan thuế theo quy định",
+      "D": "d. Thực hiện thủ tục thoái hoàn phần sản lượng tính dư gồm: lập Phiếu giải trình thoái hoàn, các biên bản liên quan, lập hóa đơn thoái hoàn và bảng kê thoái hoàn."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 27,
+    "question": "Trường hợp hóa đơn tiền điện đã phát hành, đã thu tiền khách hàng nhưng phát hiện ghi lố chỉ số điện năng tiêu thụ trong kỳ của khách hàng thì phải:",
+    "options": {
+      "A": "a. Thực hiện thủ tục hủy bỏ hóa đơn gồm: lập Phiếu giải trình hủy bỏ hóa đơn, các biên bản liên quan, bản thể hiện hóa đơn và lập bảng kê hủy bỏ.",
+      "B": "b. Thực hiện thủ tục hủy bỏ - lập lại hóa đơn gồm: lập Phiếu giải trình hủy bỏ - lập lại, các biên bản liên quan, bản thể hiện hóa đơn và lập bảng kê hủy bỏ, lập hóa đơn và bảng kê lập lại.",
+      "C": "c. Thực hiện thủ tục truy thu thêm phần sản lượng còn thiếu gồm: lập Phiếu giải trình truy thu, các biên bản liên quan, lập hóa đơn điều chỉnh tăng và bảng kê truy thu.",
+      "D": "d. Thực hiện thủ tục thoái hoàn phần sản lượng tính dư gồm: lập phiếu giải trình thoái hoàn; kiểm tra, xác minh lý do thoái hoàn; Lập biên bản thỏa thuận điều chỉnh hóa đơn (có ký xác nhận của lãnh đạo đơn vị và khách hàng được hoàn trả, ưu tiên thực hiện theo phương thức điện tử); lập hóa đơn điều chỉnh giảm (Hóa đơn điện tử điều chỉnh hóa đơn điện tử đã lập sai phải có dòng chữ “Điều chỉnh cho hóa đơn Mẫu số… ký hiệu… số… ngày… tháng… năm”) và bảng kê thoái hoàn; (v) Gửi thông báo với cơ quan thuế theo quy định."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 28,
+    "question": "Yêu cầu quản lý, lưu trữ dữ liệu GCS",
+    "options": {
+      "A": "Dữ liệu GCS dùng để phát hành hóa đơn tiền điện phải được lưu trữ điện tử trong 1 năm (định dạng file PDF, không được can thiệp, chỉnh sửa) có chữ ký điện tử của người quản lý",
+      "B": "Dữ liệu GCS dùng để phát hành hóa đơn tiền điện phải được lưu trữ điện tử trong 3 năm (định dạng file PDF, không được can thiệp, chỉnh sửa) có chữ ký điện tử của người quản lý",
+      "C": "Dữ liệu GCS dùng để phát hành hóa đơn tiền điện phải được lưu trữ điện tử trong 5 năm (định dạng file PDF, không được can thiệp, chỉnh sửa) có chữ ký điện tử của người quản lý",
+      "D": "Dữ liệu GCS dùng để phát hành hóa đơn tiền điện phải được lưu trữ điện tử trong 7 năm (định dạng file PDF, không được can thiệp, chỉnh sửa) có chữ ký điện tử của người quản lý"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 29,
+    "question": "Trường hợp công tơ đặt trong nhà/trong tường rào của khách hàng, nếu sau 02 lần đến không ghi được chỉ số công tơ, cho phép Đơn vị Điện lực tạm tính điện năng tiêu thụ trong kỳ và thông báo cho khách hàng",
+    "options": {
+      "A": "Điện năng tạm tính trong kỳ được tính toán dựa trên chỉ số công tơ được thu thập gần nhất, nhưng không được áp dụng tạm tính quá 02 chu kỳ GCS liên tiếp. Nếu quá 02 chu kỳ liên tiếp mà không ghi được chỉ số công tơ, Đơn vị Điện lực cần thỏa thuận với khách hàng chuyển vị trí lắp đặt công tơ ra ngoài để thuận tiện cho việc GCS.",
+      "B": "Điện năng tạm tính trong kỳ được tính toán dựa trên chỉ số công tơ do khách hàng tự báo, nhưng không được áp dụng tạm tính quá 02 chu kỳ GCS liên tiếp. Nếu quá 02 chu kỳ liên tiếp mà không ghi được chỉ số công tơ, Đơn vị Điện lực cần thỏa thuận với khách hàng chuyển vị trí lắp đặt công tơ ra ngoài để thuận tiện cho việc GCS.",
+      "C": "Điện năng tạm tính trong kỳ được tính toán dựa trên chỉ số công tơ được thu thập gần nhất hoặc chỉ số công tơ do khách hàng tự báo hoặc bằng điện năng tiêu thụ của kỳ trước liền kề, nhưng không được áp dụng tạm tính quá 02 chu kỳ GCS liên tiếp. Nếu quá 02 chu kỳ liên tiếp mà không ghi được chỉ số công tơ, Đơn vị Điện lực cần thỏa thuận với khách hàng chuyển vị trí lắp đặt công tơ ra ngoài để thuận tiện cho việc GCS.",
+      "D": "Điện năng tạm tính trong kỳ được tính toán bằng điện năng tiêu thụ của kỳ trước liền kề, nhưng không được áp dụng tạm tính quá 02 chu kỳ GCS liên tiếp. Nếu quá 02 chu kỳ liên tiếp mà không ghi được chỉ số công tơ, Đơn vị Điện lực cần thỏa thuận với khách hàng chuyển vị trí lắp đặt công tơ ra ngoài để thuận tiện cho việc GCS."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 30,
+    "question": "Cơ sở để thỏa thuận với khách hàng ngoài sinh hoạt thực hiện điều chỉnh số phân kỳ GCS",
+    "options": {
+      "A": "Đối với khách hàng ngoài sinh hoạt, căn cứ sản lượng điện tiêu thụ tháng liền kề trước đó, Đơn vị Điện lực thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo",
+      "B": "Đối với khách hàng ngoài sinh hoạt, căn cứ sản lượng điện tiêu thụ trung bình hàng tháng của quý trước, Đơn vị Điện lực thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo",
+      "C": "Đối với khách hàng ngoài sinh hoạt, căn cứ sản lượng điện tiêu thụ trung bình hàng tháng từ đầu năm đến nay, Đơn vị Điện lực thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo",
+      "D": "Đối với khách hàng ngoài sinh hoạt, căn cứ sản lượng điện tiêu thụ trung bình hàng tháng, Đơn vị Điện lực thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 31,
+    "question": "GCS đối với khách hàng lắp đặt điện mặt trời mái nhà",
+    "options": {
+      "A": "Ngoài việc GCS theo lịch đã được phê duyệt, vào ngày 31/12 hàng năm, Đơn vị Điện lực phải thực hiện GCS điện mặt trời mái nhà phục vụ cho việc quyết toán sản lượng điện năng phát lên lưới trong năm kế toán.",
+      "B": "Ngoài việc GCS theo lịch đã được phê duyệt, vào ngày 01/12 hàng năm, Đơn vị Điện lực phải thực hiện GCS điện mặt trời mái nhà phục vụ cho việc quyết toán sản lượng điện năng phát lên lưới trong năm kế toán.",
+      "C": "Ngoài việc GCS theo lịch đã được phê duyệt, vào ngày 25/12 hàng năm, Đơn vị Điện lực phải thực hiện GCS điện mặt trời mái nhà phục vụ cho việc quyết toán sản lượng điện năng phát lên lưới trong năm kế toán.",
+      "D": "Ngoài việc GCS theo lịch đã được phê duyệt, vào ngày 31/11 hàng năm, Đơn vị Điện lực phải thực hiện GCS điện mặt trời mái nhà phục vụ cho việc quyết toán sản lượng điện năng phát lên lưới trong năm kế toán."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 32,
+    "question": "Quy định về giao nhận dữ liệu GCS",
+    "options": {
+      "A": "Bộ phận GCS xuất dữ liệu GCS từ hệ thống CMIS và giao dữ liệu cho nhân viên trong thời gian không quá 6h trước ngày GCS theo lịch.",
+      "B": "Bộ phận GCS xuất dữ liệu GCS từ hệ thống CMIS và giao dữ liệu cho nhân viên trong thời gian không quá 12h trước ngày GCS theo lịch.",
+      "C": "Bộ phận GCS xuất dữ liệu GCS từ hệ thống CMIS và giao dữ liệu cho nhân viên trong thời gian không quá 24h trước ngày GCS theo lịch.",
+      "D": "Bộ phận GCS xuất dữ liệu GCS từ hệ thống CMIS và giao dữ liệu cho nhân viên trong thời gian không quá 48h trước ngày GCS theo lịch."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 33,
+    "question": "Yêu cầu đối với khách hàng ghi điện trực tiếp",
+    "options": {
+      "A": "Bộ phận GCS có thể thay đổi lộ trình và thời gian ghi điện tại một khu vực/TBA giữa các kỳ GCS",
+      "B": "Yêu cầu bộ phận GCS phải nhất quán lộ trình, thời gian ghi điện tại một khu vực/TBA giữa các kỳ GCS tránhgây biến động sản lượng do chênh lệch về thời gian ghi giữa các kỳ",
+      "C": "Bộ phận GCS có thể tùy ý đi theo lộ trình và thời gian ghi điện tại một khu vực/TBA giữa các kỳ GCS",
+      "D": "Yêu cầu bộ phận GCS phải đi theo lộ trình từ công tơ tổng TBA CC đến công tơ khách hàng tại các nhánh rẻ trong một TBA CC giữa các kỳ GCS tránh gây biến động sản lượng do chênh lệch về thời gian ghi giữa các kỳ"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 34,
+    "question": "Bộ ký hiệu (code) trong CMIS xác định tình trạng khách hàng vắng nhà không GCS được",
+    "options": {
+      "A": "U",
+      "B": "Q",
+      "C": "H",
+      "D": "V"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 35,
+    "question": "Bộ ký hiệu (code) trong CMIS xác định tình trạng khách hàng không sử dụng điện",
+    "options": {
+      "A": "T",
+      "B": "U",
+      "C": "Y",
+      "D": "L"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 36,
+    "question": "Bộ ký hiệu (code) trong CMIS xác định tình trạng chỉ số vượt (lố) so với chỉ số thực tế",
+    "options": {
+      "A": "Q",
+      "B": "T",
+      "C": "L",
+      "D": "Y"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 37,
+    "question": "Yêu cầu giải quyết khi có sai sót liên quan đến chỉ số công tơ, hóa đơn tiền điện khách hàng",
+    "options": {
+      "A": "Tất cả các sai sót liên quan đến chỉ số, hóa đơn tiền điện phải được tiếp nhận, kiểm tra, có biên bản làm việc với khách hàng",
+      "B": "Tất cả các sai sót liên quan đến chỉ số, hóa đơn tiền điện phải được tiếp nhận, kiểm tra, có biên bản làm việc với khách hàng và tiến hành các thủ tục truy thu/thoái hoàn tiền điện (nếu có) cho khách hàng theo đúng quy định",
+      "C": "Tùy thuộc vào sai sót liên quan đến chỉ số, hóa đơn tiền điện để tiếp nhận, kiểm tra, có biên bản làm việc với khách hàng và tiến hành các thủ tục truy thu/thoái hoàn tiền điện (nếu có) cho khách hàng theo đúng quy định. Nghiêm cấm các trường hợp CBCNV tự ý thỏa thuận bù trừ tiền điện với khách hàng.",
+      "D": "Tất cả các sai sót liên quan đến chỉ số, hóa đơn tiền điện phải được tiếp nhận, kiểm tra, có biên bản làm việc với khách hàng và tiến hành các thủ tục truy thu/thoái hoàn tiền điện (nếu có) cho khách hàng theo đúng quy định. Nghiêm cấm các trường hợp CBCNV tự ý thỏa thuận bù trừ tiền điện với khách hàng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 38,
+    "question": "Thời gian khách hàng nhận được thông báo chỉ số công tơ là bao lâu",
+    "options": {
+      "A": "Khách hàng được thông báo chỉ số công tơ trong thời gian ≤ 48 giờ sau khi kết thúc GCS.",
+      "B": "Khách hàng được thông báo chỉ số công tơ trong thời gian ≤ 12 giờ sau khi kết thúc GCS. Trường hợp khách hàng thuộc khu vực miền núi, hải đảo, vùng sâu, vùng xa, cho phép Đơn vị Điện lực lùi thời gian thông báo chỉ số nhưng không quá 24 giờ sau khi kết thúc GCS",
+      "C": "Khách hàng được thông báo chỉ số công tơ trong thời gian ≤ 24 giờ sau khi kết thúc GCS. Trường hợp khách hàng thuộc khu vực miền núi, hải đảo, vùng sâu, vùng xa, cho phép Đơn vị Điện lực lùi thời gian thông báo chỉ số nhưng không quá 48 giờ sau khi kết thúc GCS",
+      "D": "Khách hàng được thông báo chỉ số công tơ trong thời gian ≤ 48 giờ sau khi kết thúc GCS. Trường hợp khách hàng thuộc khu vực miền núi, hải đảo, vùng sâu, vùng xa, cho phép Đơn vị Điện lực lùi thời gian thông báo chỉ số nhưng không quá 72 giờ sau khi kết thúc GCS"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 39,
+    "question": "Khi thay đổi lịch GCS về ngày cuối tháng thì thời điểm ghi chỉ số công tơ của khách hàng có điện năng tiêu thụ dưới 50.000 kWh/tháng như thế nào?",
+    "options": {
+      "A": "a. Ghi lúc 24h00 ngày cuối cùng của mỗi tháng đối với khách hàng TCD và ghi vào đúng ngày cuối tháng đối với khách hàng TCC",
+      "B": "b. Ghi lúc 0 giờ ngày 10 hàng tháng.",
+      "C": "c. Ghi lúc 0 giờ ngày 20 hàng tháng.",
+      "D": "d. Ghi lúc 0 giờ ngày 30 hàng tháng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 40,
+    "question": "Hóa đơn tiền điện là gì",
+    "options": {
+      "A": "Là hóa đơn tiền điện năng tác dụng và là chứng từ pháp lý do Bên bán điện lập, ghi nhận thông tin bán điện theo quy định của pháp luật, là cơ sở để Bên mua điện thanh toán tiền cho Bên bán điện",
+      "B": "Hóa đơn tiền điện năng tác dụng và hóa đơn tiền công suất phản kháng được gọi chung là hóa đơn tiền điện, là chứng từ pháp lý do Bên bán điện lập, ghi nhận thông tin bán điện theo quy định của pháp luật, là cơ sở để Bên mua điện thanh toán tiền cho Bên bán điện",
+      "C": "Là hóa đơn tiền công suất phản kháng và là chứng từ pháp lý do Bên bán điện lập, ghi nhận thông tin bán điện theo quy định của pháp luật, là cơ sở để Bên mua điện thanh toán tiền cho Bên bán điện",
+      "D": "Cả hai câu a và b đều đúng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 41,
+    "question": "Việc lập hóa đơn tiền điện căn cứ vào nội dung nào sau đây",
+    "options": {
+      "A": "- HĐMBĐ; - Biên bản treo tháo các thiết bị đo đếm điện (công tơ, CT, VT...);",
+      "B": "- HĐMBĐ; - Biên bản treo tháo các thiết bị đo đếm điện (công tơ, CT, VT...); - Dữ liệu GCS công tơ;",
+      "C": "- HĐMBĐ; - Biên bản treo tháo các thiết bị đo đếm điện (công tơ, CT, VT...); - Dữ liệu GCS công tơ; - Giá bán điện, thuế suất GTGT của các cơ quan Nhà nước có thẩm quyền quy định;",
+      "D": "- HĐMBĐ; - Biên bản treo tháo các thiết bị đo đếm điện (công tơ, CT, VT...); - Dữ liệu GCS công tơ; - Giá bán điện, thuế suất GTGT của các cơ quan Nhà nước có thẩm quyền quy định; - Các biên bản truy thu, thoái hoàn hoặc bồi thường về sự cố HTĐĐ (CT, VT, công tơ cháy, hỏng, không chính xác), các trường hợp vi phạm sử dụng điện (nếu có)."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 42,
+    "question": "Yêu cầu đối với việc lập hóa đơn tiền điện",
+    "options": {
+      "A": "- Các chữ, số trên hóa đơn tiền điện phải rõ ràng, đủ nét; - Khách hàng lắp 01 công tơ cho nhiều mục đích sử dụng điện hoặc trong kỳ GCS có thay đổi giá điện hóa đơn tiền điện phải ghi chi tiết sản lượng điện tiêu thụ và tiền điện theo từng loại giá; - Đối với Khách hàng ký 01 HĐMBĐ có nhiều công tơ, Đơn vị Điện lực phát hành 01 hóa đơn tiền điện ghi tổng tiền điện của tất cả các công tơ, kèm theo phụ lục chi tiết tiền điện của từng công tơ; - Trường hợp thay đổi HTĐĐ, hóa đơn tiền điện phải thể hiện riêng chỉ số và sản lượng của từng công tơ tháo và công tơ treo; - Các thông tin về lịch GCS, tình trạng GCS (tạm tính, khách hàng báo chỉ số, công tơ kẹt, công tơ qua vòng…) cần được thể hiện rõ ràng trên HĐĐT và thông báo tiền điện.",
+      "B": "- Các chữ, số trên hóa đơn tiền điện phải rõ ràng, đủ nét; - Khách hàng lắp 01 công tơ cho nhiều mục đích sử dụng điện hoặc trong kỳ GCS có thay đổi giá điện hóa đơn tiền điện phải ghi chi tiết sản lượng điện tiêu thụ và tiền điện theo từng loại giá; - Đối với Khách hàng ký 01 HĐMBĐ có nhiều công tơ, Đơn vị Điện lực phát hành 01 hóa đơn tiền điện ghi tổng tiền điện của tất cả các công tơ, kèm theo phụ lục chi tiết tiền điện của từng công tơ; - Trường hợp thay đổi HTĐĐ, hóa đơn tiền điện phải thể hiện riêng chỉ số và sản lượng của từng công tơ tháo và công tơ treo;",
+      "C": "- Các chữ, số trên hóa đơn tiền điện phải rõ ràng, đủ nét; - Khách hàng lắp 01 công tơ cho nhiều mục đích sử dụng điện hoặc trong kỳ GCS có thay đổi giá điện hóa đơn tiền điện phải ghi chi tiết sản lượng điện tiêu thụ và tiền điện theo từng loại giá; - Đối với Khách hàng ký 01 HĐMBĐ có nhiều công tơ, Đơn vị Điện lực phát hành 01 hóa đơn tiền điện ghi tổng tiền điện của tất cả các công tơ, kèm theo phụ lục chi tiết tiền điện của từng công tơ;",
+      "D": "- Các chữ, số trên hóa đơn tiền điện phải rõ ràng, đủ nét; - Khách hàng lắp 01 công tơ cho nhiều mục đích sử dụng điện hoặc trong kỳ GCS có thay đổi giá điện hóa đơn tiền điện phải ghi chi tiết sản lượng điện tiêu thụ và tiền điện theo từng loại giá;"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 43,
+    "question": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong bao nhiêu năm (định dạng file PDF, không được can thiệp, chỉnh sửa)",
+    "options": {
+      "A": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong 01 (một) năm (định dạng file PDF, không được can thiệp, chỉnh sửa)",
+      "B": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong 03 (ba) năm (định dạng file PDF, không được can thiệp, chỉnh sửa)",
+      "C": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong 05 (năm) năm (định dạng file PDF, không được can thiệp, chỉnh sửa)",
+      "D": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong 07 (bảy) năm (định dạng file PDF, không được can thiệp, chỉnh sửa)"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 44,
+    "question": "Hóa đơn điện tử được chuyển đổi sang hóa đơn giấy 01 (một) lần trong các trường hợp cần có chứng từ hóa đơn giấy nào sau đây",
+    "options": {
+      "A": "Khi có yêu cầu nghiệp vụ kinh tế, tài chính phát sinh",
+      "B": "Theo yêu cầu của cơ quan quản lý thuế, cơ quan kiểm toán, thanh tra, kiểm tra, điều tra",
+      "C": "Theo quy định của pháp luật về thanh tra, kiểm tra, điều tra",
+      "D": "Tất cả trường hợp trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 45,
+    "question": "Việc ngừng sử dụng hoá đơn đang áp dụng được thực hiện trong các trường hợp nào sau đây:",
+    "options": {
+      "A": "Hết dải số hoá đơn đã khởi tạo.",
+      "B": "Thông báo phát hành hóa đơn mới.",
+      "C": "Thông báo phát hành mẫu hoá đơn thay thế.",
+      "D": "Cả 03 trường hợp trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 46,
+    "question": "Việc giao nhận dữ liệu hóa đơn, Biên nhận thanh toán như thế nào",
+    "options": {
+      "A": "Việc giao nhận được xác nhận trên hệ thống CMIS giữa bên giao và bên nhận, trong đó bảng kê giao nhận phải có đầy đủ thông tin: Số lượng hóa đơn, số tiền",
+      "B": "Việc giao nhận được xác nhận trên hệ thống CMIS giữa bên giao và bên nhận, trong đó bảng kê giao nhận phải có đầy đủ thông tin: Số lượng hóa đơn, số tiền, người giao nhận, ngày, tháng, năm giao nhận.",
+      "C": "Việc giao nhận được xác nhận trên hệ thống CMIS giữa bên giao và bên nhận, trong đó bảng kê giao nhận phải có đầy đủ thông tin: Số lượng hóa đơn, số tiền, người giao nhận",
+      "D": "Việc giao nhận được xác nhận trên hệ thống CMIS giữa bên giao và bên nhận, trong đó bảng kê giao nhận phải có đầy đủ thông tin: Số lượng hóa đơn, người giao nhận, ngày, tháng, năm giao nhận."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 47,
+    "question": "Ký hiệu mẫu số hoá đơn:",
+    "options": {
+      "A": "Ký hiệu mẫu số hoá đơn: Gồm 7 ký tự - 02 ký tự đầu thể hiện loại hoá đơn. - 04 ký tự tiếp theo thể hiện tên hoá đơn. - 01 ký tự tiếp theo thể hiện số liên của hóa đơn là “0”.",
+      "B": "Ký hiệu mẫu số hoá đơn: Gồm 8 ký tự - 02 ký tự đầu thể hiện loại hoá đơn. - 04 ký tự tiếp theo thể hiện tên hoá đơn. - 01 ký tự tiếp theo thể hiện số liên của hóa đơn là “0”. - 01 ký tự tiếp theo là dấu “/” để phân biệt số liên với số thứ tự của mẫu trong một loại hóa đơn.",
+      "C": "Ký hiệu mẫu số hoá đơn: Gồm 11 ký tự - 02 ký tự đầu thể hiện loại hoá đơn. - 04 ký tự tiếp theo thể hiện tên hoá đơn. - 01 ký tự tiếp theo thể hiện số liên của hóa đơn là “0”. - 01 ký tự tiếp theo là dấu “/” để phân biệt số liên với số thứ tự của mẫu trong một loại hóa đơn. - 03 ký tự tiếp theo là số thứ tự của mẫu trong một loại hóa đơn.",
+      "D": "Ký hiệu mẫu số hóa đơn gồm một chữ số tự nhiên để phản ánh loại hóa đơn,trong đó đối với hóa đơn giá trị gia tăng: 1"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 48,
+    "question": "Ký hiệu hoá đơn gồm mấy ký tự",
+    "options": {
+      "A": "Ký hiệu hoá đơn: Gồm 02 ký tự - 02 ký tự đầu để phân biệt các ký hiệu hóa đơn. Ký tự phân biệt là hai chữ cái trong 20 chữ cái in hoa của bảng chữ cái tiếng Việt bao gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y.",
+      "B": "Ký hiệu hoá đơn: Gồm 03 ký tự - 02 ký tự đầu để phân biệt các ký hiệu hóa đơn. Ký tự phân biệt là hai chữ cái trong 20 chữ cái in hoa của bảng chữ cái tiếng Việt bao gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y. - Ký tự tiếp theo là dấu “/”.",
+      "C": "Ký hiệu hóa đơn gồm 06 ký tự chữ viết và chữ số thể hiện ký hiệu hóa đơn được quy định như sau: - Ký tự đầu tiên là một (01) chữ cái được quy định là K để thể hiện hóa đơn điện tử loại không có mã của cơ quan thuế. - Hai ký tự tiếp theo là 2 chữ số Ả rập thể hiện năm lập hóa đơn điện tử được xác định theo 2 chữ số cuối của năm dương lịch. - Một ký tự tiếp theo là một (01) chữ cái được quy định thể hiện loại hóa đơn điện tử được sử dụng, cụ thể: Chữ T: Áp dụng đối với hóa đơn điện tử do các doanh nghiệp, tổ chức, hộ, cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế. - Hai ký tự cuối là chữ viết do các TCTĐL quy định căn cứ theo nhu cầu quản lý",
+      "D": "Ký hiệu hoá đơn: Gồm 08 ký tự - 02 ký tự đầu để phân biệt các ký hiệu hóa đơn. Ký tự phân biệt là hai chữ cái trong 20 chữ cái in hoa của bảng chữ cái tiếng Việt bao gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y. - Ký tự tiếp theo là dấu “/”. - 05 ký tự cuối cùng thể hiện năm tạo hoá đơn và hình thức hoá đơn, ký hiệu của hình thức hoá đơn là E"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 49,
+    "question": "Số thứ tự hoá đơn, ghi bằng chữ số Ả - rập, bao gồm bao nhiêu chữ số",
+    "options": {
+      "A": "Số thứ tự hoá đơn: Ghi bằng dãy Ả - rập, bao gồm 5 chữ số",
+      "B": "Số thứ tự hóa đơn được ghi bằng chữ số Ả-rập có tối đa 8 chữ số",
+      "C": "Số thứ tự hoá đơn: Ghi bằng Ả - rập, bao gồm 3 chữ số",
+      "D": "Số thứ tự hoá đơn: Ả - rập, bao gồm 9 chữ số"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 50,
+    "question": "Công tác thu và theo dõi nợ các khoản tiền bao gồm",
+    "options": {
+      "A": "Công tác thu và theo dõi nợ các khoản tiền bao gồm: Tiền điện, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền điện do khách hàng ứng trước, tiền lãi do chậm trả, tiền bồi thường thiệt hại, tiền phạt do vi phạm HĐMBĐ, phí ngừng giảm cung cấp điện (nếu có); theo dõi các khoản nợ theo từng đối tượng nợ; phân loại các khoản nợ (nợ chưa đến hạn thanh toán, nợ đến hạn thanh toán, nợ đã quá hạn thanh toán, nợ khó đòi, nợ không có khả năng thu hồi); đôn đốc thu hồi nợ; định kỳ đối chiếu công nợ được gọi chung là công tác thu và theo dõi nợ tiền điện.",
+      "B": "Tiền điện năng tác dụng, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền điện do khách hàng ứng trước, , tiền phạt do vi phạm HĐMBĐ, phí ngừng giảm cung cấp điện; theo dõi các khoản nợ theo từng đối tượng nợ; phân loại các khoản nợ (nợ chưa đến hạn thanh toán, nợ đến hạn thanh toán, nợ đã quá hạn thanh toán, nợ khó đòi, nợ không có khả năng thu hồi); đôn đốc thu hồi nợ; định kỳ đối chiếu công nợ được gọi chung là công tác thu và theo dõi nợ tiền điện",
+      "C": "Tiền điện năng tác dụng, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền điện do khách hàng ứng trước, tiền lãi do chậm trả, tiền bồi thường thiệt hại, tiền phạt do vi phạm HĐMBĐ, phí ngừng giảm cung cấp điện; theo dõi các khoản nợ theo từng đối tượng nợ; định kỳ đối chiếu công nợ được gọi chung là công tác thu và theo dõi nợ tiền điện",
+      "D": "Theo nhu cầu của tổ chức bán lẻ điện năng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 51,
+    "question": "Công tác thu và theo dõi nợ được thực hiện bằng chương trình:",
+    "options": {
+      "A": "Chương trình MMIS",
+      "B": "Chương trình CMIS",
+      "C": "",
+      "D": ""
+    },
+    "answer": "2"
+  },
+  {
+    "number": 52,
+    "question": "Khi quyết toán tiền điện phải đối chiếu",
+    "options": {
+      "A": "Số tiền mặt, tiền trong tài khoản đã thu được của đơn vị",
+      "B": "Số tiền chưa thu được",
+      "C": "Số hóa đơn, biên nhận tiền điện đã thu và chưa thu",
+      "D": "Cả 3 câu trên đều đúng,"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 53,
+    "question": "Một người được làm đồng thời 02 nhiệm vụ trong các nhiệm vụ sau: Thu ngân viên, theo dõi nợ, quyết toán tiền điện",
+    "options": {
+      "A": "Sai",
+      "B": "Đúng",
+      "C": "",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 54,
+    "question": "Kho dữ liệu nợ tập trung của TCTĐL và kết nối với các Tổ chức trung gian thu hộ tiền điện các loại tiền",
+    "options": {
+      "A": "Tiền điện năng tác dụng, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền lãi do chậm trả, tiền bồi thường thiệt hại, tiền phạt do vi phạm HĐMBĐ, phí ngừng giảm cung cấp điện (nếu có)",
+      "B": "Tiền điện năng tác dụng, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền lãi do chậm trả, tiền bồi thường thiệt hại, tiền phạt do vi phạm HĐMBĐ.",
+      "C": "Tiền điện năng tác dụng, tiền công suất phản kháng của khách hàng, tiền thuế GTGT, tiền phạt do vi phạm HĐMBĐ, phí ngừng giảm cung cấp điện",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 55,
+    "question": "Cần làm việc với khách hàng để thực hiện thanh toán qua ngân hàng đối với các khoản nợ có giá trị thanh toán từ",
+    "options": {
+      "A": "10.000.000 đồng trở lên",
+      "B": "20.000.000 đồng trở lên",
+      "C": "30.000.000 đồng trở lên",
+      "D": ""
+    },
+    "answer": "2"
+  },
+  {
+    "number": 56,
+    "question": "Bảo lãnh bảo đảm thực hiện hợp đồng của các tổ chức trung gian thu tiền điện phải là bảo lãnh:",
+    "options": {
+      "A": "Bảo lãnh vô điều kiện",
+      "B": "Bảo lãnh không hủy ngang.",
+      "C": "Có hiệu lực trong suốt thời gian thực hiện hợp đồng.",
+      "D": "Cả 3 điều kiện trên."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 57,
+    "question": "Sau khi khách hàng hoàn thành việc thanh toán, tổ chức trung gian phải gửi xác nhận thanh toán thành công bằng:",
+    "options": {
+      "A": "Gửi xác nhận qua các hình thức điện tử.",
+      "B": "Trả biên nhận thanh toán.",
+      "C": "Không cần xác nhận.",
+      "D": "Tùy hình thức thanh toán, xác nhận theo A hoặc"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 58,
+    "question": "Các Tổ chức trung gian thu hộ tiền điện phải có giấy phép",
+    "options": {
+      "A": "Cung cấp dịch vụ trung gian thanh toán được Ngân hàng Nhà nước cấp",
+      "B": "Kho bạc và VNPost không nhất thiết phải có giấy phép này",
+      "C": "Cả 2 câu A, B đều đúng",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 59,
+    "question": "Trường hợp ký hợp đồng lần đầu, các Tổ chức trung gian phải bảo lãnh số tiền",
+    "options": {
+      "A": "Không thấp hơn 300.000.000 đồng",
+      "B": "Không không thấp hơn 400.000.000 đồng",
+      "C": "Không không thấp hơn 500.000.000 đồng",
+      "D": ""
+    },
+    "answer": "2"
+  },
+  {
+    "number": 60,
+    "question": "Bộ phận quản lý thu tiền tiếp nhận và phối hợp với các bộ phận nghiệp vụ có liên quan giải quyết kịp thời các ý kiến của bộ phận thu tiền về",
+    "options": {
+      "A": "Hoá đơn",
+      "B": "Giá bán điện",
+      "C": "Công tác thu tiền.",
+      "D": "D. Trả lời các phản ánh của khách hàng",
+      "E": "E. Tất cả các công tác trên"
+    },
+    "answer": "5"
+  },
+  {
+    "number": 61,
+    "question": "Bộ phận TCKT có trách nhiệm theo dõi nợ tổng hợp, kiểm tra, đối chiếu công nợ",
+    "options": {
+      "A": "Hàng tháng",
+      "B": "Hàng quý",
+      "C": "Hàng năm.",
+      "D": "Cả 3 câu A,B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 62,
+    "question": "Việc đối chiếu, xác nhận chi tiết số liệu tiền điện đã thu, đã xóa nợ trên chương trình CMIS giữa bộ phận kinh doanh (bộ phận thu ngân) và bộ phận TCKT được thực hiện:",
+    "options": {
+      "A": "Định kỳ hàng tuần, tháng, quý.",
+      "B": "Định kỳ hàng năm",
+      "C": "Định kỳ 6 tháng",
+      "D": "Hàng ngày"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 63,
+    "question": "Quyết toán số tiền thực thu theo định kỳ:",
+    "options": {
+      "A": "Hàng ngày.",
+      "B": "Hàng tháng.",
+      "C": "Hàng năm.",
+      "D": "Cả 3 câu trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 64,
+    "question": "Để kịp thời thực hiện công tác chấm xóa nợ của khách hàng, nhân viên chấm nợ thực hiện xóa nợ trên chương trình CMIS khi:",
+    "options": {
+      "A": "Nhận được Giấy báo có, sổ phụ từ bộ phận kế toán chuyển sang.",
+      "B": "Bảng sao kê in từ chương trình quản lý tài khoản điện lực (dữ liệu trên Internet Banking).",
+      "C": "Bảng sao kê in từ chương trình quản lý tài khoản điện lực (dữ liệu trên Internet Banking) có ký xác nhận của Trưởng phòng Kế toán.",
+      "D": "Cả 3 đáp án trên đều đúng."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 65,
+    "question": "Nhiệm vụ theo dõi nợ bao gồm:",
+    "options": {
+      "A": "Ghi nợ.",
+      "B": "Chấm nợ.",
+      "C": "Xóa nợ và theo dõi nợ",
+      "D": "Cả 3 đáp án trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 66,
+    "question": "Các khoản nợ phải thu khó đòi bao gồm:",
+    "options": {
+      "A": "Nợ tiền điện phải thu đã quá thời hạn thanh toán từ 06 tháng trở lên (tính theo thời hạn thanh toán thỏa thuận trong HĐMBĐ hoặc các cam kết nợ khác, không tính đến thời gian gia hạn trả nợ giữa các bên), Đơn vị Điện lực đã gửi đối chiếu xác nhận nợ hoặc đôn đốc thanh toán nhưng vẫn chưa thu hồi được nợ.",
+      "B": "Nợ tiền điện phải thu chưa đến hạn thanh toán nhưng có các bằng chứng xác định đối tượng nợ có khả năng không trả được nợ đúng hạn: i) Đối tượng nợ là các tổ chức kinh tế đã phá sản, đã mở thủ tục phá sản, đã trốn khỏi địa điểm kinh doanh. Đối tượng nợ là cá nhân đang bị các cơ quan pháp luật truy tố, giam giữ, xét xử hoặc đang thi hành án hoặc đang mắc bệnh hiểm nghèo (có xác nhận của bệnh viện) hoặc đã chết; ii) Đã yêu cầu thi hành án nhưng không thể thực hiện được do đối tượng nợ bỏ trốn khỏi nơi cư trú; iii) Đã khởi kiện đòi nợ nhưng bị đình chỉ giải quyết vụ án.",
+      "C": "Cả hai a và b đều đúng.",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 67,
+    "question": "Việc tổ chức thực hiện thu tiền điện phải đảm bảo:",
+    "options": {
+      "A": "Thuận lợi cho khách hàng thanh toán theo mọi hình thức đã thỏa thuận với khách hàng. Khuyến khích khách hàng thanh toán bằng các hình thức không dùng tiền mặt.",
+      "B": "Thanh quyết toán giữa dữ liệu hóa đơn, biên nhận thanh toán in sẵn (nếu có), với số tiền thu được theo thời gian quy định và báo cáo với lãnh đạo đơn vị những biến động bất thường.",
+      "C": "Thu đúng thời gian và số lần thu trong tháng theo HĐMBĐ đã ký kết hoặc đã thỏa thuận với khách hàng.",
+      "D": "Cả 3 câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 68,
+    "question": "Vận động khách hàng thực hiện thanh toán tiền điện qua ngân hàng bằng hình thức:",
+    "options": {
+      "A": "Trích nợ tự động.",
+      "B": "Ủy nhiệm chi, ủy nhiệm thu, nộp tiền tại quầy thu ngân hàng, các điểm giao dịch bưu cục.",
+      "C": "Qua các tổ chức trung gian như VNPay, Viettel, MOMO....",
+      "D": "Bao gồm các đáp án trên."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 69,
+    "question": "Nội dung của Điều 48 của Luật Điện lực có quy định về việc xem xét lại số tiền điện phải thanh toán như sau:",
+    "options": {
+      "A": "Bên mua điện không phải thanh toán tiền điện và bên bán điện không được ngừng cấp điện.",
+      "B": "Trong thời gian yêu cầu của bên mua điện chưa được giải quyết, bên mua điện vẫn phải thanh toán tiền điện và bên bán điện không được ngừng cấp điện.",
+      "C": "Bên bán điện có quyền ngừng cấp điện ngay lập tức.",
+      "D": "Nếu bên mua điện không thanh toán tiền điện thì bên bán điện có quyền ngừng cấp điện ngay."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 70,
+    "question": "Thực hiện theo dõi nợ phải căn cứ vào:",
+    "options": {
+      "A": "Bảng kê chi tiết hoá đơn của bộ phận lập hoá đơn đã được lãnh đạo đơn vị duyệt.",
+      "B": "Chứng từ thanh toán.",
+      "C": "Cả 2 câu trên đều sai.",
+      "D": "Cả 2 câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 71,
+    "question": "Các chứng từ của ngân hàng (báo có, sổ phụ, phát sinh giao dịch in từ website ngân hàng…) trước khi gửi Bộ phận Thu ngân xóa nợ. Phòng TCKT phải ký xác nhận bởi:",
+    "options": {
+      "A": "Trưởng Phòng TCKT.",
+      "B": "Trưởng Phòng TCKT hoặc người được ủy quyền.",
+      "C": "Chuyên viên kế toán thu tiền điện.",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 72,
+    "question": "Quyết toán tiền điện phải có các bộ phận:",
+    "options": {
+      "A": "Quản lý hóa đơn.",
+      "B": "Tài chính kế toán.",
+      "C": "Chấm xóa nợ.",
+      "D": "Cả 3 bộ phận trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 73,
+    "question": "Nhiệm vụ theo dõi nợ do?",
+    "options": {
+      "A": "Bộ phận kinh doanh thực hiện.",
+      "B": "Bộ phận tài chính kế toán thực hiện.",
+      "C": "Bộ phận kinh doanh và tài chính kế toán cùng thực hiện.",
+      "D": "Cả 3 đáp án trên đều đúng."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 74,
+    "question": "Đối với tổ chức trung gian thu tiền điện là ngân hàng, phải đảm bảo yêu cầu:",
+    "options": {
+      "A": "Theo quy định của Bộ luật dân sự, các quy định của pháp luật liên quan, quy trình giao dịch khách hàng và tuân thủ theo các nội dung Quy trình và các quy chế quản lý nội bộ của EVN.",
+      "B": "Tiền điện do khách hàng thanh toán phải được chuyển ngay vào tài khoản của Điện lực.",
+      "C": "Trường hợp Ngân hàng hợp tác với bên thứ 3 mở điểm thu, kênh dịch vụ thu tiền mới, phải thông báo và được sự đồng ý của Đơn vị Điện lực trước khi triển khai thực hiện",
+      "D": "Cả 3 yêu cầu trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 75,
+    "question": "Hàng quý, thực hiện đối chiếu công nợ và lập biên bản xác nhận nợ đối với những khách hàng",
+    "options": {
+      "A": "Nợ ≥ 50 triệu đồng không kể kỳ hóa đơn cuối cùng của quý phát sinh nợ",
+      "B": "Nợ < 50 triệu đồng",
+      "C": "Mở rộng việc xác nhận nợ đối với các khách hàng nợ dưới 50 triệu đồng cho phù hợp",
+      "D": "Câu A, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 76,
+    "question": "Căn cứ xác định khoản nợ phải thu khó đòi",
+    "options": {
+      "A": "Nợ tiền điện phải thu đã quá thời hạn thanh toán từ 06 tháng trở lên",
+      "B": "Nợ tiền điện phải thu chưa đến hạn thanh toán nhưng có các bằng chứng xác định đối tượng nợ có khả năng không trả được nợ đúng hạn",
+      "C": "Câu A, B",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 77,
+    "question": "Quy trình Kinh Doanh tại Quyết định 1370 /QĐ-PCĐN về việc áp dụng QĐ số 94/QĐ-HĐTV ngày 05/06/2025 quy định nguyên tắc chung về thu, nộp, quyết toán tiền điện",
+    "options": {
+      "A": "Thu, nộp đúng và đủ số tiền trong biên nhận thanh toán, hoá đơn đã phát hành, không để tồn đọng, thực hiện thanh quyết toán kịp thời. Việc quyết toán tiền điện phải có đủ 3 bộ phận: Quản lý hóa đơn; Tài chính kế toán; theo dõi nợ",
+      "B": "Khi quyết toán phải đối chiếu: Số tiền mặt, tiền trong tài khoản đã thu được của đơn vị; Số tiền chưa thu được; Số hóa đơn, biên nhận tiền điện đã thu và chưa thu",
+      "C": "Cả A và B",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 78,
+    "question": "Quy trình Kinh Doanh tại Quyết định 1370 /QĐ-PCĐN về việc áp dụng QĐ số 94/QĐ-HĐTV ngày 05/06/2025 quy định nhiệm vụ của bộ phận theo dõi nợ do đơn vị nào thưc hiện",
+    "options": {
+      "A": "Nhiệm vụ theo dõi nợ do các bộ phận kinh doanh và TCKT cùng thực hiện.",
+      "B": "Bộ phận kinh doanh có trách nhiệm theo dõi ghi nợ, chấm nợ, xoá nợ chi tiết từng khách hàng, phân loại các khoản nợ (nợ chưa đến hạn thanh toán, nợ đến hạn thanh toán, nợ đã quá hạn thanh toán, nợ khó đòi, nợ không có khả năng thu hồi), đôn đốc thu hồi nợ.",
+      "C": "Bộ phận TCKT có trách nhiệm theo dõi nợ tổng hợp, kiểm tra, đối chiếu công nợ hàng tháng, quý, năm với bộ phận kinh doanh.",
+      "D": "Cả A, B và C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 79,
+    "question": "Tiền điện sau khi khách hàng thanh toán qua tổ chức trung gian phải được chuyển vào tài khoản của",
+    "options": {
+      "A": "Đối tác thứ 3",
+      "B": "Công ty",
+      "C": "Điện lực/ Đội quản lý Điện",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 80,
+    "question": "Trường hợp Ngân hàng hợp tác với bên thứ 3 mở điểm thu, kênh dịch vụ thu tiền mới, phải:",
+    "options": {
+      "A": "Thông báo và chờ được sự đồng ý của Đơn vị Điện lực trước khi triển khai thực hiện",
+      "B": "Thông báo và không cần đồng ý của Đơn vị Điện lực trước khi triển khai thực hiện",
+      "C": "Không cần thông báo Đơn vị Điện lực trước khi triển khai thực hiện",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 81,
+    "question": "Bộ phận quản lý thu tiền điện báo cáo lãnh đạo Đơn vị Điện lực về tổng số tiền thu được hàng ngày, hàng tháng, hàng năm.",
+    "options": {
+      "A": "Hàng ngày",
+      "B": "Hàng tháng",
+      "C": "Hàng năm.",
+      "D": "Cả A, B và C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 82,
+    "question": "Chứng từ đã xoá nợ được lưu đảm bảo dễ tìm, dễ đối chiếu kiểm tra. Thời gian lưu bảng kê hóa đơn, bảng kê của ngân hàng bên là",
+    "options": {
+      "A": "1 năm",
+      "B": "2 năm",
+      "C": "Như chứng từ tài chính",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 83,
+    "question": "Kiểm tra định kỳ hoặc đột xuất việc theo dõi chi tiết công nợ, tổ chức thanh tra, kiểm tra việc xác nhận nợ, đặc biệt với khách hàng nợ trên 02 hoá đơn.",
+    "options": {
+      "A": "Bộ phận kinh doanh thực hiện.",
+      "B": "Bộ phận TCKT thực hiện",
+      "C": "Bộ phận kinh doanh có trách nhiệm phối hợp TCKT thực hiện.",
+      "D": "Bộ phận TCKT có trách nhiệm phối hợp Kinh doanh thực hiện."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 84,
+    "question": "Trường hợp khách hàng thanh toán trùng lặp cho một hóa đơn",
+    "options": {
+      "A": "Hoàn trả lại tiền đã thu thừa cho khách hàng.",
+      "B": "Thông báo cho khách hàng và chuyển số tiền thu thừa bù trừ cho hóa đơn phát sinh của các kỳ tiếp theo.",
+      "C": "Lựa chọn A hoặc B tùy yêu cầu của khách hàng",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 85,
+    "question": "Trường hợp để xảy ra sai phạm tại đơn vị, lãnh đạo đơn vị phải chịu các hình thức kỷ luật",
+    "options": {
+      "A": "Theo quy định của Công ty",
+      "B": "Theo quy định của EVN.",
+      "C": "Theo quy định của Pháp luật và của EVN.",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 86,
+    "question": "Hàng năm, thực hiện kiểm kê số dư nợ theo sổ sách với số hoá đơn tồn thu và số dư nợ thực tế. Đối với từng khách hàng còn nợ tiền điện quá hạn theo thỏa thuận trong hợp đồng mua bán điện",
+    "options": {
+      "A": "Phải lập biên bản xác nhận nợ tại thời điểm 31/12.",
+      "B": "Phải lập biên bản xác nhận nợ tại thời điểm 31/12 với khách hàng nợ quá hạn trên 50 triệu đồng",
+      "C": "Không cần lập biên bản xác nhận nợ tại thời điểm 31/12 với khách hàng sinh hoạt",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 87,
+    "question": "Thực hiện đối chiếu, xác nhận công nợ theo hình thức điện tử giữa bộ phận kinh doanh (bộ phận thu ngân) và bộ phận TCKT, lập bảng cân đối công nợ theo quy định kế toán.",
+    "options": {
+      "A": "Hàng tháng",
+      "B": "Hàng quý",
+      "C": "Hàng năm.",
+      "D": "Cả 3 câu A,B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 88,
+    "question": "Phân tích số dư nợ theo các tiêu chí:",
+    "options": {
+      "A": "Thời gian nợ (tuổi nợ)",
+      "B": "Khả năng thu hồi nợ quá hạn",
+      "C": "Số nợ khó đòi.",
+      "D": " Số nợ của khách hàng thanh toán tiền điện bằng tiền ngân sách.",
+      "E.": " Số nợ của khách hàng thanh toán tiền điện bằng tiền ngân sách.",
+      "F": "F. Cả A,B,C,D,E"
+    },
+    "answer": "6"
+  },
+  {
+    "number": 89,
+    "question": "Tùy theo giá trị của khoản nợ, các Đơn vị Điện lực thực hiện phân công cho các cán bộ quản lý chịu trách nhiệm giám sát, quản lý nợ và tổ chức thu hồi công nợ.",
+    "options": {
+      "A": "Giám sát nợ",
+      "B": "Quản lý nợ",
+      "C": "Tổ chức thu hồi công nợ",
+      "D": "Cả 3 câu A,B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 90,
+    "question": "Nội dung của thông báo thanh toán tiền điện lần 2 phải bao gồm",
+    "options": {
+      "A": "Phí ngừng giảm cung cấp điện nếu khách hàng không thanh toán",
+      "B": "Khoản tiền chậm trả",
+      "C": "Tiền lãi của khoản tiền chậm trả và tiền phạt vi phạm hợp đồng mua bán điện (nếu có);",
+      "D": "Cả 2 câu B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 91,
+    "question": "Tiền lãi của khoản tiền chậm trả, tiền phạt vi phạm hợp đồng được tính theo quy định của pháp luật và thỏa thuận trong hợp đồng mua bán điện",
+    "options": {
+      "A": "Quy định của pháp luật",
+      "B": "Thỏa thuận trong hợp đồng mua bán điện",
+      "C": "Quy định của pháp luật và thỏa thuận trong hợp đồng mua bán điện",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 92,
+    "question": "Khách hàng nợ quá hạn đã được thông báo hai (02) lần và sau thời hạn theo quy định mà khách hàng vẫn không thanh toán, bộ phận xử lý đòi nợ báo cáo lãnh đạo đơn vị, chuyển danh sách khách hàng đến bộ phận chức năng để thực hiện trình tự tạm ngừng cấp điện theo quy định với khách hàng nợ tiền điện từ",
+    "options": {
+      "A": "50.000 đồng trở lên",
+      "B": "30.000 đồng trở lên",
+      "C": "10.000 đồng trở lên",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 93,
+    "question": "Trường hợp khách hàng có đề nghị lùi ngày thanh toán và được Đơn vị Điện lực chấp thuận, nếu quá thời hạn đã thỏa thuận mà khách hàng chưa thanh toán",
+    "options": {
+      "A": "Điện lực không được phép tạm ngừng cấp điện",
+      "B": "Điện lực được phép tạm ngừng cấp điện",
+      "C": "Điện lực được phép tạm ngừng cấp điện sau khi thực hiện các trình tự theo quy định",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 94,
+    "question": "Các tổ chức trung gian có thể cung cấp thông tin khách hàng sử dụng điện cho bên thứ 3 khi",
+    "options": {
+      "A": "Bên thứ 3 có yêu cầu",
+      "B": "Cung cấp công khai thông tin khách hàng cho bên thứ 3 thực hiện thu hộ tiền điện",
+      "C": "Không cung cấp thông tin khách hàng cho bên thứ 3 khi chưa được sự chấp thuận của Điện lực",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 95,
+    "question": "Hàng ngày, bộ phận theo dõi nợ thực hiện trên chương trình CMIS",
+    "options": {
+      "A": "Ghi nợ của từng khách hàng",
+      "B": "Chấm nợ của từng khách hàng",
+      "C": "Xoá nợ của từng khách hàng",
+      "D": "Ghi nợ, chấm nợ, xoá nợ của từng khách hàng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 96,
+    "question": "Trách nhiệm giao dịch với ngân hàng để nộp séc, UNT (nhận từ bộ phận kinh doanh) và nhận chứng từ “báo có”, sổ phụ (nhận từ ngân hàng) hoặc lấy thông tin thanh toán từ của ngân hàng qua các hình thức điện tử",
+    "options": {
+      "A": "Của bộ phận TCKT",
+      "B": "Của Bộ phận Kinh Doanh",
+      "C": "Của bộ phận TCKT và Kinh Doanh cùng thực hiện",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 97,
+    "question": "Trường hợp bên mua điện là người thuê nhà để ở thì chủ thể giao kết hợp đồng của bên mua điện là:",
+    "options": {
+      "A": "Chủ sở hữu nhà ở hoặc người thuê nhà được chủ sở hữu nhà ở ủy quyền bằng văn bản.",
+      "B": "Chủ sở hữu nhà ở hoặc người thuê nhà được chủ sở hữu nhà ở ủy quyền bằng văn bản. Trong đó, chủ sở hữu nhà ở có cam kết thanh toán tiền điện trong trường hợp người thuê nhà được ủy quyền chủ thể giao kết hợp đồng không thực hiện nghĩa vụ thanh toán tiền điện.",
+      "C": "Chủ sở hữu nhà ở.",
+      "D": "Chủ sở hữu nhà ở hoặc người thuê nhà được chủ sở hữu nhà ở ủy quyền bằng văn bản. Trong đó, chủ sở hữu nhà ở có cam kết thanh toán tiền điện trong trường hợp người thuê nhà được ủy quyền chủ thể giao kết hợp đồng không thực hiện nghĩa vụ thanh toán tiền điện hoặc người giao kết hợp đồng của bên mua điện đặt cọc một khoản tiền theo đề nghị của bên bán điện."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 98,
+    "question": "Theo luật điện lực, việc thanh toán tiền điện theo hợp đồng mua bán điện đối với khách hàng sử dụng điện phục vụ mục đích sinh hoạt được quy định như thế nào.",
+    "options": {
+      "A": "Tiền điện được thanh toán theo phương thức thanh toán do hai bên thỏa thuận trong hợp đồng mua bán điện; Bên bán điện thu thừa tiền điện phải hoàn trả cho bên mua điện, kể cả tiền lãi của khoản tiền thu thừa hoặc thỏa thuận với bên mua điện về việc bù trừ tiền điện thu thừa vào các lần thanh toán tiền điện sau.",
+      "B": "Bên mua điện chậm trả tiền điện phải trả tiền lãi trên số tiền chậm trả cho bên bán điện tương ứng với thời gian chậm trả; Lãi suất chậm trả do các bên thỏa thuận nhưng không vượt quá mức lãi suất theo quy định của pháp luật về dân sự; Bên bán điện thu thừa tiền điện phải hoàn trả cho bên mua điện, kể cả tiền lãi của khoản tiền thu thừa hoặc thỏa thuận với bên mua điện về việc bù trừ tiền điện thu thừa vào các lần thanh toán tiền điện sau",
+      "C": "Tiền điện được thanh toán theo phương thức thanh toán do hai bên thỏa thuận trong hợp đồng mua bán điện; bên mua điện chậm trả tiền điện phải trả tiền lãi trên số tiền chậm trả cho bên bán điện tương ứng với thời gian chậm trả; Lãi suất chậm trả do các bên thỏa thuận nhưng không vượt quá mức lãi suất theo quy định của pháp luật về dân sự; Bên bán điện thu thừa tiền điện phải hoàn trả cho bên mua điện, kể cả tiền lãi của khoản tiền thu thừa hoặc thỏa thuận với bên mua điện về việc bù trừ tiền điện thu thừa vào các lần thanh toán tiền điện sau",
+      "D": "Tiền điện được thanh toán theo thông báo của bên bán điện; bên mua điện chậm trả tiền điện sau khi nhận thông báo phải trả tiền lãi trên số tiền chậm trả cho bên bán điện kể từ ngày nhận thông báo; Lãi suất chậm trả do quy định của bên bán điện; Bên bán điện thu thừa tiền điện phải hoàn trả cho bên mua điện, kể cả tiền lãi của khoản tiền thu thừa hoặc thỏa thuận với bên mua điện về việc bù trừ tiền điện thu thừa vào các lần thanh toán tiền điện sau"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 99,
+    "question": "Nội dung thông báo ngừng, giảm mức cung cấp điện bao gồm:",
+    "options": {
+      "A": "Địa điểm ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "B": "Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "C": "Địa điểm ngừng, giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "D": "Địa điểm ngừng, giảm mức cung cấp điện; mức công suất giảm hoặc khả năng cung cấp tối đa trong trường hợp giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại hoặc bảo đảm mức cung cấp điện bình thường."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 100,
+    "question": "Người của bên bán điện ký thông báo ngừng, giảm mức cung cấp điện phải là một trong những người sau:",
+    "options": {
+      "A": "Người đại diện theo pháp luật hoặc đại diện theo ủy quyền của bên bán điện.",
+      "B": "Người giữ chức danh được uỷ quyền ký thông báo ngừng, giảm cung cấp điện do hai bên thỏa thuận trong hợp đồng mua bán điện.",
+      "C": "Người đại diện theo pháp luật hoặc đại diện theo ủy quyền của bên bán điện; Người ký hợp đồng mua bán điện.",
+      "D": "Cả A, B"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 101,
+    "question": "Bên mua điện không thực hiện thanh toán tiền điện, bên bán điện được ngừng cung cấp điện khi:",
+    "options": {
+      "A": "Không có thỏa thuận lùi ngày thanh toán tiền điện giữa bên bán và bên mua bên mua điện đã được bên bán điện thông báo về việc thanh toán tiền điện 02 lần cách nhau không dưới 03 ngày, bên bán điện có quyền ngừng cấp điện cho bên mua điện. Thời điểm bên bán điện có quyền ngừng cấp điện do hai bên tự thỏa thuận và ghi rõ trong hợp đồng mua bán điện nhưng không vượt quá 10 ngày kể từ ngày bên bán điện có thông báo đầu. Khi thực hiện ngừng cấp điện, bên bán điện phải thông báo cho bên mua điện trước thời điểm ngừng cấp điện ít nhất 24 giờ và không phải chịu trách nhiệm về các thiệt hại do việc ngừng cấp điện gây ra",
+      "B": "Không có thỏa thuận lùi ngày thanh toán tiền điện giữa bên bán và bên mua bên mua điện đã được bên bán điện thông báo về việc thanh toán tiền điện 03 lần, bên bán điện có quyền ngừng cấp điện cho bên mua điện. Thời điểm bên bán điện có quyền ngừng cấp điện do hai bên tự thỏa thuận và ghi rõ trong hợp đồng mua bán điện nhưng không vượt quá 15 ngày kể từ ngày bên bán điện có thông báo đầu.",
+      "C": "Không có thỏa thuận lùi ngày thanh toán tiền điện giữa bên bán và bên mua bên mua điện đã được bên bán điện thông báo về việc thanh toán tiền điện 03 lần cách nhau không dưới 03 ngày, bên bán điện có quyền ngừng cấp điện cho bên mua điện. Thời điểm bên bán điện có quyền ngừng cấp điện do hai bên tự thỏa thuận và ghi rõ trong hợp đồng mua bán điện nhưng không vượt quá 15 ngày kể từ ngày bên bán điện có thông báo đầu.",
+      "D": "Bên mua bên mua điện đã được bên bán điện thông báo về việc thanh toán tiền điện 03 (hai) lần cách nhau không dưới 03 ngày, bên bán điện có quyền ngừng cấp điện cho bên mua điện. Thời điểm bên bán điện có quyền ngừng cấp điện do hai bên tự thỏa thuận và ghi rõ trong hợp đồng mua bán điện nhưng không vượt quá 15 ngày kể từ ngày bên bán điện có thông báo đầu."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 102,
+    "question": "Khi quyết toán tiền điện phải đối chiếu:",
+    "options": {
+      "A": "Số tiền mặt, tiền trong tài khoản đã thu được của đơn vị",
+      "B": "Số tiền chưa thu được",
+      "C": "Số hóa đơn, biên nhận tiền điện đã thu và chưa thu",
+      "D": "Cả A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 103,
+    "question": "Bảo lãnh bảo đảm thực hiện hợp đồng của các tổ chức trung gian thu tiền điện phải là bảo lãnh:",
+    "options": {
+      "A": "Bảo lãnh vô điều kiện",
+      "B": "Bảo lãnh không hủy ngang.",
+      "C": "Có hiệu lực trong suốt thời gian thực hiện hợp đồng.",
+      "D": "Cả A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 104,
+    "question": "Trường hợp khách hàng thanh toán trùng lặp cho một hóa đơn, Điện lực phải thực hiện các nội dung nào sau đây:",
+    "options": {
+      "A": "Hoàn trả lại tiền đã thu thừa cho khách hàng.",
+      "B": "Thông báo cho khách hàng và chuyển số tiền thu thừa bù trừ cho hóa đơn phát sinh của các kỳ tiếp theo.",
+      "C": "Lựa chọn A hoặc B tùy yêu cầu của khách hàng",
+      "D": "Nhập vào thu nhập khác của Điện lực"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 105,
+    "question": "Khi thanh toán phí thu hộ, tổ chức thu hộ phải có các giấy tờ nào sau đây:",
+    "options": {
+      "A": "Hồ sơ đề nghị thanh toán phí thu hộ: Giấy đề nghị thanh toán; Biên bản xác nhận khối lượng hóa đơn thanh toán trong tháng (kèm theo bảng kê số lượng hóa đơn thu theo từng ngày đã được hai bên đối chiếu) trong thời hạn 05 ngày đầu tiên của tháng liền sau đó; Hóa đơn GTGT.",
+      "B": "Phương thức thanh toán: Phí dịch vụ thu hộ tiền điện hàng tháng được Bên A chuyển vào TK của Bên B trong vòng 07 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị thanh toán của Bên B.",
+      "C": "Thông tin tài khoản của Bên B để nhận phí thu hộ: Ngân hàng, Số tài khoản, Tên đơn vị thụ hưởng.",
+      "D": "Cả A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 106,
+    "question": "Lãi suất chậm trả căn cứ vào",
+    "options": {
+      "A": "Lãi suất chậm trả do các bên thỏa thuận nhưng không vượt quá mức lãi suất theo quy định của pháp luật về dân sự;",
+      "B": "Lãi suất chậm trả do các bên thỏa thuận",
+      "C": "Lãi suất chậm trả do bên bán điện ấn định",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 107,
+    "question": "Bên bán điện thu thừa tiền điện phải",
+    "options": {
+      "A": "Hoàn trả cho bên mua điện,",
+      "B": "Tiền lãi của khoản tiền thu thừa",
+      "C": "Thỏa thuận với bên mua điện về việc bù trừ tiền điện thu thừa vào các lần thanh toán tiền điện sau",
+      "D": "Cả A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 108,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, có bao nhiêu chính sách chăm sóc\nkhách hàng:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "Cả 3 câu đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 109,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chăm sóc khách hàng bao gồm:",
+    "options": {
+      "A": "Chính sách về chất lượng cung cấp điện.",
+      "B": "Chính sách về chất lượng dịch vụ",
+      "C": "Cả hai câu A và",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 110,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chất lượng cung cấp điện bao gồm",
+    "options": {
+      "A": "Dịch vụ chuẩn;",
+      "B": "Dịch vụ ưu tiên cao nhất;",
+      "C": "Dịch vụ chuẩn; Dịch vụ ưu tiên cao nhất;",
+      "D": "Dịch vụ chuẩn; Dịch vụ ưu tiên cao nhất; Dịch vụ ưu tiên được điều chỉnh từ dịch vụ chuẩn đến dịch vụ ưu tiên cao nhất."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 111,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định dịch vụ chuẩn của chính sách chất lượng cung cấp điện bao gồm",
+    "options": {
+      "A": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng;",
+      "B": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng; cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày.",
+      "C": "Dịch vụ chuẩn bao gồm: cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày và trong thời hạn 24 giờ kể từ thời điểm thực hiện ngừng, giảm mức cung cấp điện khẩn cấp.",
+      "D": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày và trong thời hạn 24 giờ kể từ thời điểm thực hiện ngừng, giảm mức cung cấp điện khẩn cấp."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 112,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định dịch vụ ưu tiên cao nhất của chính sách chất lượng cung cấp điện bao gồm:",
+    "options": {
+      "A": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất.",
+      "B": "Dịch vụ ưu tiên cao nhất bao gồm: cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra. Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất.",
+      "C": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra.",
+      "D": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra. Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 113,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chất lượng dịch vụ bao gồm",
+    "options": {
+      "A": "Rút ngắn thời gian tiếp nhận và giải quyết yêu cầu; Cung cấp thông tin đầy đủ, đa dạng ; Chuyển điểm đánh giá thành quà tặng vật chất hoặc các ưu đãi khi khách hàng sử dụng dịch vụ điện của Đơn vị Điện lực;",
+      "B": "Rút ngắn thời gian tiếp nhận và giải quyết yêu cầu; Chuyển điểm đánh giá thành quà tặng vật chất hoặc các ưu đãi khi khách hàng sử dụng dịch vụ điện của Đơn vị Điện lực; Mời tham gia các sự kiện CSKH",
+      "C": "Cung cấp thông tin đầy đủ, đa dạng( tiền điện hàng tháng, các dịch vụ phát sinh, các chương trình CSKH) ; Mời tham gia các sự kiện CSKH: Hội nghị trị ân KH; tặng quà hàng năm nhân dịp lễ, tết, sinh nhật; các chương trình sự kiện về KD&DVKH",
+      "D": "Đảm bảo tiếp nhận và giải quyết yêu càu các dịch vụ điện theo đúng trình tự thủ tục và thời gian; Cung cấp thông tin đầy đủ, đa dạng( tiền điện hàng tháng, các dịch vụ phát sinh, các chương trình CSKH) ; Mời tham gia các sự kiện CSKH: Hội nghị trị ân KH; tặng quà hàng năm nhân dịp lễ, tết, sinh nhật; các chương trình sự kiện về KD&DVKH"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 114,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định phân nhóm khách hàng dựa trên các tiêu chí",
+    "options": {
+      "A": "Nhóm tiêu chí kinh doanh;",
+      "B": "Nhóm khách hàng sinh hoạt và ngoài sinh hoạt.",
+      "C": "Nhóm khách hàng sinh hoạt và ngoài sinh hoạt; khách hàng có sản lượng cao.",
+      "D": "Nhóm tiêu chí kinh doanh và nhóm các tiêu chí về cộng đồng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 115,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, Quy định trang phục CBCNV khi giao tiếp trực tiếp với khách hàng",
+    "options": {
+      "A": "Sử dụng trang phục công tác, thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác. Chỉ được phép vào nhà, trụ sở, địa điểm,... phạm vi thuộc quyền quản lý của khách hàng khi đã xuất trình đầy đủ các giấy tờ cần thiết và được sự đồng ý của khách hàng.",
+      "B": "Sử dụng trang phục công tác, thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác.",
+      "C": "Đeo thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác. Chỉ được phép vào nhà, trụ sở, địa điểm,... phạm vi thuộc quyền quản lý của khách hàng khi đã xuất trình đầy đủ các giấy tờ cần thiết và được sự đồng ý của khách hàng.",
+      "D": "Sử dụng trang phục công tác"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 116,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, Nguyên tắc khi chăm sóc khách hàng",
+    "options": {
+      "A": "Hoạt động chăm sóc khách hàng phải bảo đảm tuân thủ phương châm “Khách hàng là trung tâm” và hướng đến nâng cao mức độ hài lòng của khách hàng.",
+      "B": "Đảm bảo dịch vụ cung cấp phải thực hiện đúng cam kết, minh bạch, đồng nhất trên các kênh và phù hợp với nhu cầu sử dụng điện của từng nhóm khách hàng;",
+      "C": "Chủ động tiếp cận, cung cấp, hỗ trợ giải đáp cung cấp thông tin và hướng dẫn khách hàng tận tình, đầy đủ, rõ ràng nhiều hơn mong đợi của khách hàng.",
+      "D": "E. Tất cả các công tác trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 117,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, loại giấy tờ nào sau đây không phải là giấy tờ xác định mục đích sử dụng điện",
+    "options": {
+      "A": "Giấy chứng nhận đăng ký đầu tư",
+      "B": "Giấy chứng nhận đăng ký chi nhánh động văn phòng đại diện",
+      "C": "Giấy chứng nhận quyền sử dụng đất.",
+      "D": ""
+    },
+    "answer": "3"
+  },
+  {
+    "number": 118,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025,thông tin nào sau đây không phải là thông tin xác định chủ thể hợp đồng mua bán điện tại địa điểm sử dụng điện",
+    "options": {
+      "A": "Cơ sở dữ liệu cư dân Quốc gia",
+      "B": "Giấy chứng nhận chi nhánh, văn phòng đại diện",
+      "C": "Giấy chứng nhận quyền sử dụng đất (trường hợp cấp điện sinh hoạt: trên đất đã có nhà ở)",
+      "D": "Giấy tờ của chủ sở hữu nhà / quyền sử dụng đất đồng ý cho cá nhân/tổ chức được quyền sử dụng tại địa điểm mua điện"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 119,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, khách hàng xác nhận giao dịch điện tử:",
+    "options": {
+      "A": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử đối với trường hợp khách hàng là tổ chức, cá nhân có chữ ký điện tử, mã OTP đối với khách hàng là cá nhân",
+      "B": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử qua hình thức mã OTP đối với tất cả khách hàng sinh hoạt và ngoài sinh hoạt",
+      "C": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử đối với tất cả khách hàng",
+      "D": ""
+    },
+    "answer": "1"
+  },
+  {
+    "number": 120,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định thông tin khách hàng cung cấp:",
+    "options": {
+      "A": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao và được đối chiếu với bản chính hoặc bản sao được chứng thực có giá trị sử dụng (nếu cần).",
+      "B": "Thông tin khách hàng cung cấp là bản sao (bao gồm cả bản chụp từ thiết bị công nghệ, bản photo) và được đối chiếu với bản chính.",
+      "C": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao (bao gồm cả bản chụp từ thiết bị công nghệ, bản photo) và được đối chiếu với bản chính hoặc bản sao được chứng thực có giá trị sử dụng (nếu cần).",
+      "D": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao và được đối chiếu với bản chính hoặc bản sao được chứng thực có giá trị sử dụng (nếu cần)."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 121,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, thời hạn cung cấp dịch vụ cấp điện hạ áp là",
+    "options": {
+      "A": "Không quá 01 ngày làm việc kể từ khi tiếp nhận đủ hồ sơ theo quy định",
+      "B": "Không quá 03 ngày kể từ ngày nhận được yêu cầu mua điện. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc.",
+      "C": "Không quá 05 ngày làm việc. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc.",
+      "D": "Không quá 05 ngày làm việc kể từ ngày nhận được yêu cầu mua điện. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 122,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các dịch vụ nào sau đây được miễn phí trong quá trình thực hiện HĐMBĐ",
+    "options": {
+      "A": "Thay đổi chủ thể HĐMBĐ, thay đổi thông tin",
+      "B": "Thay đổi mục đích sử dụng điện, thay đổi định mức sử dụng điện",
+      "C": "Gia hạn HĐMBĐ, chấm dứt HĐMBĐ",
+      "D": "Cả 3 câu trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 123,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các loại dịch vụ có chi phí trong quá trình thực hiện HĐMBĐ gồm:",
+    "options": {
+      "A": "Thay đổi vị trí đo đếm, thay đổi công suất sử dụng",
+      "B": "Kiểm tra/kiểm định thiết bị đo đếm",
+      "C": "Cả câu A và B",
+      "D": "Theo thỏa thuận giữa 2 bên."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 124,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, thời gian cung cấp dịch vụ là:",
+    "options": {
+      "A": "Thời gian theo ngày làm việc khi tiếp nhận hồ sơ.",
+      "B": "Thời gian theo ngày làm việc từ khi tiếp nhận đầy đủ hồ sơ theo quy định đến khi hoàn thành yêu cầu dịch vụ của khách hàng (không tính thời gian do chủ quan từ phía khách hàng, từ cơ quan quản lý nhà nước, do sự kiện bất khả kháng).",
+      "C": "Theo thỏa thuận giữa khách hàng và người tiếp nhận hồ sơ.",
+      "D": "Thời gian từ khi tiếp nhận đầy đủ hồ sơ theo quy định đến khi hoàn thành yêu cầu dịch vụ của khách hàng (không tính thời gian do chủ quan từ phía khách hàng, từ cơ quan quản lý nhà nước, do sự kiện bất khả kháng)."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 125,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định sự kiện bất khả kháng :",
+    "options": {
+      "A": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép",
+      "B": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được.",
+      "C": "Là sự kiện xảy ra một cách khách quan không thể lường trước được.",
+      "D": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 126,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các yêu cầu cung cấp dịch vụ của khách hàng được tiếp nhận bằng các hình thức nào",
+    "options": {
+      "A": "Tổng đài chăm sóc khách hàng",
+      "B": "Trực tuyến qua các website, cổng dịch vụ công, ứng dụng CSKH, mạng xã hội,…",
+      "C": "Trực tiếp tại Phòng/địa điểm giao dịch khách hàng.",
+      "D": "Tất cả các đáp án trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 127,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, một trong các trách nhiệm của CTĐL/ ĐL trong cung cấp dịch vụ điện cho khách hàng",
+    "options": {
+      "A": "Hướng dẫn đầy đủ các hồ sơ, thủ tục khi tiếp nhận yêu cầu cung cấp dịch vụ của khách hàng. Tiếp nhận hồ sơ còn thiếu trong quá trình thực hiện đến trước khi kết thúc dịch vụ;",
+      "B": "Không được từ chối cấp điện khi khách hàng đã có đủ điều kiện theo yêu cầu của Quy định này, trừ trường hợp bất khả kháng; Chịu trách nhiệm bảo vệ dữ liệu cá nhân theo quy định.",
+      "C": "Thực hiện đúng lịch đã hẹn với khách hàng. Đảm bảo cung cấp dịch vụ điện đúng nội dung, đúng chi phí, đúng thời gian; Thỏa thuận và được sự chấp thuận của chủ sở hữu công trình điện, khi sử dụng tài sản lưới điện của chủ sở hữu, bán điện cho khách hàng khác",
+      "D": "Cả 3 câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 128,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, một trong các đối tượng phải đặt cọc bằng tiền cho Điện lực/Công ty điện lực khi yêu cầu mua điện",
+    "options": {
+      "A": "Khách hàng mua điện sinh hoạt.",
+      "B": "Khách hàng mua điện ngoài sinh hoạt ngắn hạn (dưới 12 tháng)",
+      "C": "Khách hàng mua điện ngoài sinh hoạt có công suất lớn hơn hoặc bằng 40kW.",
+      "D": "Khách hàng mua điện ngoài sinh hoạt có công suất dưới 40kW."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 129,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định trường hợp chưa có lưới\nđiện phân phối hoặc lưới điện phân phối bị quá tải có xác nhận của cơ quan Điều tiết ĐVĐL hoặc cơ quan được ủy quyền, trong thời gian bao lâu Điện lực phải trả lời KH:",
+    "options": {
+      "A": "≤ 03 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+      "B": "≥ 05 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+      "C": "≤ 07 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+      "D": "≥ 05 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 130,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, các tiêu chí đánh giá chất lượng về thời gian xử lý yêu cầu:",
+    "options": {
+      "A": "Giải quyết các yêu cầu, khiếu nại khẩn cấp ≤ 24 giờ",
+      "B": "Giải quyết yêu cầu, khiếu nại còn lại: Phản hồi yêu cầu, khiếu nại của khách hàng: trong ngày; Giải quyết yêu cầu, khiếu nại của khách hàng: ≤ 03 ngày.",
+      "C": "Giải quyết yêu cầu, khiếu nại còn lại: Phản hồi yêu cầu, khiếu nại của khách hàng: trong  ngày; Giải quyết yêu cầu, khiếu nại của khách hàng: ≤ 03 ngày.",
+      "D": "Cả A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 131,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, nội dung đánh giá khảo sát chất lượng dịch vụ phải bao gồm ít nhất các tiêu chí",
+    "options": {
+      "A": "Thái độ phục vụ khách hàng.",
+      "B": "Thái độ phục vụ khách hàng và kỹ năng nghiệp vụ của nhân viên thực hiện;",
+      "C": "Thái độ phục vụ khách hàng và kỹ năng nghiệp vụ của nhân viên thực hiện; Trình tự thực hiện, quy trình thủ tục; Thời gian giải quyết.",
+      "D": "Thời gian giải quyết."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 132,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/202 quy định trường hợp chủ đầu tư các\nkhu đô thị mới, khu chung cư,…đã đầu tư hệ thống điện và có văn bản đồng ý để Đơn vị Điện lực sử dụng hệ thống điện để cấp điện cho khách hàng thì :",
+    "options": {
+      "A": "Đơn vị Điện lực chưa được ký HĐMBĐ với khách hàng",
+      "B": "Đơn vị Điện lực phải có văn bản xin ý kiến",
+      "C": "Đơn vị Điện lực được ký ngay HĐMBĐ với khách hàng",
+      "D": "A,B,C đều sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 133,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định hình thức cung cấp dịch vụ bao gồm:",
+    "options": {
+      "A": "Trực tuyến: Khách hàng sử dụng dịch vụ điện qua môi trường mạng từ đăng ký dịch vụ, cung cấp hồ sơ (tập tin điện tử), thanh toán chi phí (chuyển khoản, Internet/Mobile/SMS banking, ví điện tử,…) và xác nhận điện tử bằng chữ ký điện tử hoặc mã OTP;",
+      "B": "Trực tiếp kết hợp trực tuyến: Đối với khách hàng chưa đủ điều kiện thực hiện trực tuyến hoàn toàn, áp dụng tối đa các bước có đủ điều kiện thực hiện hình thức trực tuyến kết hợp với hình thức trực tiếp.",
+      "C": "Cả 2 câu A, B",
+      "D": "A, B đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 134,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định quyền của khách hàng bao gồm:",
+    "options": {
+      "A": "Được yêu cầu cung cấp các dịch vụ điện trong Quy định này;",
+      "B": "Được cung cấp dịch vụ theo đúng nội dung và thời gian nêu trong Quy định này khi có đầy đủ hồ sơ và đã thanh toán đủ chi phí (nếu có), trừ trường hợp bất khả kháng;",
+      "C": "Được yêu cầu cung cấp các dịch vụ điện trong Quy định này; Được cung cấp dịch vụ theo đúng nội dung và thời gian nêu trong Quy định này khi có đầy đủ hồ sơ và đã thanh toán đủ chi phí (nếu có), trừ trường hợp bất khả kháng; Được kiểm tra, giám sát việc thực hiện các dịch vụ cung cấp điện nêu trong Quy định này; Thực hiện các quyền lợi theo các quy định của pháp luật.",
+      "D": "Được kiểm tra, giám sát việc thực hiện các dịch vụ cung cấp điện nêu trong Quy định này;"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 135,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định trách nhiệm của khách hàng bao gồm:",
+    "options": {
+      "A": "Hợp tác, phối hợp với đơn vị cung cấp dịch vụ trong quá trình cung cấp và sử dụng dịch vụ;",
+      "B": "Sử dụng điện an toàn, tiết kiệm, hiệu quả, đúng mục đích và đúng nội dung HĐMBĐ đã ký kết; Cung cấp đấy đủ thông tin, hồ sơ của dịch vụ điện khách hàng yêu cầu.",
+      "C": "Thực hiện các trách nhiệm khác theo các quy định của pháp luật.",
+      "D": "Cả 3 câu A,B,"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 136,
+    "question": "Trong giao tiếp con người có thể dùng yếu tố phi ngôn ngữ gì để biểu lộ tình cảm, thái độ của mình?",
+    "options": {
+      "A": "Cử chi",
+      "B": "Nụ cười",
+      "C": "Ánh mắt",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 137,
+    "question": "Khi nhận được những ý kiến phản hồi tiêu cực, bạn sẽ:",
+    "options": {
+      "A": "Phủ nhận, xin lỗi hoặc biện hộ cho sự thiếu hiểu biết của mình",
+      "B": "Nổi giận và bảo vệ quan điểm của mình",
+      "C": "Ghi nhận và tìm cách cải thiện vấn đề.",
+      "D": "Tất cả các ý trên đều sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 138,
+    "question": "Nguyên tắc trong giao tiếp với khách hàng nào sau đây là sai:",
+    "options": {
+      "A": "Chào hỏi khách trước và chủ động giúp đỡ khi thấy khách có biểu hiện cần được giúp đỡ.",
+      "B": "Lợi dụng cương vị công tác, nhiệm vụ được giao để vòi vĩnh, sách nhiễu, gây phiền hà cho khách hàng",
+      "C": "Giao tiếp với thái độ ân cần, gần gũi biểu hiện sự tôn trọng, thân thiện",
+      "D": "Hướng dẫn, trả lời các yêu cầu của khách hàng."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 139,
+    "question": "Khách hàng của Điện lực là ai?",
+    "options": {
+      "A": "Khách hàng bên ngoài – người mua điện",
+      "B": "Khách hàng nội bộ - Sếp và nhân viên trong nội bộ công ty",
+      "C": "Khách hàng nội bộ và Khách hàng bên ngoài",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 140,
+    "question": "Chúng ta làm gì để hiểu rõ người khác đang nói",
+    "options": {
+      "A": "Đặt các câu hỏi",
+      "B": "Đưa ra các đánh giá trên những điều họ đang nói",
+      "C": "Hiểu các ngôn ngữ cơ thể",
+      "D": "Sử dụng ngữ điện và các giao tiêp bằng mắt"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 141,
+    "question": "Để giao tiếp tốt với khách hàng khó tính, bạn sẽ là gì",
+    "options": {
+      "A": "Xoa diệu cảm xúc tiêu cực của họ bằng nhiều cách khác nhau",
+      "B": "Lắng nghe họ nói",
+      "C": "Xin lỗi họ vì chưa làm họ hài lòng",
+      "D": "Tất các câu A, B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 142,
+    "question": "Theo quy Thông tư 04/2025/TT-BCT ngày 1/2/2025, nội dung thông báo ngừng, giảm mức cung cấp điện bao gồm:",
+    "options": {
+      "A": "Địa điểm ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "B": "Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "C": "Địa điểm ngừng, giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "D": "Địa điểm ngừng, giảm mức cung cấp điện; mức công suất giảm hoặc khả năng cung cấp tối đa trong trường hợp giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại hoặc bảo đảm mức cung cấp điện bình thường."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 143,
+    "question": "Quy định về giao dịch với khách hàng của ngành điện tại địa điểm giao dịch phải bảo đảm",
+    "options": {
+      "A": "Chu đáo, đúng nơi quy định",
+      "B": "Nguyên tắc thực hiện văn hóa công sở",
+      "C": "Văn hóa EVN",
+      "D": "Tất cả A, B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 144,
+    "question": "Có mấy loại HĐMBĐ, liệt kê các loại HĐMBĐ",
+    "options": {
+      "A": "Có 2 loại: HĐMBĐ phục vụ mục đích sinh hoạt, HĐMBĐ phục vụ mục đích ngoài mục đích sinh hoạt",
+      "B": "Có 3 loại: HĐMBĐ phục vụ mục đích sinh hoạt, HĐMBĐ phục vụ mục đích ngoài mục đích sinh hoạt và HĐMBĐ ngắn hạn",
+      "C": "Có 4 loại: HĐMBĐ phục vụ mục đích sinh hoạt, HĐMBĐ phục vụ mục đích ngoài mục đích sinh hoạt, HĐMBĐ ngắn hạn và HĐMBĐ có đầu tư công trình điện.",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 145,
+    "question": "HĐMBĐ phục vụ mục đích sinh hoạt áp dụng đối với khách hàng nào:",
+    "options": {
+      "A": "Áp dụng cho các KH mua điện sử dụng cho mục đích sinh hoạt.",
+      "B": "Áp dụng đối với KH mua điện sử dụng cho mục đích sản xuất, kinh doanh, dịch vụ, cơ quan hành chính sự nghiệp, đơn vị mua buôn để bán lẻ điện...",
+      "C": "Áp dụng cho KH mua điện cho mục đích sản xuất, kinh doanh, dịch vụ, cơ quan hành chính sự nghiệp, đơn vị mua buôn để bán lẻ điện... và một phần mục đích sinh hoạt.",
+      "D": "Gồm cả A và"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 146,
+    "question": "HĐMBĐ phục vụ mục đích ngoài sinh hoạt áp dụng đối với khách hàng nào:",
+    "options": {
+      "A": "Áp dụng cho các KH mua điện sử dụng cho mục đích chính sinh hoạt.",
+      "B": "Áp dụng đối với KH mua điện sử dụng cho mục đích sản xuất, kinh doanh, dịch vụ, cơ quan hành chính sự nghiệp, đơn vị mua buôn để bán lẻ điện...",
+      "C": "Áp dụng cho KH mua điện cho mục đích sản xuất",
+      "D": "Gồm cả A và"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 147,
+    "question": "Hợp đồng đầu tư công trình điện có phải là 01 trong các loại HĐMBĐ không:",
+    "options": {
+      "A": "Là 01 loại HĐMBĐ",
+      "B": "Không được xem là HĐMBĐ.",
+      "C": "Tùy tình hình thực tế để xác định có phải là HĐMBĐ hay không.",
+      "D": "Là một loại HĐMBĐ ngoài mục đích sinh hoạt."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 148,
+    "question": "Mẫu HĐMBĐ sinh hoạt do tổ chức nào ban hành.",
+    "options": {
+      "A": "Mỗi Công ty điện lực tự ban hành phù hợp với tình hình thực tế tại Công ty",
+      "B": "Các Tổng công ty Điện lực căn cứ quy định của Bộ luật Dân sự,Luật Điện lực,Luật Bảo vệ quyền lợi người tiêu dùng, Nghị định số 18/2025/NĐ-CPngày 08/02/2025 của Chính phủ, các Thông tư của Bộ Công Thương trong lĩnh vực điện lực và các quy định pháp luật khác có liên quan và trên cơ sở đặc thù của từng đơn vị để ban hành.",
+      "C": "Tập đoàn Điện lực Việt Nam ban hành",
+      "D": "Bộ công thương ban hành"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 149,
+    "question": "Mẫu HĐMBĐ ngoài sinh hoạt do tổ chức nào ban hành.",
+    "options": {
+      "A": "Mỗi Công ty điện lực tự ban hành phù hợp với tình hình thực tế tại Công ty",
+      "B": "Các Tổng công ty Điện lực căn cứ quy định của Bộ luật Dân sự,Luật Điện lực,Luật Bảo vệ quyền lợi người tiêu dùng, Nghị định số 18/2025/NĐ-CPngày 08/02/2025 của Chính phủ, các Thông tư của Bộ Công Thương trong lĩnh vực điện lực và các quy định pháp luật khác có liên quan và trên cơ sở đặc thù của từng đơn vị để ban hành.",
+      "C": "Tập đoàn Điện lực Việt Nam ban hành",
+      "D": "Bộ công thương ban hành"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 150,
+    "question": "Mẫu HĐMBĐ nào phải đăng ký đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung.",
+    "options": {
+      "A": "HĐMBĐ phục vụ mục đích sinh hoạt",
+      "B": "HĐMBĐ ngoài mục đích sinh hoạt",
+      "C": "Không cần đăng ký",
+      "D": "Cả 2 loại Hợp đồng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 151,
+    "question": "Chủ thể ký hợp đồng của bên mua điện là tổ chức có tư cách pháp nhân là:",
+    "options": {
+      "A": "Là giám đốc hoặc chủ tịch công ty .",
+      "B": "Là người đại diện theo pháp luật của tổ chức đó;",
+      "C": "Đại diện theo ủy quyền.",
+      "D": "Gồm B và C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 152,
+    "question": "Hồ sơ HĐMBĐ được lưu trữ bao lâu sau khi hợp đồng hết hiệu lực và khách hàng không đề nghị gian hạn hợp đồng.",
+    "options": {
+      "A": "5 năm kể từ ngày hết hiệu lực trên chương trình cmis",
+      "B": "10 năm kể từ ngày hết hiệu lực trên chương trình cmis",
+      "C": "Không cần lưu trữ sau khi hợp đồng hết hiệu lực.",
+      "D": "Lưu trữ mãi mãi."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 153,
+    "question": "Bên mua điện là người thuê nhà để ở có quyền ký HĐMBĐ trực tiếp với bên bán điện hay không",
+    "options": {
+      "A": "Được quyền ký HĐMBĐ nếu có nhu cầu.",
+      "B": "Không được trực tiếp ký HĐMBĐ",
+      "C": "Được ký HĐMBĐ nếu chủ sở hữu nhà ủy quyền bằng văn bản và có cam kết thanh toán tiền điện trong trường hợp người thuê nhà không thực hiện nghĩa vụ thanh toán tiền điện.",
+      "D": "Được ký HĐMBĐ nếu chủ sở hữu nhà ủy quyền bằng văn bản"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 154,
+    "question": "Tại một địa điểm đăng ký mua điện, bên mua điện là một hộ gia đình thì được giao kết",
+    "options": {
+      "A": "01 hợp đồng",
+      "B": "Khảo sát để ký kết hợp đồng theo số người trong hộ, cứ 04 người được ký 01 hợp đồng",
+      "C": "Tùy theo yêu cầu của bên mua điện",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 155,
+    "question": "Đối tượng khách hàng nào phải thực hiện bảo đảm hợp đồng:",
+    "options": {
+      "A": "Khách hàng mua điệncó sản lượng điện đăng ký mua trung bình tháng (đối với KH đăng ký mới) hoặc có sản lượng điện tiêu thụ bình quân tháng của 12 tháng trước liền kề (đối với KH đang sử dụng điện) tại tất cả các điểm đo theo HĐMBĐ từ 1.000.000 kWh/tháng trở lên.",
+      "B": "Khách hàng mua điện ngoài sinh hoạt có thời hạn dưới 12 tháng.",
+      "C": "Khách hàng mua điện có thời hạn dưới 12 tháng.",
+      "D": "A và B đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 156,
+    "question": "Giá trị bảo đảm thực hiện hợp đồng đối với khách hàng mua điện có sản lượng điện từ 1.000.000kWh/tháng trở lên",
+    "options": {
+      "A": "Giá trị tài sản bảo đảm không vượt quá 15 (mười lăm) ngày tiền điện, được tính trên cơ sở sản lượng điện tiêu thụ trung bình tháng KH đăng ký sử dụng (đối với trường hợp cấp điện mới) hoặc sản lượng điện tiêu thụ thực tế bình quân tháng của năm trước liền kề nhân với giá bán điện giờ bình thường tại HĐMBĐ. Giá trị tài sản bảo đảm sẽ được điều chỉnh mỗi năm 01 (một) lần.",
+      "B": "Do Bên bán điện và Bên mua điện thỏa thuận trong phạm vi dải giá trị từ 10 - 15 ngày tiền điện, được tính trên cơ sở sản lượng điện tiêu thu bình quân tháng (khi đăng ký mua điện mới) hoặc sản lượng điện tiêu thụ bình quân tháng của 12 tháng trước liền kề (trong quá trình sử dụng điện) và giá điện năng giờ bình thường được áp dụng.",
+      "C": "Do Bên bán điện và Bên mua điện thỏa thuận trong phạm vi dải giá trị từ 10 - 15 ngày tiền điện, được tính trên cơ sở sản lượng điện tiêu thu bình quân tháng (khi đăng ký mua điện mới) hoặc sản lượng điện tiêu thụ bình quân tháng của 12 tháng trước liền kề (trong quá trình sử dụng điện) tại tất cả các điểm đo theo HĐMBĐ và giá điện năng giờ bình thường được áp dụng.",
+      "D": "Gồm cả B và C"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 157,
+    "question": "Hàng năm có cần điều chỉnh Giá trị bảo đảm thực hiện HĐMBĐ hay không?",
+    "options": {
+      "A": "Phải điều chỉnh",
+      "B": "Không cần điều chỉnh nếu bảo đảm hợp đồng còn hiệu lực",
+      "C": "Hàng năm, 02 bên thỏa thuận giá trị thực hiện bảo đảm hợp đồng phù hợp với sản lượng điện bình quân sử dụng thực tế trong 12 tháng trước liền kề, nếu chênh lệch ± 10% so với giá trị bảo đảm thực hiện hợp đồng đang áp dụng thì 02 bên sẽ thực hiện điều chỉnh giá trị bảo đảm hợp đồng cho phù hợp.",
+      "D": "Hàng năm, 02 bên thỏa thuận giá trị thực hiện bảo đảm hợp đồng phù hợp với sản lượng điện bình quân sử dụng thực tế trong 12 tháng trước liền kề để điều chỉnh giá trị bảo đảm hợp đồng cho phù hợp."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 158,
+    "question": "Giá trị bảo đảm thực hiện hợp đồng đối với khách hàng mua điện ngoài mục đích sinh hoạt có thời hạn dưới 12 tháng.",
+    "options": {
+      "A": "Nếu khách hàng mua điện dưới 01 tháng: giá trị bảo đảm thực hiện HĐMBĐ được tính bằng sản lượng điện tương ứng theo số ngày khách hàng đăgn ký sử dụng điện nhân với giá điện giờ bình thường",
+      "B": "Khách hàng mua điện từ 01 (một) tháng trở lên: giá trị bảo đảm thực hiện HĐMBĐ được tính sản lượng điện khách hàng đăng ký sử dụng trong 45 ngày nhân với giá bán điện giờ bình thường",
+      "C": "Giá trị bảo đảm thực hiện HĐMBĐ tương đương 1.5 kỳ tiền điện.",
+      "D": "A và B đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 159,
+    "question": "Thời hạn bảo đảm thực hiện HĐMBĐ",
+    "options": {
+      "A": "Bằng thời hạn HĐMBĐ cộng thêm 15 ngày làm việc.",
+      "B": "Bằng thời hạn HĐMBĐ cộng thêm 1 tháng.",
+      "C": "Bằng thời hạn HĐMBĐ.",
+      "D": "Tùy tình hình thực tế."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 160,
+    "question": "Hình thức bảo đảm thực hiện HĐMBĐ",
+    "options": {
+      "A": "Bảo lãnh ngân hàng",
+      "B": "Đặt cọc bằng tiền",
+      "C": "Bảo lãnh tín chấp.",
+      "D": "A và B đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 161,
+    "question": "Thời hạn của HĐMBĐ ngoài mục đích sinh hoạt:",
+    "options": {
+      "A": "không quá 05 năm.",
+      "B": "Không quá thời hạn nêu trong Giấy tờ xác định chủ thể HĐMBĐ tại địa điểm mua điện và tối đa là 05 năm.",
+      "C": "Do hai bên thỏa thuận nhưng không quá thời hạn của giấy tờ/thông tin xác định quyền sử dụng hợp pháp địa điểm sử dụng điện của khách hàng",
+      "D": "Do 2 bên thỏa thuận"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 162,
+    "question": "Thời hạn của HĐMBĐ phục vụ mục đích sinh hoạt:",
+    "options": {
+      "A": "không quá 05 năm.",
+      "B": "Không quá thời hạn nêu trong Giấy tờ xác định chủ thể HĐMBĐ tại địa điểm mua điện và tối đa là 05 năm.",
+      "C": "Do hai bên thỏa thuận nhưng không quá thời hạn của giấy tờ/thông tin về cư trú của hộ gia đình/cá nhân tại địa điểm sử dụng điện, giấy tờ/thông tin xác định quyền sử dụng hợp pháp địa điểm sử dụng điện của khách hàng",
+      "D": "Do 2 bên thỏa thuận"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 163,
+    "question": "Các trường hợp chấm dứt HĐMBĐ",
+    "options": {
+      "A": "Kết thúc thời hạn HĐMBĐ mà các bên không có thỏa thuận gia hạn hoặc KH không có phản hồi khi nhận được thông báo của ĐVĐL về việc gia hạn HĐMBĐ.",
+      "B": "Các bên thỏa thuận về việc chấm dứt HĐMBĐ trước thời hạn.",
+      "C": "Một trong các bên đơn phương chấm dứt hợp đồng theo các quyền đơn phương chấm dứt HĐMBĐ đã thỏa thuận tại HĐMBĐ.",
+      "D": "Cả 3 câu trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 164,
+    "question": "Đối với các khách hàng mua điện mục đích sinh hoạt không sử dụng điện bao lâu thì Bên bán điện có quyền xem xét chấm dứt hợp đồng sau khi thông báo và khách hàng không phản hồi cũng như tiếp tục không sử dụng điện",
+    "options": {
+      "A": "6 tháng liên tục.",
+      "B": "5 tháng liên tục",
+      "C": "Không có quyền chấm dứt hợp đồng khi chưa nhận được phản hồi từ khách hàng.",
+      "D": "6 tháng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 165,
+    "question": "Nội dung bắt buộc trong công tác kiểm tra thực hiện HĐMBĐ",
+    "options": {
+      "A": "Việc thực hiện giá bán điện đúng mục đích, định mức sử dụng điện sinh hoạt đúng số hộ/số người sử dụng; kiểm tra Thông tin chủ thể hợp đồng mua bán điện, đảm bảo các điều kiện ký HĐMBĐ theo quy định",
+      "B": "Khách hàng có sản lượng điện sử dụng trung bình tháng của 12 tháng liền kề trước đó tại tất cả các điểm đo đếm theo hợp đồng mua bán điện từ 1.000.000 kWh/tháng trở lên, yêu cầu khách hàng thực hiện biện pháp bảo đảm thựchiện HĐMBĐ theo quy định.",
+      "C": "Khách hàng sản xuất, kinh doanh dịch vụ, khách hàng mua điện bán lại cho tổ chức, cá nhân khác có công suất sử dụng cực đại đăng ký tại HĐMBĐ dưới 40 kW nhưng có công suất sử dụng điện thực tế cực đại từ 40 kW trở lên, trong 3 chu kỳ ghi chỉ số công tơ đo điện năng liên tiếp, yêu cầu khách hàng mua công suất phản kháng theo quy định.",
+      "D": "CẢ 3 cầu A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 166,
+    "question": "Đối tượng khách hàng phải đăng ký biểu đồ phụ tải khi đăng ký mua điện.",
+    "options": {
+      "A": "Khách hàng có công suất đăng ký ≥ 40kW",
+      "B": "Khách hàng sản xuất, kinh doanh dịch vụ có công suất đăng ký ≥ 40KW",
+      "C": "Khách hàng sản xuất, kinh doanh dịch vụ có công suất đăng ký > 40KW",
+      "D": "Khách hàng sản xuất có công suất đăng ký > 40KW"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 167,
+    "question": "Khách hàng mua điện ngoài mục đích sinh hoạt không cung cấp được thông tin xác định mục đích sử dụng điện thì cơ sở xác định giá bán điện là gì?",
+    "options": {
+      "A": "Phiếu khảo sát của ĐVĐL.",
+      "B": "Phiếu khảo sát của ĐVĐL đối với trường hợp khách hàng không thuộc đối tượng phải đăng ký kinh doanh theo quy định của pháp luật hiện hành.",
+      "C": "Giấy xác nhận của chính quyền địa phương",
+      "D": "Do khách hàng khai báo."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 168,
+    "question": "Khách hàng trong khu đô thị mới, khu chung cư… có được ký HĐMBĐ trực tiếp ĐVĐL hay không?",
+    "options": {
+      "A": "Không ký HĐMBĐ với ĐVĐL, chỉ được ký HĐMbĐ với với chủ đầu tư.",
+      "B": "Được ký HĐMbĐ với ĐVĐL nếu có nhu cầu.",
+      "C": "Được mua điện nếu chủ đầu tư đã đầu tư hệ thống điện và có văn bản đồng ý để ĐVĐL sử dụng hệ thống điện để cấp điện cho khách hàng.",
+      "D": "Chỉ được ký HĐMBĐ nếu có bảo lãnh thanh toán tiền điện của chủ đầu tư"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 169,
+    "question": "Trường hợp chưa có lưới điện phân phối hoặc lưới điện phân phối bị quá tải có xác nhận của Cơ quan Điều tiết điện lực hoặc cơ quan được ủy quyền, ĐVĐL phải trả lời khách hàng trong thời gian bao lâu?",
+    "options": {
+      "A": "≤ 05 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được",
+      "B": "≤ 03 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được",
+      "C": "≤ 07 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được",
+      "D": "≤ 07 ngày làm việc, trong đó nêu rõ thời hạn dự kiến cấp điện được"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 170,
+    "question": "Hồ sơ thay đổi công suất sử dụng điện",
+    "options": {
+      "A": "Hồ sơ KH cung cấp: Thông tin chứng thực cá nhân của chủ thể ký kết HĐMBĐ, bảng kê thiết bị sử dụng điện và thông tin đăng ký biểu đồ phụ tải (KH sản xuất, kinh doanh dịch vụ có công suất đăng ký ≥ 40kW).",
+      "B": "Phiếu khảo sát và phương án thay đổi công suất; Phụ lục sửa đổi, bổ sung về thay đổi công suất sử dụng điện; Biên bản treo tháo thiết bị đo đếm (nếu có).",
+      "C": "Phiếu đề nghị tăng công suất, Phiếu khảo sát tăng công suất, Phụ lục hợp đồng về thay đổi công suất sử dụng điện, biên bản treo tháo thiết bị đo đếm (nếu có).",
+      "D": "Gồm A và B"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 171,
+    "question": "Chi phí thực hiện thay đổi công suất sử dụng điện",
+    "options": {
+      "A": "Khách hàng chịu toàn bộ chi phí phát sinh",
+      "B": "Khách hàng chịu toàn bộ chi phí đối với vật tư thiết bị thuộc tài sản của khách hàng, kể cả chi phí tháo và lắp đặt. ĐVĐL chịu chi phí đối với vật tư thiết bị thuộc tài sản của ngành điện, kể cả chi phí tháo và lắp đặt",
+      "C": "ĐVĐL chịu toàn bộ chi phí phát sinh",
+      "D": "ĐVĐL chịu toàn bộ chi phí phát sinh"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 172,
+    "question": "Hồ sơ thay đổi vị trí thiết bị đo đếm:",
+    "options": {
+      "A": "Hồ sơ KH cung cấp: Thông tin chứng thực cá nhân của chủ thể ký kết HĐMBĐ, xác nhận của cá nhân/ tổ chức có quyền sở hữu địa điểm đồng ý cho đặt vị trí đo đếm mới (nếu vị trí mới không thuộc sở hữu của KH).",
+      "B": "Phiếu khảo sát và phương án thay đổi vị trí thiết bị đo đếm; Phụ lục sửa đổi, bổ sung về thay đổi vị trí thiết bị đo đếm; Biên bản treo tháo thiết bị đo đếm.",
+      "C": "Phiếu đề nghị thay đổi vị trí thiết bị đo đếm, Phiếu khảo sát, Phụ lục hợp đồng về thay đổi vị trí thiết bị đo đếm, biên bản treo tháo thiết bị đo đếm.",
+      "D": "Gồm A và B"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 173,
+    "question": "Chi phí thực hiện thay đổi vị trí thiết bị đo đếm:",
+    "options": {
+      "A": "Khách hàng chịu toàn bộ chi phí phát sinh",
+      "B": "Bên nào có nhu cầu thay đổi vị trí thiết bị đo đếm thì bên đó chịu toàn bộ chi phí (riêng công tơ điện do ĐVĐL chịu dù thực hiện thay đổi vị trí thiết bị đo đếm theo yêu cầu cảu khách hàng)",
+      "C": "ĐVĐL chịu toàn bộ chi phí phát sinh",
+      "D": "ĐVĐL chịu toàn bộ chi phí phát sinh"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 174,
+    "question": "Đối với trường hợp KH đề nghị thay đổi chủ thể hợp đồng và đầy đủ có giây tờ, thông tin về quyền sở hữu, sử dụng hợp pháp địa điểm mua điện nhưng chưa có xác nhận đồng ý của chủ thể HĐMBĐ cũ thì Điện lực thực hiện như thế nào?",
+    "options": {
+      "A": "Bổ sung vào HĐMBĐ ký mới nội dung: “Trường hợp có tranh chấp về địa điểm sử dụng điện/chủ sở hữu địa điểm sử dụng điện không đồng ý bằng văn bản cho Bên mua điện được ký HĐMBĐ, Bên bán điện được quyền đơn phương chấm dứt hợp đồng",
+      "B": "ĐVĐL thông báo ngay cho chủ thể HĐMBĐ cũ về việc đề nghị chấm dứt HĐMBĐ khi tiếp nhận yêu cầu của khách hàng, Sau 15 ngày kể từ ngày gửi thông báo và chủ thể HĐMBĐ cũ không có ý kiến khác, ĐVĐL thực hiện thông báo đơn phương chấm dứt HĐMBĐ cũ và ký HĐMBĐ với chủ thể mới.",
+      "C": "Không chấp nhận đề nghị thay đổi chủ thể hợp đồng.",
+      "D": "Gồm cả A và B"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 175,
+    "question": "Thời gian thực hiện dịch vụ thay đổi chủ thể HĐMBĐ đối với trường hợp khách hàng đã có giây tờ, thông tin về quyền sở hữu, sử dụng hợp pháp địa điểm mua điện nhưng chưa có xác nhận đồng ý của chủ thể HĐMBĐ cũ tính từ ngày nào",
+    "options": {
+      "A": "Từ ngày nhận được đề nghị thay đổi chủ thể đến ngày hoàn tất ký kết HĐMBĐ với chủ thể mới",
+      "B": "Từ ngày gửi thông báo cho chủ thể HĐMBĐ cũ đến ngày hoàn tất ký kết HĐMBĐ với chủ thể mới",
+      "C": "Từ ngày ĐVĐL chấm dứt HĐMBĐ với chủ thể cũ đến ngày hoàn tất ký kết HĐMBĐ với chủ thể mới",
+      "D": "Từ ngày ĐVĐL nhận được xác nhận đồng ý của chủ thể HĐMBĐ cũ."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 176,
+    "question": "Bên bán điện phải thông báo cho Bên mua điện trước bao nhiêu ngày trước ngày HĐMBĐ hết hiệu lực",
+    "options": {
+      "A": "30 ngày",
+      "B": "15 ngày",
+      "C": "ít nhất 30 ngày",
+      "D": "Ít nhất 15 ngày"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 177,
+    "question": "Nguyên tắc của mã loại hợp đồng:",
+    "options": {
+      "A": "Có 3 mã loại hợp đồng: Mã “1”: áp dụng đối với Hợp đồng mua bán điện phục vụ mục đích sinh hoạt; Mã “2”: áp dụng đối với Hợp đồng mua bán điện ngoài mục đích sinh hoạt đối với các tổ chức kinh tế trong nước; Mã “3”: áp dụng đối với Hợp đồng mua bán điện ngoài mục đích sinh hoạt ngắn hạn;",
+      "B": "Có 4 mã loại hợp đồng: Mã “1”: áp dụng đối với Hợp đồng mua bán điện phục vụ mục đích sinh hoạt; Mã “2”: áp dụng đối với Hợp đồng mua bán điện ngoài mục đích sinh hoạt đối với các tổ chức kinh tế trong nước; Mã “3”: áp dụng đối với Hợp đồng mua bán điện ngoài mục đích sinh hoạt ngắn hạn; Mã “0”: áp dụng đối với Hợp đồng mua bán điện ngoài mục đích sinh hoạt đối với các tổ chức kinh tế liên doanh và nước ngoài",
+      "C": "Tùy thực tế tại từng Điện lực để có quy định phù hợp.",
+      "D": "Cả 3 câu trên đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 178,
+    "question": "Đối với trường hợp gia hạn hợp đồng phải thực hiện:",
+    "options": {
+      "A": "02 bên ký Phụ lục hợp đồng sửa đổi, bổ sung về gia hạn thời hạn của hợp đồng.",
+      "B": "2 Bên gọi điện thông báo cho nhau về việc gia hạn hợp đồng",
+      "C": "Thanh lý hợp đồng cũ, ký lại hợp đồng mới",
+      "D": "Cả 3 câu đều đúng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 179,
+    "question": "Hiệu lực của hợp đồng phục vụ mục đích ngoài sinh hoạt:",
+    "options": {
+      "A": "HĐMBĐ có hiệu lực kể từ ngày đại diện có thẩm quyền của hai bên ký kết/hoặc ngày nghiệm thu đóng điện tùy thuộc vào thời điểm nào xảy ra trước hơn",
+      "B": "Bên bán điện nhận được tài liệu xác nhận/chứng minh hoàn tất việc xác lập Biện Pháp Bảo Đảm của Bên mua điện (trường hợp Bên mua điện phải thực hiện biện pháp bảo đảm thực hiện hợp đồng).",
+      "C": "A và B đúng",
+      "D": "A và B sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 180,
+    "question": "Ngày ký hợp đồng là ngày:",
+    "options": {
+      "A": "Ngày ký Hợp Đồng được xác định là ngày thực tế Bên Bán Điện hoặc Bên Mua Điện ký Hợp Đồng, phụ thuộc vào thời điểm nào xảy ra muộn hơn;",
+      "B": "Ngày ký Hợp Đồng được xác định là ngày thực tế Bên Bán Điện hoặc Bên Mua Điện ký Hợp Đồng, phụ thuộc vào thời điểm nào xảy ra sớm hơn;",
+      "C": "Do 02 bên thỏa thuận",
+      "D": "Là ngày bắt đầu có hiệu lực của hợp đồng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 181,
+    "question": "Bên bán điện được quyền đơn phương chấm dứt HĐMBĐ phục vụ mục đích sinh hoạt trong trường hợp sau:",
+    "options": {
+      "A": "Khách hàng không sử dụng điện trong thời gian 06 tháng liên tục mà không thông báo cho Bên bán điện;",
+      "B": "Khách hàng không còn đáp ứng đủ điều kiện ký kết HĐMBĐ phục vụ mục đích sinh hoạt",
+      "C": "Bên B có hành vi vi phạm hợp đồng mà không khắc phục.",
+      "D": "A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 182,
+    "question": "Bên bán điện được quyền đơn phương chấm dứt HĐMBĐ phục vụ mục đích ngoài sinh hoạt trong trường hợp sau:",
+    "options": {
+      "A": "Bên mua điện có hành vi vi phạm các nghĩa vụ, cam kết, bảo đảm của Bên mua điện tại hợp đồng mà không khắc phục hậu quả trong thời gian hợp lý theo thông báo của Bên bán điện.",
+      "B": "Bên mua điện là tổ chức, hộ kinh doanh bị chấm dứt hoạt động, bị thu hồi giấy phép hoạt động, bị giải thể, bị tuyên bố phá sản, không còn quyền sử dụng Địa Điểm Sử Dụng Điện hoặc bị truy cứu trách nhiệm hình sự theo quy định của Pháp Luật",
+      "C": "Bên mua điện là cá nhân mất tích, chết, không còn quyền sử dụng Địa Điểm Sử Dụng Điện hoặc bị truy cứu trách nhiệm hình sự theo quy định của Pháp Luật.",
+      "D": "A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 183,
+    "question": "Trường hợp Bên mua điện phải thực hiện bảo đảm hợp đồng, nhưng đến thời hạn đã thỏa thuận trong hợp đồng mà Bên mua điện không cung cấp được hồ sơ bảo đảm hợp đồng, vậy hợp đồng:",
+    "options": {
+      "A": "Vẫn có hiệu lực và Bên mua điện sẽ bổ sung sau.",
+      "B": "Không có hiệu lực.",
+      "C": "02 Bên sẽ thỏa thuận lại",
+      "D": "Ký phụ lục bổ sung để thỏa thuận lại"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 184,
+    "question": "Giá trị Tài Sản Bảo Đảm sẽ được ĐVĐL rà soát mỗi năm",
+    "options": {
+      "A": "1 lần",
+      "B": "2 lần",
+      "C": "3 lần",
+      "D": "Không điều chỉnh trong quá trình thực hiện hợp đồng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 185,
+    "question": "Bên mua điện không duy trì Biện Pháp Bảo Đảm trong thời hạn bảo đảm hoặc không bổ sung Khoản Khấu Trừ (sau khi khấu trừ tiền đặt cọc để thanh toán cho Bên bán điện do Bên mua điện vi phạm nghĩa vụ thanh toán) thì Bên Bán điện có quyền:",
+    "options": {
+      "A": "Ngừng cấp điện",
+      "B": "Đơn phương thanh lý hợp đồng.",
+      "C": "Phạt vi phạm hợp đồng",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 186,
+    "question": "ĐVĐL có trách nhiệm thông báo cho khách hàng trước khi HĐMBĐ hết hạn bao lâu:",
+    "options": {
+      "A": "Không muộn hơn 15 ngày",
+      "B": "Không muộn hơn 30 ngày",
+      "C": "Không cần phải thông báo cho khách hàng, đến ngày HĐMBĐ hết hạn nếu khách hàng không liên hệ gia hạn thì tiến hành thanh lý hợp đồng.",
+      "D": "Trước ngày HĐMBĐ hết hiệu lực 1 ngày."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 187,
+    "question": "Cách tính khoản tiền lãi chậm trả tiền điện đối với khách hàng không có bảo đảm thực hiện hợp đồng",
+    "options": {
+      "A": "Khoản tiền lãi chậm trả được tính bằng giá trị Nghĩa Vụ Thanh Toán bị vi phạm nhân với số ngày chậm trả",
+      "B": "Khoản tiền lãi chậm trả được tính bằng giá trị Nghĩa Vụ Thanh Toán bị vi phạm nhân với Lãi Suất Chậm Trả.",
+      "C": "Khoản tiền lãi chậm trả được tính bằng giá trị Nghĩa Vụ Thanh Toán bị vi phạm nhân với Lãi Suất Chậm Trả và nhân với số ngày chậm trả.",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 188,
+    "question": "Cách tính khoản tiền lãi chậm trả tiền điện đối với khách hàng có bảo đảm thực hiện hợp đồng",
+    "options": {
+      "A": "Khoản tiền lãi chậm trả được tính bằng giá trị Nghĩa Vụ Thanh Toán bị vi phạm nhân với số ngày chậm trả",
+      "B": "Khoản tiền lãi chậm trả được tính bằng khoản còn thiếu nhân với Lãi Suất Chậm Trả và nhân với số ngày chậm trả.",
+      "C": "Khoản tiền lãi chậm trả được tính bằng giá trị Nghĩa Vụ Thanh Toán bị vi phạm nhân với Lãi Suất Chậm Trả.",
+      "D": "Cả 3 câu trên đều sai."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 189,
+    "question": "Số ngày chậm trả tiền điện được tính như thế nào?",
+    "options": {
+      "A": "Số ngày chậm trả được tính từ ngày đầu tiên kết thúc thời hạn thanh toán đến ngày Bên B thanh toán đủ.",
+      "B": "Số ngày chậm trả được tính từ ngày đầu tiên kết thúc thời hạn thanh toán đến ngày Bên A ngừng cấp điện cho Bên B",
+      "C": "Số ngày chậm trả được tính từ ngày phát hành hóa đơn tiền điện đến ngày Bên B thanh toán đủ hoặc ngày Bên A ngừng cấp điện cho Bên B",
+      "D": "Số ngày chậm trả được tính từ ngày đầu tiên kết thúc thời hạn thanh toán đến ngày Bên B thanh toán đủ hoặc ngày Bên A ngừng cấp điện cho Bên B"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 190,
+    "question": "Người đứng đầu chi nhánh/văn phòng đại diện có quyền thay mặt doanh nghiệp để ký kết HĐMBĐ hay không?",
+    "options": {
+      "A": "Được ký kết hợp đồng nếu doanh nghiệp có ủy quyền ghi rõ nội dung cho phép người đứng đầu chi nhánh thay mặt doanh nghiệp ký kết HĐMBĐ",
+      "B": "Không được phép",
+      "C": "Tùy vào từng mô hình doanh nghiệp.",
+      "D": "Tùy vào từng loại hợp đồng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 191,
+    "question": "Trường hợp thay đổi chủ thể hợp đồng có phải ký kết HĐMBĐ mới hay không?",
+    "options": {
+      "A": "Chỉ cần ký phụ lục hợp đồng",
+      "B": "Phải thực hiện thanh lý hợp đồng cũ, ký lại hợp đồng mới",
+      "C": "Tùy từng trường hợp cụ thể để ký phụ lục hoặc ký lại hợp đồng mới.",
+      "D": "Tùy theo yêu cầu của khách hàng."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 192,
+    "question": "Địa chỉ mua điện phải trùng với địa chỉ của chủ thể Bên mua điện ghi tại hợp đồng?",
+    "options": {
+      "A": "Đúng. Địa chỉ mua điện bắt buộc phải trùng với địa chỉ chủ thể hợp đồng bên mua điện.",
+      "B": "Sai. Địa chỉ mua điện luôn luôn khác địa chỉ của chủ thể hợp đồng bên mua điện.",
+      "C": "Tùy từng trường hợp cụ thể mà địa chỉ mua điện có thể trùng hoặc không trùng với địa chỉ của chủ thể hợp đồng bên mua điện",
+      "D": "Thực tế địa chỉ mua điện chính là địa chỉ của chủ thể hợp đồng bên mua điện"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 193,
+    "question": "Ngày xác nhận bảo đảm hợp đồng là gì?",
+    "options": {
+      "A": "Là ngày Bên mua điện gửi cho Bên bán điện tài liệu xác nhận/ chứng minh đã hoàn tất việc xác lập Biện pháp bảo đảm.",
+      "B": "Là ngày Bên mua điện ký biên bản đồng ý thực hiện bảo đảm hợp đồng.",
+      "C": "Là ngày hợp đồng có hiệu lực",
+      "D": "Cả 3 câu đều đúng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 194,
+    "question": "Đối tượng khách hàng nào phải mua công suất phản kháng",
+    "options": {
+      "A": "Bên mua điện để sản suất, kinh doanh có trạm điện riêng hoặc có công suất sử dụng cực đại đăng ký tại hợp đồng mua bán điện từ 40 kW trở lên và có hệ số công suất cosφ< 0,9 phải mua công suất phản kháng.",
+      "B": "Trường hợp bên mua điện có công suất sử dụng cực đại đăng ký tại hợp đồng mua bán điện dưới 40 kW nhưng có công suất sử dụng điện thực tế cực đại từ 40 kW trở lên trong 3 chu kỳ ghi chỉ số công tơ liên tiếp thì bên mua điện thuộc đối tượng phải mua công suất phản kháng kể từ chu kỳ ghi chỉ số kết tiếp của 3 chu kỳ ghi chỉ số trên.",
+      "C": "Cả A & B đúng",
+      "D": "Cả A & B sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 195,
+    "question": "Thời hạn thanh toán và phương thức thanh toán tiền mua công suất phản kháng thực hiện như thế nào tại HĐMBĐ ngoài sinh hoạt?",
+    "options": {
+      "A": "Do 2 bên thỏa thuận và ghi vào điều 3.5 các thỏa thuận cụ thể khác của HĐMBĐ",
+      "B": "Tùy khách hàng quyết định thời hạn và phương thức thành toán",
+      "C": "Thực hiện theo điều 3.2 - điều khoản về thanh toán (áp dụng cho mọi khoản thanh toán phát sinh từ hợp đồng)",
+      "D": "Cả 3 câu đều đúng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 196,
+    "question": "Đối tượng nào sau đây áp dụng giá bán điện cho kinh doanh:",
+    "options": {
+      "A": "Cửa hàng ăn uống, giải khát, uốn tóc, giặt là, may đo, rửa xe.",
+      "B": "Các doanh nghiệp sản xuất và cung ứng sản phẩm, dịch vụ công ích (cho phần sản lượng điện sử dụng cho các hoạt động công ích) trừ hoạt động chiếu sáng công cộng.",
+      "C": "Ngân hàng chính sách xã hội hoạt động phi lợi nhuận;",
+      "D": "Điện sử dụng cho các thang máy khu chung cư cao tầng; bơm nước phục vụ sinh hoạt tại khu tập thể, cụm dân cư;"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 197,
+    "question": "Bên mua điện sử dụng vào mục đích sinh hoạt cho nhà ở tập thể của cán bộ, công nhân viên chức, lực lượng vũ trang, nhà ở của người tu hành; ký túc xá học sinh, sinh viên áp dụng như sau",
+    "options": {
+      "A": "Trường hợp có thể kê khai được số người thì cứ 04 (bốn) người (xác định theo Thông tin về cư trú tại địa điềm sử dụng điện hoặc danh sách cán bộ, chiến sỹ có xác nhận của thủ trưởng đơn vị đối với lực lượng vũ trang) được tính là một hộ sử dụng điện để áp dụng giá bán lẻ điện sinh hoạt;\".",
+      "B": "Trường hợp không thể kê khai được số người thì áp dụng giá bán lẻ điện sinh hoạt của bậc 3: từ 101 - 200 kWh cho toàn bộ sản lượng điện đo đếm được tại công tơ.",
+      "C": "Trường hợp không thể kê khai được số người thì áp dụng giá bán lẻ điện sinh hoạt của bậc 3 từ 101 - 200 kWh.",
+      "D": "a & b đúng ."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 198,
+    "question": "Tại một địa chỉ cho thuê nhà có nhiều hộ thuê nhà sử dụng vào mục đích sinh hoạt, việc tính định mức sẽ là:",
+    "options": {
+      "A": "Mỗi hộ gia đình thuê nhà được tính một định mức.",
+      "B": "Cứ 4 người được tính là một hộ sử dụng điện để tính số định mức áp dụng giá bán lẻ điện sinh hoạt.",
+      "C": "Áp dụng giá bán lẻ điện sinh hoạt của bậc 3: từ 101 - 200 kWh cho toàn bộ sản lượng điện đo đếm được tại công tơ.",
+      "D": "Chỉ được một định mức cho một hợp đồng tại một địa chỉ."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 199,
+    "question": "Trường hợp áp dụng sai mục đích sử dụng điện gây thiệt hại cho bên mua hoặc bên bán điện, phải tiến hành truy thu hoặc thoái hoàn tiền điện. Trường hợp không xác định rõ thời điểm áp dụng sai giá thì thời gian để tính truy thu hoặc thoái hoàn là",
+    "options": {
+      "A": "12 tháng kể từ thời điểm phát hiện trở về trước",
+      "B": "3 tháng kể từ thời điểm phát hiện trở về trước",
+      "C": "6 tháng kể từ thời điểm phát hiện trở về trước",
+      "D": "Theo thỏa thuận giữa 02 bên"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 200,
+    "question": "Bên mua điện sinh hoạt có các hộ sử dụng điện dùng chung công tơ (xác định theo\nThông tin về cư trú của hộ gia đình tại địa điểm sử dụng điện), áp dụng giá bán điện cho các hộ sử dụng theo nguyên tắc",
+    "options": {
+      "A": "Cứ 4 người được tính là một hộ sử dụng điện để tính số định mức áp dụng giá bán lẻ điện sinh hoạt.",
+      "B": "Định mức chung của bên mua điện bằng định mức của từng bậc nhân với số hộ sử dụng điện dùng chung công tơ.",
+      "C": "Áp dụng giá bán lẻ điện sinh hoạt của bậc 3: từ 101 - 200 kWh cho toàn bộ sản lượng điện đo đếm được tại công tơ.",
+      "D": "Chỉ được một định mức cho một hợp đồng tại một địa chỉ."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 201,
+    "question": "Trường hợp bên mua điện có sử dụng điện cho các mục đích khách chung với mục đich sản xuất, kinh doanh và có công tơ đo đếm riêng cho phần điện năng sử dụng sản xuất, kinh\ndoanh thì việc xác định hệ số công suất cosφ như thế nào?",
+    "options": {
+      "A": "Tính trên trung bình cộng của điện năng sử dụng cho mục đích sản xuất, kinh doanh và điện năng sử dụng cho mục đích khác.",
+      "B": "Tính trên tổng điện năng sử dụng của bên mua điện",
+      "C": "Tính trên phần điện năng sử dụng cho mục đích sản xuất, kinh doanh.",
+      "D": "Không tính được hệ số công suất cosφ"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 202,
+    "question": "Trường hợp bên mua điện có sử dụng điện cho các mục đích khách chung với mục đich sản xuất, kinh doanh và không có công tơ đo đếm riêng cho phần điện năng sử dụng sản xuất,\nkinh doanh thì việc xác định hệ số công suất cosφ như thế nào?",
+    "options": {
+      "A": "Tính trên phần điện năng sử dụng cho mục đích sản xuất, kinh doanh. Phần điện năng này được xác định tren cơ sở sản lượng điện năng đo đếm chung trừ đi sản lượng điện năng sử dụng cho mục đích khác được tính toán căn cứ công suất sử dụng và thời gian sử dụng của các thiết bị điện phục vụ mục đích khác do 02 bên thỏa thuận trong HĐMBĐ",
+      "B": "Tính trên tổng điện năng sử dụng của bên mua điện",
+      "C": "Tính trên trung bình cộng của điện năng sử dụng cho mục đích sản xuất, kinh doanh và điện năng sử dụng cho mục đích khác.",
+      "D": "Không tính được hệ số công suất cosφ"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 203,
+    "question": "Các hành vi bị nghiêm cấm khi giao tiếp với khách hàng quy định trong Quy tắc ứng xử đạo đức nghề nghiệp của EVNSPC là:",
+    "options": {
+      "A": "Dùng cử chỉ, lời nói thiếu văn hóa, từ ngữ có tính chất đe dọa, mệnh lệnh, thiếu bình đẳng, cửa quyền với khách hàng.",
+      "B": "Giao tiếp với khách hàng khi có mùi bia rượu. Thu tiền trông giữ xe của khách đến đơn vị.",
+      "C": "Lợi dụng cương vị công tác, nhiệm vụ được giao để vòi vĩnh, sách nhiễu, gây phiền hà cho khách.",
+      "D": "A,B,C đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 204,
+    "question": "Hướng dẫn cho khách hàng gửi kiến nghị vượt cấp về những vấn đề thuộc thẩm quyền giải quyết của đơn vị:",
+    "options": {
+      "A": "Là 1 trong các hành vi bị nghiêm cấm khi giao tiếp với khách hàng.",
+      "B": "Thể hiện sự tận tâm giúp đỡ khách hàng",
+      "C": "Góp phần nâng cao chất lượng phục vụ khách hàng",
+      "D": "Là sự sáng tạo trong công tác chăm sóc khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 205,
+    "question": "Trong các chuẩn mực đạo đức, EVN nêu phương châm “EVN phấn đấu để xứng đáng với niềm tin của đất nước và nhân dân” và thực hiện cụ thể thông qua việc:",
+    "options": {
+      "A": "EVN có tinh thần đoàn kết, hợp tác và lao động sáng tạo là nguồn sức mạnh tổng hợp để đạt được các mục tiêu đề ra",
+      "B": "EVN tin tưởng sẽ xứng đáng với niềm tin mà Đảng, Chính phủ, đất nước và nhân dân đã giao phó",
+      "C": "EVN hành động vì niềm vui, hạnh phúc của mọi người",
+      "D": "Các câu trên đều đúng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 206,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Cam kết giữ gìn môi trường” của EVN:",
+    "options": {
+      "A": "EVN luôn phấn đấu sử dụng những công nghệ tiên tiến, thân thiện với môi trường",
+      "B": "EVN luôn phấn đấu sử dụng những công nghệ kiểm soát được ô nhiễm môi trường",
+      "C": "EVN luôn phấn đấu tạo điều kiện cho các hoạt động xã hội tự nguyện và bảo vệ môi trường của CBCNV",
+      "D": "EVN luôn phấn đấu tạo điều kiện cho các hoạt động kiểm soát ô nhiễm môi trường, tăng cường chất lượng môi trường"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 207,
+    "question": "“Đáp ứng đầy đủ nhu cầu về điện của khách hàng với chất lượng và dịch vụ ngày càng tốt hơn” là nội dung thuộc về yếu tố nào của văn hóa EVN:",
+    "options": {
+      "A": "Tầm nhìn",
+      "B": "Sứ mạng",
+      "C": "Khẩu hiệu",
+      "D": "Giá trị cốt lõi"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 208,
+    "question": "Trong các chuẩn mực đạo đức, EVN nêu phương châm “Sức mạnh trong mọi hành động của EVN là sự đồng thuận và trí tuệ tập thể” và thực hiện cụ thể thông qua việc:",
+    "options": {
+      "A": "EVN có tinh thần đoàn kết, hợp tác và lao động sáng tạo là nguồn sức mạnh tổng hợp để đạt được các mục tiêu đề ra",
+      "B": "EVN tin tưởng sẽ xứng đáng với niềm tin mà Đảng, Chính phủ, đất nước và nhân dân đã giao phó",
+      "C": "EVN cam kết hành động vì lợi ích quốc gia, vì sự phồn vinh của Tổ quốc",
+      "D": "Các câu trên đều đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 209,
+    "question": "Nội dung nào không phải là giá trị cốt lõi của EVN:",
+    "options": {
+      "A": "Chất lượng - Tín nhiệm",
+      "B": "Lợi nhuận – Tiết kiệm",
+      "C": "Sáng tạo - Hiệu quả",
+      "D": "Tận tâm - Trí tuệ"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 210,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Bảo đảm lợi ích cho cộng đồng” của EVN:",
+    "options": {
+      "A": "Khuyến khích, đề cao các ý tưởng sáng tạo và tạo điều kiện tối đa để các ý tưởng sáng tạo được áp dụng vào thực tiễn",
+      "B": "Tổ chức, khuyến khích và tạo điều kiện cho các hoạt động xã hội tự nguyện của CBCNV như đền ơn đáp nghĩa, từ thiện và bảo vệ môi trường",
+      "C": "EVN coi các đối tác như những người bạn, luôn mong muốn xây dựng các mối quan hệ thân thiện, bền vững trên cơ sở bình đẳng, cùng có lợi và tin tưởng nhau",
+      "D": "Luôn khuyến khích, tạo điều kiện cho người lao động rèn luyện, trau dồi kiến thức, kỹ năng để phát triển"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 211,
+    "question": "Trong thực thi văn hóa EVN, câu khẩu hiệu nào sau đây thể hiện “Quan hệ với đối tác” của EVN:",
+    "options": {
+      "A": "Khách hàng là sự tồn tại của chúng tôi",
+      "B": "Bảo vệ ngôi nhà chung",
+      "C": "Vì một cộng đồng phát triển",
+      "D": "Hợp tác cùng phát triển"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 212,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Quan hệ với đối tác” của EVN:",
+    "options": {
+      "A": "Khi giải quyết công việc, EVN coi trọng sự tuân thủ pháp luật, cạnh tranh lành mạnh trên cơ sở công nghệ tiên tiến, chất lượng sản phẩm tốt",
+      "B": "Luôn đối xử với nhau trên cơ sở bình đẳng, tôn trọng lẫn nhau, sống có tình nghĩa, tôn trọng và đoàn kết, hợp tác trên mọi phương diện",
+      "C": "Kiên quyết bài trừ tệ nạn tham nhũng, cửa quyền, quan liêu, thiếu trách nhiệm và tư lợi cá nhân",
+      "D": "Mọi người phải được đánh giá đúng và được lắng nghe, thành tích phải được đánh giá"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 213,
+    "question": "“Khách hàng là sự tồn tại của chúng tôi” là nội dung thuộc yếu tố nào của văn hóa EVN.",
+    "options": {
+      "A": "Sứ mệnh",
+      "B": "Tầm nhìn",
+      "C": "Thực thi văn hóa",
+      "D": "Chuẩn mực đạo đức"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 214,
+    "question": "CBCNV của EVNSPC khi giao tiếp với khách hàng:",
+    "options": {
+      "A": "Không nhất thiết phải sử dụng trang phục và thẻ nghiệp vụ chỉ cần giao tiếp với thái độ ân cần, gần gũi, biểu hiện sự thân thiện, tôn trọng.",
+      "B": "Chủ động giúp đỡ nếu thấy khách có biểu hiện cần giúp đỡ (kể cả khách đến không phải để gặp mình)",
+      "C": "Chỉ chủ động tỏ thái độ cởi mở với khách hàng đến gặp mình để giải quyết công việc.",
+      "D": "Đề nghị khách hàng đưa ngay yêu cầu, hạn chế giao tiếp để không mất thời gian giải quyết công việc."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 215,
+    "question": "EVN khẳng định Giá trị cốt lõi của mình là “Chất lượng – tín nhiệm” thông qua phương châm hành động cụ thể là:",
+    "options": {
+      "A": "EVN cam kết với mọi đối tác sẽ luôn đảm bảo chất lượng là mục tiêu hàng đầu, đáp ứng nhu cầu ngày càng cao của khách hàng",
+      "B": "EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao",
+      "C": "EVN sẽ luôn hợp tác trên tinh thần trung thực, công bằng, sẵn sàng chia sẻ, gắn bó chặt chẽ để giải quyết được mọi vấn đề của hệ thống",
+      "D": "EVN mong muốn tạo môi trường thuận lợi để mọi người phát huy được sức sáng tạo, đổi mới công nghệ, quy trình quản lý để đem lại hiệu quả cao nhất"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 216,
+    "question": "Các quy trình, quy phạm sử dụng trong EVN thuộc về yếu tố:",
+    "options": {
+      "A": "Các giả định",
+      "B": "Các biểu tượng",
+      "C": "Các giá trị",
+      "D": "Các chuẩn mực"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 217,
+    "question": "“Các cán bộ - Nhân viên Điện lực hạnh phúc sẽ giúp ngành Điện phát triển hiệu quả và bền vững” là một dạng của:",
+    "options": {
+      "A": "Giả định",
+      "B": "Nghi thức",
+      "C": "Niềm tin",
+      "D": "Giá trị"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 218,
+    "question": "EVN khẳng định Giá trị cốt lõi của mình là “Hợp tác – chia sẻ” thông qua phương châm hành động cụ thể là:",
+    "options": {
+      "A": "EVN cam kết với mọi đối tác sẽ luôn đảm bảo chất lượng là mục tiêu hàng đầu, đáp ứng nhu cầu ngày càng cao của khách hàng",
+      "B": "EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao",
+      "C": "EVN sẽ luôn hợp tác trên tinh thần trung thực, công bằng, sẵn sàng chia sẻ, gắn bó chặt chẽ để giải quyết được mọi vấn đề của hệ thống",
+      "D": "EVN mong muốn tạo môi trường thuận lợi để mọi người phát huy được sức sáng tạo, đổi mới công nghệ, quy trình quản lý để đem lại hiệu quả cao nhất."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 219,
+    "question": "Trong nội dung của văn hóa giao tiếp, EVN quy định: “Trang phục gọn gàng, lịch sự theo đúng quy định”. Đây là một kiểu biểu hiện của:",
+    "options": {
+      "A": "Biểu trưng trực quan",
+      "B": "Niềm tin",
+      "C": "Giá trị",
+      "D": "Chuẩn mực"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 220,
+    "question": "Đâu là quy định trong “Văn hóa công sở” của Tổng Công ty Điện lực Miền Nam:",
+    "options": {
+      "A": "CBCNV tuân thủ mặc đồng phục theo quy định, đeo biển tên mọi lúc mọi nơi.",
+      "B": "Không để tay trong túi quần trong quá trình giao tiếp.",
+      "C": "Đi lại đóng mở cửa nhẹ nhàng, nên gõ cửa chỉ trước khi vào phòng lãnh đạo.",
+      "D": "Đi đứng trong tư thế đàng hoàng, cần vội vàng đúng những khi cần thiết."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 221,
+    "question": "Trong thực thi văn hóa EVN, câu khẩu hiệu nào sau đây thể hiện “Bảo đảm lợi ích cho cộng đồng” của EVN:",
+    "options": {
+      "A": "Khách hàng là sự tồn tại của chúng tôi",
+      "B": "Vì một cộng đồng phát triển",
+      "C": "Hợp tác cùng phát triển",
+      "D": "Bảo vệ ngôi nhà chung"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 222,
+    "question": "Nội dung nào sau đây là quy định về chuẩn mực ứng xử của CBNV quản lý vận hành lưới điện:",
+    "options": {
+      "A": "Luôn tươi cười, niềm nở.",
+      "B": "Lắng nghe và ghi chép đầy đủ, trung thực ý kiến của các đối tượng khi tiếp xúc.",
+      "C": "Xưng tên để diễn tả ý kiến của mình",
+      "D": "Chỉ cần cười hoặc gật đầu."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 223,
+    "question": "Hội nghị tổng kết thi đua khen thưởng hàng năm của Công ty điện lực là một dạng của:",
+    "options": {
+      "A": "Nghi thức",
+      "B": "Chuẩn mực",
+      "C": "Giá trị",
+      "D": "Cạnh tranh"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 224,
+    "question": "Trong công sở, khi người được chào đang bận giao tiếp với người khác:",
+    "options": {
+      "A": "Có thể chỉ cần cười hoặc gật đầu.",
+      "B": "Tình huống này không cần chào.",
+      "C": "Chào lớn tiếng để người chào biết mình chào.",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 225,
+    "question": "Bộ Tài liệu văn hóa Tổng Công ty Điện lực Miền Nam ban hành tháng 06/2015 được soạn thảo bởi:",
+    "options": {
+      "A": "Ban Pháp chế Tổng Công ty Điện lực Miền Nam.",
+      "B": "Ban Quan hệ cộng đồng Tổng Công ty Điện lực Miền Nam.",
+      "C": "Ban Kế hoạch Tổng Công ty Điện lực Miền Nam.",
+      "D": "Ban Quan hệ quốc tế Tổng Công ty Điện lực Miền Nam."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 226,
+    "question": "Trong văn hóa hội họp, EVNSPC quy định, nếu có đối tác ngoài đơn vị:",
+    "options": {
+      "A": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi phía bên tay phải.",
+      "B": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi phía bên tay trái.",
+      "C": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi đối diện.",
+      "D": "Tất cả đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 227,
+    "question": "Việc chào hỏi dựa trên chênh lệch tuổi tác trong công việc thể hiện:",
+    "options": {
+      "A": "Sự cụ thể hóa ứng xử nội bộ của EVN “Gia đình EVN trên thuận, dưới hòa”",
+      "B": "Sự tiếp nối văn hóa ứng xử tôn trọng thiên nhiên của văn hóa Việt Nam",
+      "C": "Sự chi phối của tuổi tác đến vị trí xã hội “Sống lâu lên lão làng”.",
+      "D": "Sự cứng nhắc trong văn hóa công việc."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 228,
+    "question": "Việc chào hỏi giữa lãnh đạo và nhân viên, văn hóa doanh nghiệp EVNSPC quy định:",
+    "options": {
+      "A": "Lãnh đạo phải đáp lại bằng cách chào hỏi thân thiện hoặc có thể gật đầu mỉm cười đáp lại khi nhân viên chào.",
+      "B": "Lãnh đạo không cần phải đáp lại khi nhân viên chào.",
+      "C": "Nhân viên không được chào trước vì có khoảng cách địa vị xã hội.",
+      "D": "A và C đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 229,
+    "question": "Văn hóa doanh nghiệp EVNSPC quy định về văn hóa trò chuyện:",
+    "options": {
+      "A": "Diễn đạt bằng những câu nói ngắn gọn, dễ hiểu và truyền cảm, thể hiện thái độ thân thiện, vui vẻ và hòa đồng.",
+      "B": "Xưng tên để diễn tả ý kiến của mình với người đối diện.",
+      "C": "Nói đủ nghe, có thể nói khi đang ăn cũng như khi đang nhai kẹo cao su.",
+      "D": "A và C đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 230,
+    "question": "Quy định về văn hóa chào hỏi, VHDN EVNSPC yêu cầu cách thức bắt tay:",
+    "options": {
+      "A": "Không cần bắt tay lần lượt từng người theo thứ tự đến trước, đến sau, người cao tuổi hơn, người có chức vụ cao hơn.",
+      "B": "Dùng tay phải để bắt tay, khi bắt tay, mắt nhìn thẳng người đối diện.",
+      "C": "Cần phải siết nhẹ để biểu hiện sự nồng ấm thân thiết",
+      "D": "Bắt tay nhanh, lắc mạnh bàn tay đối tác."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 231,
+    "question": "Theo “Văn hóa chào hỏi”, EVNSPC quy định cách thức bắt tay:",
+    "options": {
+      "A": "Dùng tay phải để bắt tay, khi bắt tay, mắt nhìn thẳng người đối diện",
+      "B": "Siết mạnh tay và giữ lâu biểu hiện sự thân thiện và nhiệt tình.",
+      "C": "Cúi lưng hay cầm cả hai tay của người đối diện khi bắt tay, tỏ thái độ tôn trọng.",
+      "D": "Chỉ bắt tay với nhân vật quan trọng hoặc chức vụ cao hơn"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 232,
+    "question": "CBCNV thuộc Tồng Công ty Điện lực Miền Nam khi nhận điện thoại giao tiếp, câu đầu tiên sẽ là:",
+    "options": {
+      "A": "Alo + Tên đơn vị/Tên mình + Xin nghe.",
+      "B": "Alo + Tên mình/Chức vụ + Xin nghe.",
+      "C": "Alo + Tên đơn vị/Địa chỉ đơn vị + Xin nghe.",
+      "D": "Alo + Chào hỏi + Xin nghe."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 233,
+    "question": "Nội dung nào sau đây là sai trong “Văn hóa khi làm việc” theo quy định của văn hóa doanh nghiệp EVNSP",
+    "options": {
+      "C": "Tuyệt đối không rời chỗ làm việc",
+      "A": "Đi làm đúng giờ.",
+      "B": "Tránh ngắt lời người khác.",
+      "D": "Chào tạm biệt trước khi rời khỏi văn phòng."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 234,
+    "question": "“EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao. Các thành viên của EVN luôn mang hết sức lực và trí tuệ để giải quyết công\n\nviệc hiệu quả, hết lòng phục vụ để đem lại sự hài lòng cho khách hàng và vì hạnh phúc của nhân dân” là nội dung phản ánh giá trị cốt lõi:",
+    "options": {
+      "A": "Chất lượng – tín nhiệm",
+      "B": "Hợp tác – chia sẻ",
+      "C": "Tận tâm – trí tuệ",
+      "D": "Sáng tạo – hiệu quả"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 235,
+    "question": "Trong văn hóa sử dụng danh thiếp, EVNSPC quy định:",
+    "options": {
+      "A": "Không hỏi thông tin về cách phát âm tên hoặc bất cứ thông tin gì chưa rõ trên danh thiếp.",
+      "B": "Có thể viết bổ sung những thông tin khác trên danh thiếp in sẵn.",
+      "C": "Mẫu danh thiếp được trình bày tùy thuộc vào thiết kế của mỗi cá nhân.",
+      "D": "Người tự giới thiệu đưa danh thiếp trước, đứng lên khi đưa và đưa bằng tay trái và nhận bằng tay phải."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 236,
+    "question": "Trong văn hóa giao tiếp, khi gặp khách hàng hay đối tác lần đầu, chúng ta sẽ:",
+    "options": {
+      "A": "Vui mừng và ôm chặt người đó.",
+      "B": "Mỉm cười, tự giới thiệu và chủ động bắt tay.",
+      "C": "Đợi người khác giới thiệu.",
+      "D": "Cúi đầu chào từ xa thể hiện sự tôn trọng."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 237,
+    "question": "Văn hóa doanh nghiệp đặc sắc sẽ được thể hiện ở biểu hiện hữu hình nổi bật nào:",
+    "options": {
+      "A": "Các hành vi văn hoá của từng cá nhân trong doanh nghiệp",
+      "B": "Xây dựng quy trình, quy chế làm việc chuẩn mực",
+      "C": "Thường xuyên tổ chức những buổi dã ngoại cho nhân viên",
+      "D": "Thể hiện tính độc đáo, gây nhiều sự chú ý"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 238,
+    "question": "Nhân viên đeo thẻ nhân viên khi giao dịch, công tác mang ý nghĩa:",
+    "options": {
+      "A": "Khẳng định vị thế với khách hàng, đối tác, đồng nghiệp.",
+      "B": "Khiến cho khách hàng phải tự điều chỉnh hành vi ứng xử nếu muốn được việc.",
+      "C": "Góp phần nhận dạng thương hiệu doanh nghiệp",
+      "D": "Để người quản lý dễ điểm danh."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 239,
+    "question": "Mỗi CBCNV EVN là một đại sứ thương hiệu đưa các giá trị văn hóa ngành Điện lan tỏa vào cộng đồng có ý nghĩa là:",
+    "options": {
+      "A": "Khẳng định những cam kết của ngành điện được thực thi hiệu quả và bền vững.",
+      "B": "Tạo sự đồng thuận xã hội, cùng chung tay chia sẻ những khó khăn, thách thức đối với hoạt động sản xuất, phân phối, tiêu thụ sản phẩm điện năng.",
+      "C": "Mang đến dấu ấn văn hóa doanh nghiệp nghành điện đặc sắc, gần gũi.",
+      "D": "Tất cả đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 240,
+    "question": "Văn hóa giao tiếp với khách hàng được quy định cụ thể trong tài liệu văn hóa Doanh nghiệp, theo đó nhân viên EVN cần phải:",
+    "options": {
+      "A": "Có sự hiểu biết, có tinh thần trách nhiệm với sản phẩm.",
+      "B": "Nắm thông tin về các hoạt động sản xuất kinh doanh của công ty.",
+      "C": "Đáp ứng cơ bản các thắc mắc của khách hàng.",
+      "D": "A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 241,
+    "question": "Kỹ năng cần thiết trong giao tiếp với khách hàng khi bị khách hàng phàn nàn:",
+    "options": {
+      "A": "Thành thật xin lỗi khách hàng.",
+      "B": "Nhanh chóng xem xét đền bù.",
+      "C": "Không tiếp nhận ý kiến mà chuyển lên lãnh đạo cấp trên.",
+      "D": "Xoa dịu theo yêu cầu khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 242,
+    "question": "Cách đúng nhất đánh giá mức độ hài lòng của khách hàng đối với chất lượng, dịch vụ điện là:",
+    "options": {
+      "A": "Lắng nghe khách hàng.",
+      "B": "Theo dõi doanh thu đơn vị theo từng giai đoạn.",
+      "C": "Phân tích tập trung vào các báo cáo của nhân viên cấp dưới.",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 243,
+    "question": "Một trong những hạn chế của văn hóa doanh nghiệp là:",
+    "options": {
+      "A": "Tăng tính cam kết trong tổ chức",
+      "B": "Kiên định trong hành vi của nhân viên",
+      "C": "Giảm sự mơ hồ trong nhân viên",
+      "D": "Khó khăn trong việc hợp nhất giữa các tổ chức"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 244,
+    "question": "Quản lý công ty bằng quy định có đặc điểm:",
+    "options": {
+      "A": "Văn hóa doanh nghiệp là quyền lực mềm trong kiểm soát và điều chỉnh hành vi nhân viên",
+      "B": "Bắt buộc các thành viên phải tuân thủ dù muốn hay không",
+      "C": "Các thành viên hiểu, tin tưởng, tự hào, và tự giác tuân thủ.",
+      "D": "A,B,C đúng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 245,
+    "question": "Vai trò của văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Tạo động lực làm việc",
+      "B": "Giảm xung đột",
+      "C": "Điều phối và kiểm soát",
+      "D": "Tất cả các ý trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 246,
+    "question": "Nếu doanh nghiệp đầu tư nhiều vào nghiên cứu và phát triển sản phẩm. Điều này phản ảnh yếu tố nào của văn hóa:",
+    "options": {
+      "A": "Khoảng cách quyền lực",
+      "B": "Mức độ chấp nhận mạo hiểm",
+      "C": "Tập thể và cá nhân",
+      "D": "Nam tính và nữ tính"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 247,
+    "question": "Tác phong chuyên nghiệp trong giao tiếp khách hàng thể hiện qua các nội dung sau:",
+    "options": {
+      "A": "Cách giao tiếp qua điện thoại: giọng nói; ngữ điệu; tiếp nhận và xử lý thông tin phù hợp với tính chất, phạm vi công việc chuyên môn.",
+      "B": "Cách sử dụng ngôn ngữ, điệu bộ cử chỉ gắn với nghiệp vụ giỏi khi giao tiếp trực tiếp với khách hàng.",
+      "C": "Là một dấu ấn đặc sắc về văn hóa của đơn vị công tác khiến khách hàng có ấn tượng tốt đẹp.",
+      "D": "A, B, C đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 248,
+    "question": "Trong giao tiếp với khách hàng, nhân viên EVN hành xử như thế nào là không phù hợp:",
+    "options": {
+      "A": "Tranh luận đến cùng để bảo vệ lý lẽ của minh, lợi ích của công ty, ngay cả khi là giao tiếp qua điện thoại.",
+      "B": "Nói chuyện với khách hàng bằng những câu từ ngắn gọn và rõ ràng.",
+      "C": "Không lợi dụng quyền hạn, khả năng, phạm vi công việc để trục lợi.",
+      "D": "Lễ phép, lịch sự, tôn trọng khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 249,
+    "question": "Khi khách hàng có thái độ bất bình, bực tức trong quá trình giao tiếp, việc cần thiết phải thực hiện ngay là:",
+    "options": {
+      "A": "Nhanh chóng chấm dứt cuộc giao dịch.",
+      "B": "Hãy chủ động xin lỗi và lắng nghe khách hàng.",
+      "C": "Báo ngay lên lãnh đạo cấp trên.",
+      "D": "Cố gắng giải thích cho khách hàng hiểu."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 250,
+    "question": "Việc thực thi chuẩn mực văn hóa giao tiếp đối với khách hàng trong Tập đoàn Điện lực Việt Nam nhằm mục đích:",
+    "options": {
+      "A": "Chuẩn hóa, áp đặt mô hình giao tiếp với khách hàng đến tất cả các điện lực.",
+      "B": "Có thêm thang đo để siết hoạt động của nhân viên chặt chẽ hơn.",
+      "C": "Từng bước hình thành, duy trì môi trường làm việc chuyên nghiệp, văn minh.",
+      "D": "Nhanh chóng tăng lợi nhuận."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 251,
+    "question": "Đâu không phải là đặc trưng của văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Văn hóa doanh nghiệp mang tính nhân sinh, tức là gắn với con người",
+      "B": "Văn hóa doanh nghiệp có tính giá trị",
+      "C": "Văn hóa doanh nghiệp là yếu tố thường xuyên thay đổi",
+      "D": "Văn hóa doanh nghiệp có tính ổn định"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 252,
+    "question": "Nội dung nào không phải là muc đích của việc xây dựng văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Tạo ra bầu không khí làm việc hăng say của người lao động",
+      "B": "Nhanh chóng hạ gục đối thủ cạnh tranh",
+      "C": "Giảm xung đột và nâng cao hiệu quả làm việc",
+      "D": "Tăng cường tái tạo sức lao động để mọi người lại tiếp tục lao động sáng tạo"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 253,
+    "question": "Khẩu hiệu của EVN là:",
+    "options": {
+      "A": "Điện đi trước một bước",
+      "B": "EVN trên thuận dưới hòa",
+      "C": "EVN thắp sáng niềm tin",
+      "D": "Hợp tác cùng phát triển"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 254,
+    "question": "Nội dung nào không phản ánh trong ý nghĩa của nhãn hiệu EVN:",
+    "options": {
+      "A": "Đặc tính kỹ thuật của Công nghiệp điện với dòng điện 3 pha",
+      "B": "Sự đáp ứng của EVN đối với nhu cầu điện ngày càng tăng của nền kinh tế quốc dân",
+      "C": "Quan tâm đến môi trường để phát triển bền vững",
+      "D": "Cạnh tranh để thâu tóm thị phần và gia tăng lợi nhuận"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 255,
+    "question": "Giới thiệu nhân viên mới đến các phòng, bộ phận tại Công ty Điện lực là một dạng của:",
+    "options": {
+      "A": "Giả định",
+      "B": "Nghi thức",
+      "C": "Niềm tin",
+      "D": "Giá trị"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 256,
+    "question": "Theo quy định Văn hóa tổ chức tiệc và dự tiệc của EVN SPC, nội dung nào sau đây là sai:",
+    "options": {
+      "A": "Chủ tiệc ngồi ở vị trí trung tâm quay ra cửa để quan sát.",
+      "B": "Nên xếp xen kẽ nam và nữ, chủ và khách.",
+      "C": "Xếp theo địa vị ngoại giao của người dự tiệc.",
+      "D": "Không xếp vợ, chồng (hoặc người thân) ngồi cạnh nhau."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 257,
+    "question": "Trong văn hóa giao tiếp, khoảng cách giữa 2 người sẽ là:",
+    "options": {
+      "A": "Đứng cách người nói 5 – 6 bước chân.",
+      "B": "Đứng cách người nói 4 – 5 bước chân.",
+      "C": "Đứng cách người nói 2 – 3 bước chân.",
+      "D": "Đứng cách người nói 1 bước chân."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 258,
+    "question": "Vai trò của từng cá nhân tương đối có tính tự trị cao. Người lãnh đạo khéo léo hướng dẫn những cá nhân có đầu óc sáng tạo cao vào mục tiêu chung của tổ chức và không có thái độ phô\ntrương quyền uy đối với họ.",
+    "options": {
+      "A": "Văn hóa chấp nhận rủi ro",
+      "B": "Văn hóa đồng đội",
+      "C": "Văn hóa đề cao vai trò cá nhân",
+      "D": "Văn hóa nguyên tắc"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 259,
+    "question": "Theo “Văn hóa chào hỏi”, EVNSPC quy định thứ tự ưu tiên chào hỏi:",
+    "options": {
+      "A": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người ít tuổi chào trước.",
+      "B": "Cấp trên chào nhân viên chào trước; đồng nghiệp cùng cấp: người ít tuổi chào trước.",
+      "C": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người nhiều tuổi chào trước.",
+      "D": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người nhiều tuổi chào trước."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 260,
+    "question": "Trong văn hóa sử dụng danh thiếp, EVNSPC quy định khoảng cách trao và nhận danh thiếp:",
+    "options": {
+      "A": "50cm.",
+      "B": "Một cánh tay.",
+      "C": "Một sải tay.",
+      "D": "Tùy mỗi trường hợp."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 261,
+    "question": "Nội dung nào không thuộc về ý nghĩa nhãn hiệu của EVN.",
+    "options": {
+      "A": "Vòng tròn hình cầu bên ngoài thể hiện mơ ước bao trùm và độc quyền thị trường khu vực",
+      "B": "Thể hiện sự cam kết của EVN đối với đất nước",
+      "C": "Sự quan tâm đến môi trường để phát triển bền vững",
+      "D": "Mơ ước vươn ra các thị trường khu vực và trên thế giới"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 262,
+    "question": "Quản lý dựa vào công việc hơn là dựa vào phẩm chất cá nhân, các quyết định đưa ra trên cơ sở quy trình, thủ tục thuộc về:",
+    "options": {
+      "A": "Văn hóa quyền hạn",
+      "B": "Văn hóa đồng đội",
+      "C": "Văn hóa nguyên tắc",
+      "D": "Văn hóa sáng tạo"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 263,
+    "question": "Văn hóa doanh nghiệp khi đã định hình sẽ trở thành:",
+    "options": {
+      "A": "Tài sản vô hình của doanh nghiệp",
+      "B": "Giúp phân biệt giữa các doanh nghiệp",
+      "C": "Truyền thống của doanh nghiệp",
+      "D": "Cả A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 264,
+    "question": "Luôn hợp tác, chia sẻ kiến thức, thông tin để giải quyết công việc đạt chất lượng và hiệu quả cao nhất, vì lợi ích chung của EVN và vì sự phát triển chung của đất nước là nội dung thuộc về:",
+    "options": {
+      "A": "Văn hóa công việc của EVN",
+      "B": "Văn hóa giao tiếp của EVN",
+      "C": "Cam kết của EVN với đối tác",
+      "D": "Cam kết của EVN với người lao động"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 265,
+    "question": "“Sức mạnh trong mọi hành động của EVN là sự đồng thuận và trí tuệ tập thể” là một nội dung thuộc về:",
+    "options": {
+      "A": "Hệ giá trị cốt lõi",
+      "B": "Chuẩn mực đạo đức",
+      "C": "Thực thi văn hóa",
+      "D": "Cả A, B, C đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 266,
+    "question": "Khái niệm văn hóa được hiểu là:",
+    "options": {
+      "A": "Kết quả hoạt động do máy móc tạo ra",
+      "B": "Một hệ thống hữu cơ của giá trị vật chất và tinh thần do con người sáng tạo",
+      "C": "Là cái vốn có trong thế giới khách quan",
+      "D": "Chỉ bao gồm giá trị vật chất"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 267,
+    "question": "“Các thành viên của EVN luôn mang hết sức lực và trí tuệ để giải quyết công việc hiệu quả, hết lòng phục vụ để đem lại sự hài lòng cho khách hàng và vì hạnh phúc nhân dân”, phản ánh yếu tố nào của văn hóa EVN.",
+    "options": {
+      "A": "Tầm nhìn.",
+      "B": "Sứ mệnh.",
+      "C": "Khẩu hiệu.",
+      "D": "Giá trị cốt lõi"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 268,
+    "question": "Khẩu hiệu của EVNSPC là:",
+    "options": {
+      "A": "Điện đi trước một bước",
+      "B": "EVNSPC thắp sáng niềm tin",
+      "C": "EVNEVN thắp sáng niềm tin",
+      "D": "EVNSPC hợp tác cùng phát triển"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 269,
+    "question": "Quy trình làm việc của CBCNV quản lý vận hành lưới điện nếu khách quan thì sẽ:",
+    "options": {
+      "A": "Chủ quan xem nhẹ việc thu thập số liệu.",
+      "B": "Không phát hiện kịp thời sai phạm.",
+      "C": "Không gây oan sai cho đối tượng kiểm tra",
+      "D": "Tất cả cùng sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 270,
+    "question": "Phần không nhìn thấy được của văn hóa doanh nghiệp gồm có:",
+    "options": {
+      "A": "Lý tưởng, giá trị, chuẩn mực, niềm tin, triết lý hành động.",
+      "B": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, đồng phục, ân phẩm điển hình",
+      "C": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, ấn phẩm điển hình.",
+      "D": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, ấn phẩm điển hình."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 271,
+    "question": "Tổng Công ty Điện lực Miền Nam quy định văn hóa hội họp trong các cuộc họp nội bộ:",
+    "options": {
+      "A": "Lãnh đạo ngồi vào ghế chủ tọa được bố trí quay lưng ra cửa để hạn chế việc ra vào của các thành viên",
+      "B": "Người quan trọng ngồi đối diện lãnh đạo.",
+      "C": "Người ngồi phía tay trái quan trọng hơn người ngồi phía tay phải.",
+      "D": "Lãnh đạo ngồi vào ghế chủ tọa được bố trí ở trung tâm quay mặt ra phòng họp nhằm bao quát hết các thành phần tham dự"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 272,
+    "question": "Nội dung nào phản ánh trong ý nghĩa ở phần chữ của nhãn hiệu EVN:",
+    "options": {
+      "A": "Đặc tính kỹ thuật của Công nghiệp điện với dòng điện 3 pha.",
+      "B": "Phong cách hiện đại, khả năng phát triển bền vững và hùng mạnh trong tương lai.",
+      "C": "Sự đáp ứng của EVN đối với nhu cầu điện ngày càng tăng của nền kinh tế quốc dân.",
+      "D": "Cạnh tranh để thâu tóm thị phần và gia tăng lợi nhuận."
+    },
+    "answer": "2"
+  }
+]
