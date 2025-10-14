@@ -3,7 +3,8 @@ import React, { useEffect, useState } from "react";
 function App() {
   const [questions, setQuestions] = useState([]);
   const [activeQuestion, setActiveQuestion] = useState(null); // câu đang thao tác
-  const [selectedOption, setSelectedOption] = useState(null); // đáp án được chọn
+  const [selectedOptions, setSelectedOptions] = useState({}); // đáp án được chọn cho mỗi câu
+  const [showAllAnswers, setShowAllAnswers] = useState(false); // hiển thị tất cả đáp án đúng
 
   useEffect(() => {
     fetch("/ghi_dien_thu_ngan_giao_dich_2025.json")
@@ -13,9 +14,9 @@ function App() {
   }, []);
 
   const handleSelect = (qNumber, key) => {
-    // Khi chọn ở câu khác => clear hết kết quả cũ, chỉ giữ câu mới
+    // Khi chọn ở câu khác => giữ kết quả cũ, chỉ cập nhật câu mới
+    setSelectedOptions((prev) => ({ ...prev, [qNumber]: key }));
     setActiveQuestion(qNumber);
-    setSelectedOption(key);
   };
 
   const getCorrectKey = (q) => {
@@ -30,10 +31,26 @@ function App() {
         🧩 Trắc nghiệm Ghi điện & Thu ngân 2025
       </h1>
 
+      <button
+        onClick={() => setShowAllAnswers(!showAllAnswers)}
+        style={{
+          display: "block",
+          margin: "0 auto 20px",
+          padding: "10px 20px",
+          background: "#007bff",
+          color: "white",
+          border: "none",
+          borderRadius: 5,
+        }}
+      >
+        {showAllAnswers ? "Ẩn tất cả đáp án" : "Hiển thị tất cả đáp án"}
+      </button>
+
       {questions.map((q) => {
         const isActive = activeQuestion === q.number;
         const correctKey = getCorrectKey(q);
-        const isCorrect = selectedOption === correctKey;
+        const selectedKey = selectedOptions[q.number];
+        const isCorrect = selectedKey === correctKey;
 
         return (
           <div
@@ -56,7 +73,7 @@ function App() {
                   type="radio"
                   name={`q-${q.number}`}
                   value={key}
-                  checked={isActive && selectedOption === key}
+                  checked={selectedKey === key}
                   onChange={() => handleSelect(q.number, key)}
                   style={{ marginRight: 6 }}
                 />
@@ -64,14 +81,23 @@ function App() {
               </label>
             ))}
 
-            {/* Chỉ hiển thị kết quả cho câu đang hoạt động */}
-            {isActive && selectedOption && (
+            {/* Hiển thị kết quả nếu đã chọn hoặc đang hiển thị tất cả */}
+            {(selectedKey || showAllAnswers) && (
               <div style={{ marginTop: 8 }}>
-                {isCorrect ? (
-                  <span style={{ color: "green" }}>✅ Đáp án đúng</span>
+                {selectedKey ? (
+                  isCorrect ? (
+                    <span style={{ color: "green" }}>✅ Đáp án đúng</span>
+                  ) : (
+                    <span style={{ color: "red" }}>
+                      ❌ Sai. Đáp án đúng là:{" "}
+                      <b style={{ color: "green" }}>
+                        {correctKey}. {q.options[correctKey]}
+                      </b>
+                    </span>
+                  )
                 ) : (
-                  <span style={{ color: "red" }}>
-                    ❌ Sai. Đáp án đúng là:{" "}
+                  <span>
+                    Đáp án đúng là:{" "}
                     <b style={{ color: "green" }}>
                       {correctKey}. {q.options[correctKey]}
                     </b>
