@@ -28,7 +28,7 @@ function App() {
   return (
     <div style={{ padding: 20, fontFamily: "sans-serif" }}>
       <h1 style={{ textAlign: "center", color: "#007bff" }}>
-        🧩 Trắc nghiệm Ghi điện & Thu ngân 2025
+        🧩 Trắc nghiệm Điện kế
       </h1>
 
       <button
