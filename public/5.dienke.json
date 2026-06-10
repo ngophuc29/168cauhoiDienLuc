@@ -622,7 +622,7 @@
         "A": "Có 02 người.",
         "B": "Trời khô ráo, không có giông, gió to, sấm sét.",
         "C": "Quần áo người công nhân phải khô ráo, cột có chỗ đứng chắc chắn.",
-        "D": "Gồm cả 03 đáp án A, B và"
+        "D": "Gồm cả 03 đáp án A, B và C"
       },
       "answer": "4"
     },
@@ -633,7 +633,7 @@
         "A": "Thử ở nơi không có điện trước, nơi có điện sau.",
         "B": "Thử ở nơi có điện trước rồi mới thử nơi không còn điện.",
         "C": "Nếu ở nơi công tác không có điện thì cho phép đem thử ở nơi khác trước lúc thử ở nơi công tác và phải bảo quản tốt bút thử điện khi chuyên chở.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -731,7 +731,7 @@
       "options": {
         "A": "Những phần có điện mà tại đó sẽ tiến hành công việc.",
         "B": "Những phần có điện mà khi làm việc có thể vi phạm khoảng cách đến phần mang điện theo quy trình an toàn.",
-        "C": "Gồm cả 2 đáp án A và",
+        "C": "Gồm cả 2 đáp án A và B",
         "D": "Tất cả điều sai."
       },
       "answer": "3"
@@ -798,7 +798,7 @@
         "A": "Thử ở nơi không có điện trước, nơi có điện sau.",
         "B": "Thử ở nơi có điện trước rồi mới thử nơi không còn điện.",
         "C": "Nếu ở nơi công tác không có điện thì cho phép đem thử ở nơi khác trước lúc thử ở nơi công tác và phải bảo quản tốt bút thử điện khi chuyên chở.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -809,7 +809,7 @@
         "A": "Kiểm tra chỉ thị tại chỗ thiết bị đóng cắt (3 pha, tất cả các phía).",
         "B": "Kiểm tra thông số điện áp (nếu có).",
         "C": "Kiểm tra thông số dòng điện (nếu có).",
-        "D": "Gồm cả 2 đáp án A và"
+        "D": "Gồm cả 2 đáp án A và B"
       },
       "answer": "4"
     },
@@ -940,7 +940,7 @@
       "options": {
         "A": "Nối đất ĐD tại đầu nguồn. Cho phép làm nối đất di động bằng cách chập cả 3 pha với dây trung tính và nối với đất.",
         "B": "Trường hợp thay dây, nối dây hoặc tháo rời dây dẫn phải nối đất theo nguyên tắc mọi đoạn ĐD tách rời phải có ít nhất một điểm nối đất các pha để phòng ngừa các nguồn điện khác có thể xông ngược tới khu vực làm việc (nguồn điện từ mạch khác, nguồn điện từ khách hàng).",
-        "C": "Gồm cả 02 đáp án A và",
+        "C": "Gồm cả 02 đáp án A và B",
         "D": "Cả 02 đáp án A và B đều sai."
       },
       "answer": "3"
@@ -952,7 +952,7 @@
         "A": "Tại điểm hở hộp aptomat đầu nguồn.",
         "B": "Tại điểm hở hộp phân dây, ghíp nối.",
         "C": "Tại điểm hở đầu chờ nối đất.",
-        "D": "Gồm cả 03 đáp án A,B và"
+        "D": "Gồm cả 03 đáp án A,B và C"
       },
       "answer": "4"
     },
@@ -1117,7 +1117,7 @@
         "A": "Khảo sát, lập biên bản hiện trường, lập biện pháp an toàn trong phương án thi công; Đăng ký công tác; Làm việc theo PCT hoặc LCT.",
         "B": "Cho phép làm việc tại hiện trường; Giám sát an toàn trong thời gian làm việc.",
         "C": "Những biện pháp tổ chức khác như: nghỉ giải lao; nghỉ hết ngày làm việc và bắt đầu ngày tiếp theo; thay đổi người khi làm việc; kết thúc công việc, trao trả nơi làm việc, khoá phiếu PCT; trách nhiệm của các đơn vị có liên quan khi thực hiện công việc.",
-        "D": "Gồm cả 3 đáp án A, B và"
+        "D": "Gồm cả 3 đáp án A, B và C"
       },
       "answer": "4"
     },
@@ -1215,7 +1215,7 @@
       "options": {
         "A": "Những công việc bao gồm hai yếu tố sau: Một là: Được thực hiện theo kế hoạch; Hai là: Hiện trường công tác có yếu tố nguy hiểm, có thể gây tai nạn cho người tham gia thực hiện công việc hoặc cho cộng đồng, như: sửa chữa nóng; công việc có thể vi phạm khoảng cách ATĐ; làm việc trên ĐD vượt sông, vượt đường; làm việc trên ĐD gần hoặc giao chéo ĐD cao áp khác; kéo dây, dựng cột, đào đường có thể gây tai nạn cho người tham gia giao thông.",
         "B": "Những công việc do Đơn vị QLVH/Đơn vị công tác quyết định việc khảo sát hiện trường.",
-        "C": "Gồm cả 2 đáp án A và",
+        "C": "Gồm cả 2 đáp án A và B",
         "D": "Tất cả đều sai."
       },
       "answer": "3"
@@ -1270,7 +1270,7 @@
       "options": {
         "A": "Theo đúng mẫu, rõ ràng, đủ và đúng theo yêu cầu công việc; không được để rách nát, nhòe chữ; cấm tẩy xóa.",
         "B": "Lập thành 02 bản: Người cấp phiếu ký 02 bản, chuyển đến Người cho phép, Người chỉ huy trực tiếp mỗi người 01 bản. Người tham gia thực hiện PCT phải ký vào 02 bản, mỗi đơn vị giữ 01 bản.",
-        "C": "Gồm cả 2 Đáp án A và",
+        "C": "Gồm cả 2 Đáp án A và B",
         "D": "Tất cả đều sai."
       },
       "answer": "3"
@@ -1282,7 +1282,7 @@
         "A": "Do người chỉ huy trực tiếp quyết định.",
         "B": "Không được tự ý mở rộng phạm vi làm việc theo PCT.",
         "C": ". Nếu mở rộng phạm vi làm việc thì phải cấp PCT mới.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -1293,7 +1293,7 @@
         "A": "Do người chỉ huy trực tiếp quyết định.",
         "B": "Không được tự ý thay đổi nội dung làm việc theo PCT.",
         "C": ". Nếu thay đổi nội dung làm việc thì phải cấp PCT mới.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -1304,7 +1304,7 @@
         "A": "Do người cấp phiếu quyết định.",
         "B": "Sau khi hoàn thành công việc, PCT phải lưu giữ ít nhất 03 tháng.",
         "C": "Đối với công việc để xảy ra sự cố hoặc tai nạn thì các PCT có liên quan, phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -1369,7 +1369,7 @@
         "A": "Do người chỉ huy trực tiếp quyết định.",
         "B": "Không được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc.",
         "C": "Nếu thay đổi nội dung hoặc mở rộng phạm vi làm việc thì phải cấp LCT mới.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -1380,7 +1380,7 @@
         "A": "Do người chỉ huy trực tiếp quyết định.",
         "B": "Không được phép mở rộng phạm vi làm việc.",
         "C": "Nếu mở rộng phạm vi làm việc thì phải cấp LCT mới.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -1391,7 +1391,7 @@
         "A": "Do người cấp lệnh công tác quyết định.",
         "B": "Sau khi hoàn thành công việc, LCT phải lưu giữ ít nhất 03 tháng.",
         "C": "Nếu xảy ra sự cố hoặc tai nạn thì các LCT liên quan phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
-        "D": "Gồm cả 2 đáp án B và"
+        "D": "Gồm cả 2 đáp án B và C"
       },
       "answer": "4"
     },
@@ -2007,7 +2007,7 @@
         "A": "Chân phải đi giày.",
         "B": "Tay phải đeo găng cách điện hạ áp.",
         "C": "Quần áo bảo hộ phải khô ráo..",
-        "D": "Gồm cả 03 đáp án A, b và"
+        "D": "Gồm cả 03 đáp án A, b và C"
       },
       "answer": "4"
     },
@@ -2017,7 +2017,7 @@
       "options": {
         "A": "Người làm việc tiếp xúc trực tiếp với dây dẫn, thiết bị mang điện hạ áp phải dùng dụng cụ cách điện có tay cầm chắc chắn và đảm bảo an toàn; đi giày hoặc ủng cách điện hoặc đứng trên thảm cách điện.",
         "B": "Người làm việc gần phần có điện hạ áp phải dùng các tấm cách điện để che, chắn.",
-        "C": "Gồm cả 02 đáp án A và",
+        "C": "Gồm cả 02 đáp án A và B",
         "D": "Tất cả đều sai."
       },
       "answer": "3"
