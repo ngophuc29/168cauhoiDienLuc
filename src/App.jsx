@@ -7,7 +7,7 @@ function App() {
   const [showAllAnswers, setShowAllAnswers] = useState(false); // hiển thị tất cả đáp án đúng
 
   useEffect(() => {
-    fetch("/ghi_dien_thu_ngan_giao_dich_2025.json")
+    fetch("/5.dienke.json")
       .then((res) => res.json())
       .then((data) => setQuestions(data))
       .catch((err) => console.error(err));

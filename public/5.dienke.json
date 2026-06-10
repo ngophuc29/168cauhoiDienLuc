@@ -1,0 +1,2049 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Phương pháp cấp cứu hồi sinh tổng hợp gồm mấy bước:",
+      "options": {
+        "A": "3 bước.",
+        "B": "4 bước.",
+        "C": "5 bước.",
+        "D": "6 bước."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 2,
+      "question": "Trình tự Phương pháp cấp cứu hồi sinh tổng hợp là: [Trong đó: (A) – Airway (Khôi phục hệ hô hấp); (B) – Breathing (Hô hấp nhân tạo); (C) – Circulation (Khôi phục hệ tuần hoàn); (D) – Danger (Loại trừ nguy hiểm); (R) – Response (Phản ứng)]",
+      "options": {
+        "A": "DRCAB. Sau đó duy trì bước C rồi B theo nhịp 30/2 (30 lần ấn tim thì hô hấp nhân tạo 2 lần).",
+        "B": "DRCAB. Sau đó duy trì bước C rồi B theo nhịp 15/2 (15 lần ấn tim thì hô hấp nhân tạo 2 lần).",
+        "C": "DRABC. Sau đó duy trì bước C rồi B theo nhịp 30/2 (30 lần ấn tim thì hô hấp nhân tạo 2 lần).",
+        "D": "DRABC. Sau đó duy trì bước C rồi B theo nhịp 15/2 (15 lần ấn tim thì hô hấp nhân tạo 2 lần)."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 3,
+      "question": "Tần số ấn nhịp tim trong Phương pháp cấp cứu hồi sinh tổng hợp là bao nhiêu?",
+      "options": {
+        "A": "70 đến 90 lần/phút.",
+        "B": "80 đến 100 lần/phút.",
+        "C": "90 đến 110 lần/phút.",
+        "D": "100 đến 120 lần/phút."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 4,
+      "question": "Động tác ấn tim ngoài lồng ngực trong Phương pháp cấp cứu hồi sinh tổng hợp có độ sâu bao nhiêu?",
+      "options": {
+        "A": "Ấn sâu từ 3 đến 4 cm.",
+        "B": "Ấn sâu từ 4 đến 5 cm.",
+        "C": "Ấn sâu từ 5 đến 6 cm.",
+        "D": "Ấn sâu từ 6 đến 7 cm."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 5,
+      "question": "Thời gian mỗi lần hô hấp trong Phương pháp cấp cứu hồi sinh tổng hợp là bao lâu?",
+      "options": {
+        "A": "01 giây đến 1,5 giây.",
+        "B": "1,5 giây đến 2 giây.",
+        "C": "2 giây đến 2,5 giây.",
+        "D": "2,5 giây đến 3 giây."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 6,
+      "question": "Số lần ấn tim và hô hấp nhân tạo trong Phương pháp cấp cứu hồi sinh tổng hợp trong 1 chu kỳ là:",
+      "options": {
+        "A": "15 lần ấn tim thì hô hấp nhân tạo 1 lần.",
+        "B": "15 lần ấn tim thì hô hấp nhân tạo 2 lần.",
+        "C": "30 lần ấn tim thì hô hấp nhân tạo 1 lần.",
+        "D": "30 lần ấn tim thì hô hấp nhân tạo 2 lần."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 7,
+      "question": "Trong trường hợp tách nạn nhân ra khỏi mạch điện. Để cứu nạn nhân và tránh không bị điện giật, trường hợp cắt được mạch điện thì người thực hiện phải lưu ý gì?",
+      "options": {
+        "A": "Nếu mạch điện bị cắt, cấp cho đèn chiếu sáng lúc trời tối thì phải chuẩn bị ngay nguồn sáng khác để thay thế.",
+        "B": "Nếu người bị nạn ở trên cao thì phải chuẩn bị để hứng, đỡ khi người đó rơi xuống.",
+        "C": "Gồm cả 02 đáp án A và B",
+        "D": "Tất cả các đáp án đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 8,
+      "question": "Trường hợp cấp cứu Nạn nhân bị điện giật trong trường hợp nạn nhân chưa mất tri giác thì người cấp cứu thực hiện như thế nào?",
+      "options": {
+        "A": "Để nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh. Sau đó mời y, bác sỹ hoặc nhẹ nhàng đưa đến cơ quan y tế gần nhất để theo dõi chăm sóc.",
+        "B": "Đặt nạn nhân nơi thoáng khí, yên tĩnh (trời rét phải đặt ở nơi kín gió), nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm, đặt nạn nhân về tư thế nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc.",
+        "C": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm và kéo lưỡi (nếu lưỡi thụt vào). Tiến hành làm hô hấp nhân tạo, hà hơi thổi ngạt ngay, phải làm liên tục, kiên trì cho đến khi có ý kiến của y, bác sỹ quyết định mới thôi.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 9,
+      "question": "Trường hợp cấp cứu Nạn nhân bị điện giật trong trường hợp nạn nhân mất tri giác thì người cấp cứu thực hiện như thế nào?",
+      "options": {
+        "A": "Để nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh. Sau đó mời y, bác sỹ hoặc nhẹ nhàng đưa đến cơ quan y tế gần nhất để theo dõi chăm sóc.",
+        "B": "Đặt nạn nhân nơi thoáng khí, yên tĩnh (trời rét phải đặt ở nơi kín gió), nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm, đặt nạn nhân về tư thế nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc.",
+        "C": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm và kéo lưỡi (nếu lưỡi thụt vào). Tiến hành làm hô hấp nhân tạo, hà hơi thổi ngạt ngay, phải làm liên tục, kiên trì cho đến khi có ý kiến của y, bác sỹ quyết định mới thôi.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 10,
+      "question": "Trường hợp cấp cứu Nạn nhân bị điện giật trong trường hợp nạn nhân đã tắt thở thì người cấp cứu thực hiện như thế nào?",
+      "options": {
+        "A": "Để nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh. Sau đó mời y, bác sỹ hoặc nhẹ nhàng đưa đến cơ quan y tế gần nhất để theo dõi chăm sóc..",
+        "B": "Đặt nạn nhân nơi thoáng khí, yên tĩnh (trời rét phải đặt ở nơi kín gió), nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm, đặt nạn nhân về tư thế nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc.",
+        "C": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm và kéo lưỡi (nếu lưỡi thụt vào). Tiến hành làm hô hấp nhân tạo, hà hơi thổi ngạt ngay, phải làm liên tục, kiên trì cho đến khi có ý kiến của y, bác sỹ quyết định mới thôi..",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 11,
+      "question": "Luật Điện lực hiện đang áp dụng là luật số mấy được Quốc hội thông qua ngày, tháng, năm nào ?",
+      "options": {
+        "A": "Luật Điện lực số 28/2004/QH 11 ngày 03/12/2004.",
+        "B": "Luật Điện lực số 28/2018/QH 14 ngày 15/6/2018.",
+        "C": "Luật Điện lực số 61/2024/QH 15 ngày 30/11/2024.",
+        "D": "Luật Điện lực số 62/2024/QH 15 ngày 30/11/2024."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 12,
+      "question": "Luật Điện lực hiện đang áp dụng gồm mấy chương và bao nhiêu điều ?",
+      "options": {
+        "A": "Luật Điện lực đang áp dụng gồm 08 chương và 80 điều.",
+        "B": "Luật Điện lực đang áp dụng gồm 08 chương và 81 điều.",
+        "C": "Luật Điện lực đang áp dụng gồm 09 chương và 80 điều.",
+        "D": "Luật Điện lực đang áp dụng gồm 09 chương và 81 điều."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 13,
+      "question": "Các hành vi bị cấm trong hoạt động Điện lực và sử dụng điện quy định tại Điều mấy trong Luật Điện lực và có bao nhiêu hành vi bị cấm ?",
+      "options": {
+        "A": "Quy định tại Điều 8 và có 11 hành vi bị cấm.",
+        "B": "Quy định tại Điều 8 và có 12 hành vi bị cấm.",
+        "C": "Quy định tại Điều 9 và có 11 hành vi bị cấm.",
+        "D": "Quy định tại Điều 9 và có 12 hành vi bị cấm."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 14,
+      "question": "Hành vi bị cấm trong hoạt động Điện lực và sử dụng điện trong Luật Điện lực là những hành vi nào sau đây ?",
+      "options": {
+        "A": "Hoạt động điện lực không có giấy phép theo quy định.",
+        "B": "Đóng điện, cắt điện trái quy định của pháp luật.",
+        "C": "Sách nhiễu, gây phiền hà, thu lợi bất chính trong hoạt động điện lực và sử dụng điện.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 15,
+      "question": "Nghị định quy định chi tiết thi hành Luật Điện lực về bảo vệ công trình điện lực và an toàn trong lĩnh vực điện lực được Chính phủ ban hành số mấy và ngày, tháng, năm nào ?",
+      "options": {
+        "A": "Nghị định số: 59/2025/NĐ-CP ngày 04/3/2025.",
+        "B": "Nghị định số: 60/2025/NĐ-CP ngày 04/3/2025.",
+        "C": "Nghị định số: 61/2025/NĐ-CP ngày 04/3/2025.",
+        "D": "Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 16,
+      "question": "Huấn luyện, sát hạch, xếp bậc, cấp thẻ an toàn điện quy định tại chương mấy của Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025 quy định chi tiết thi hành về bảo vệ công trình điện lực và an toàn trong lĩnh vực điện lực ?",
+      "options": {
+        "A": "Quy định tại chương III trong Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025.",
+        "B": "Quy định tại chương IV trong Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025.",
+        "C": "Quy định tại chương V trong Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025.",
+        "D": "Quy định tại chương VI trong Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 17,
+      "question": "Theo Nghị định số: 62/2025/NĐ-CP ngày 04/3/2025 quy định huấn luyện định kỳ an toàn điện, thực hiện trong thời hạn tối đa bao lâu kể từ ngày được huấn luyện lần gần nhất ?",
+      "options": {
+        "A": "Một năm 01 lần.",
+        "B": "Hai năm 01 lần.",
+        "C": "Ba năm 01 lần.",
+        "D": "Không có quy định."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 18,
+      "question": "Thông tư ban hành Quy chuẩn kỹ thuật Quốc gia về an toàn điện số mấy và ngày, tháng, năm nào ?",
+      "options": {
+        "A": "Thông tư số: 39/2025/TT-BCT ngày 22/6/2025.",
+        "B": "Thông tư số: 41/2025/TT-BCT ngày 22/6/2025.",
+        "C": "Thông tư số: 41/2025/TT-BTC ngày 22/6/2025.",
+        "D": "Thông tư số: 41/2025/TT-BXD ngày 22/6/2025."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 19,
+      "question": "Quy chuẩn kỹ thuật Quốc gia về an toàn điện được ký hiệu như thế nào ?",
+      "options": {
+        "A": "QCVN 25:2025/BCT.",
+        "B": "QCVN 25:2025/BTC.",
+        "C": "QCQG 25:2025/BTC.",
+        "D": "QCQG 25:2025/BCT."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 20,
+      "question": "Công ty Điện lực Đồng Nai áp dụng quy trình an toàn theo quyết định nào ?",
+      "options": {
+        "A": "Quyết định số 959/QĐ-EVN ngày 26/7/2021.",
+        "B": "Quyết định số 881/QĐ-EVN ngày 15/7/2021.",
+        "C": "Quyết định số 278/QĐ-EVN ngày 25/2/2026.",
+        "D": "Quyết định số 515/QĐ-EVNSPC ngày 12/3/2026."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 21,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, mối nguy được giải thích như thế nào ?",
+      "options": {
+        "A": "Là nguồn hay tình trạng có sự tiềm ẩn sự nguy hại về chấn thương, thiệt hại tài sản, thiệt hại môi trường làm việc, hay là sự kết hợp các dạng nguy hại trên.",
+        "B": "Là nguồn hay tình trạng có sự tiềm ẩn sự nguy hại về bệnh tật, thiệt hại tài sản, thiệt hại môi trường làm việc, hay là sự kết hợp các dạng nguy hại trên.",
+        "C": "Là nguồn hay tình trạng có sự tiềm ẩn sự nguy hại về chấn thương hay bệnh tật, thiệt hại tài sản, thiệt hại môi trường làm việc, hay là sự kết hợp các dạng nguy hại trên.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 22,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, nhận diện mối nguy được giải thích như thế nào ?",
+      "options": {
+        "A": "Là một quá trình nhận ra sự tồn tại và tiềm ẩn của một mối nguy và xác định những đặc tính của nó.",
+        "B": "Là một quá trình chủ động nhằm nhận ra sự tồn tại và tiềm ẩn của nhiều mối nguy và xác định những đặc tính của nó.",
+        "C": "Là một quá trình chủ động nhằm nhận ra sự tồn tại và tiềm ẩn của một hoặc nhiều mối nguy và xác định những đặc tính của nó.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 23,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, hình thức đánh giá rủi ro định kỳ thực hiện như thế nào ?",
+      "options": {
+        "A": "Tất cả các vị trí/công việc trên lưới điện của người lao động có tiềm ẩn mối nguy về an toàn lao động, vệ sinh lao động thì ít nhất mỗi năm 01 lần, đơn vị quản lý phải tổ chức nhận diện mối nguy, đánh giá và quản lý rủi ro.",
+        "B": "Từng loại hình công việc đã được ĐGRR mẫu, làm cơ sở phục vụ cho việc ĐGRR khi tổ chức thực hiện PCT/LCT.",
+        "C": "Thực hiện khi có sự thay đổi về nguyên vật liệu, công nghệ, máy móc, quy trình sản xuất, hoặc sau khi xảy ra tai nạn, sự cố kỹ thuật.",
+        "D": "Thực hiện theo Quy trình an toàn của Tổng công ty điện lực miền Nam."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 24,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, hình thức đánh giá rủi ro theo loại hình công việc thực hiện như thế nào ?",
+      "options": {
+        "A": "Tất cả các vị trí/công việc trên lưới điện của người lao động có tiềm ẩn mối nguy về an toàn lao động, vệ sinh lao động thì ít nhất mỗi năm 01 lần, đơn vị quản lý phải tổ chức nhận diện mối nguy, đánh giá và quản lý rủi ro.",
+        "B": "Từng loại hình công việc đã được ĐGRR mẫu, làm cơ sở phục vụ cho việc ĐGRR khi tổ chức thực hiện PCT/LCT.",
+        "C": "Thực hiện khi có sự thay đổi về nguyên vật liệu, công nghệ, máy móc, quy trình sản xuất, hoặc sau khi xảy ra tai nạn, sự cố kỹ thuật.",
+        "D": "Thực hiện theo Quy trình an toàn của Tổng công ty điện lực miền Nam."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 25,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, hình thức đánh giá rủi ro đột xuất thực hiện như thế nào ?",
+      "options": {
+        "A": "Tất cả các vị trí/công việc trên lưới điện của người lao động có tiềm ẩn mối nguy về an toàn lao động, vệ sinh lao động thì ít nhất mỗi năm 01 lần, đơn vị quản lý phải tổ chức nhận diện mối nguy, đánh giá và quản lý rủi ro.",
+        "B": "Từng loại hình công việc đã được ĐGRR mẫu, làm cơ sở phục vụ cho việc ĐGRR khi tổ chức thực hiện PCT/LCT.",
+        "C": "Thực hiện khi có sự thay đổi về nguyên vật liệu, công nghệ, máy móc, quy trình sản xuất, hoặc sau khi xảy ra tai nạn, sự cố kỹ thuật.",
+        "D": "Thực hiện theo Quy trình an toàn của Tổng công ty điện lực miền Nam."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 26,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, có bao nhiêu mức độ rủi ro và được gọi tên như thế nào?",
+      "options": {
+        "A": "Có 04 mức độ rủi ro (thấp, trung bình, cao, rất cao).",
+        "B": "Có 04 mức độ rủi ro (chấp nhận được, thấp, trung bình, cao).",
+        "C": "Có 05 mức độ rủi ro (chấp nhận được, thấp, trung bình, cao, rất cao).",
+        "D": "Có 05 mức độ rủi ro (không đáng kể, thấp, trung bình, cao, rất cao)."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 27,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, có bao nhiêu bậc rủi ro và được ký hiệu như thế nào ?",
+      "options": {
+        "A": "Có 04 bậc rủi ro (1, 2, 3, 4).",
+        "B": "Có 04 bậc rủi ro (I, II, III, IV).",
+        "C": "Có 05 bậc rủi ro (I, II, III, IV,V).",
+        "D": "Có 05 bậc rủi ro (1, 2, 3, 4, 5)."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 28,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, khi đánh giá rủi ro thì mức độ rủi ro nào được phép tiến hành công việc ?",
+      "options": {
+        "A": "Mức độ rủi ro chấp nhận được.",
+        "B": "Mức độ rủi ro chấp nhận được, rủi ro thấp.",
+        "C": "Mức độ rủi ro chấp nhận được, rủi ro thấp, trung bình.",
+        "D": "Mức độ rủi ro chấp nhận được, rủi ro thấp, trung bình, cao."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 29,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, khi đánh giá rủi ro thì mức độ rủi ro nào không được phép tiến hành công việc ?",
+      "options": {
+        "A": "Mức độ rủi ro chấp nhận được.",
+        "B": "Mức độ rủi ro chấp nhận được, rủi ro thấp.",
+        "C": "Mức độ rủi ro trung bình, cao, rất cao.",
+        "D": "Các mức độ rủi ro đều được phép tiến hành công việc."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 30,
+      "question": "Theo Quy định công tác an toàn trong Tổng công ty Điện lực miền Nam, khi đánh giá rủi ro thì mức độ rủi ro trung bình có được phép tiến hành công việc hay không?",
+      "options": {
+        "A": "Được phép tiến hành công việc.",
+        "B": "Không được phép tiến hành công việc.",
+        "C": "Chỉ được phép tiến hành công việc với sự quản lý, kiểm soát thích hợp (đã thực hiện biện pháp kiểm soát giảm xuống mức rủi ro thấp nhất có thể).",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 31,
+      "question": "Quy trình an toàn trong Tổng công ty Điện lực miền Nam có phạm vi điều chỉnh như thế nào ?",
+      "options": {
+        "A": "Quy trình này quy định về các biện pháp thi công khi thực hiện các công việc xây dựng, vận hành, kinh doanh, thí nghiệm, kiểm định, sửa chữa đường dây dẫn điện, thiết bị điện và các công việc khác theo quy định của pháp luật trên công trình điện lực trong Tập đoàn Điện lực Quốc gia Việt Nam.",
+        "B": "Quy trình này quy định về các biện pháp đảm bảo an toàn điện khi thực hiện các công việc xây dựng, vận hành, kinh doanh, thí nghiệm, kiểm định, sửa chữa đường dây dẫn điện, thiết bị điện và các công việc khác theo quy định của pháp luật trên công trình điện lực trong Tập đoàn Điện lực Quốc gia Việt Nam.",
+        "C": "Quy trình này quy định về an toàn khi thực hiện công việc xây dựng, vận hành, kinh doanh, thí nghiệm, kiểm định, bảo trì, sửa chữa thiết bị điện, đường dây dẫn điện và các công việc khác theo quy định của pháp luật trên công trình điện lực trong Tổng công ty Điện lực miền Nam.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 32,
+      "question": "Cấm ra lệnh hoặc giao việc cho những người nào sau đây ?",
+      "options": {
+        "A": "Người đã được huấn luyện, kiểm tra đạt yêu cầu về an toàn và đã được cấp thẻ an toàn (ATLĐ, ATĐ) phù hợp công việc được giao.",
+        "B": "Người chưa được huấn luyện, kiểm tra đạt yêu cầu về an toàn và chưa được cấp thẻ an toàn (ATLĐ, ATĐ) phù hợp công việc được giao.",
+        "C": "Người lớn tuổi đang làm việc tại Công ty phù hợp công việc được giao.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 33,
+      "question": "Công việc phải được đánh giá rủi ro về an toàn là những công việc nào ?",
+      "options": {
+        "A": "Chỉ áp dụng cho công việc khi dùng phiếu công tác.",
+        "B": "Chỉ áp dụng cho công việc khi dùng lệnh công tác.",
+        "C": "Mọi công việc đều phải được đánh giá rủi ro về an toàn cho chính công việc đó và đề ra biện pháp phòng ngừa tai nạn.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 34,
+      "question": "Khi phát hiện tổ chức, đơn vị, cá nhân vi phạm Quy trình này và các quy trình có liên quan khác, có nguy cơ gây mất an toàn đối với người hoặc thiết bị, người phát hiện phải làm sao ?",
+      "options": {
+        "A": "Người phát hiện không cần thực hiện biện pháp gì vì không ảnh hưởng tới mình.",
+        "B": "Người phát hiện nhắc nhở người vi phạm đừng thực hiện hành vi vi phạm.",
+        "C": "Người phát hiện phải lập tức ngăn chặn và báo cáo ngay với cấp trên trực tiếp hoặc các Cấp có thẩm quyền (theo đường dây nóng, số điện thoại đã được công bố).",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 35,
+      "question": "Theo quy trình an toàn, người tham gia thực hiện công tác phải được huấn luyện, kiểm tra sát hạch nội dung phù hợp với công việc được giao bao nhiêu lần trong 01 năm ?",
+      "options": {
+        "A": "Ít nhất 01 lần trong 01 năm.",
+        "B": "Ít nhất 02 lần trong 01 năm.",
+        "C": "Ít nhất 03 lần trong 01 năm.",
+        "D": "Ít nhất 04 lần trong 01 năm."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 36,
+      "question": "Các chức danh trong PCT, LCT thực hiện như thế nào ?",
+      "options": {
+        "A": "Các chức danh trong PCT, LCT do người lãnh đạo công việc phân công để thực hiện công việc không cần quyết định giao nhiệm vụ.",
+        "B": "Các chức danh trong PCT, LCT phải được Giám đốc đơn vị ra quyết định giao nhiệm vụ.",
+        "C": "Do nhóm công tác thống nhất phân công các chức danh trong PCT, LCT.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 37,
+      "question": "Các chức danh trong PCT, LCT có yêu cầu về huấn luyện, kiểm tra như thế nào ?",
+      "options": {
+        "A": "Hàng năm, Các chức danh trong PCT, LCT phải được huấn luyện về những nội dung có liên quan, kiểm tra đạt yêu cầu.",
+        "B": "Các chức danh trong PCT, LCT phải được huấn luyện về những nội dung có liên quan.",
+        "C": "Trong vòng 05 năm, Các chức danh trong PCT, LCT phải được huấn luyện về những nội dung có liên quan, kiểm tra đạt yêu cầu.",
+        "D": "Các chức danh trong PCT, LCT phải được huấn luyện lần đầu về những nội dung có liên quan, kiểm tra đạt yêu cầu."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 38,
+      "question": "Tổ chức, cá nhân ngoài EVNSPC khi đến làm việc ở công trình, thiết bị thuộc phạm vi quản lý của đơn vị trong EVNSPC phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Tuân thủ nội quy, quy định của tổ chức, cá nhân đơn vị công tác.",
+        "B": "Phải được trang bị đầy đủ PTBVCN theo đúng quy định của Luật ATVSLĐ và văn bản hướng dẫn thi hành luật.",
+        "C": "Phải được trang bị đầy đủ PTBVCN theo đúng quy định của Luật ATVSLĐ và văn bản hướng dẫn thi hành luật, đồng thời phải tuân thủ hướng dẫn về an toàn của Đơn vị QLVH.",
+        "D": "Tất cả điều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 39,
+      "question": "Ra lệnh hoặc giao việc cho những người nào sau đây ?",
+      "options": {
+        "A": "Người đã được huấn luyện, kiểm tra đạt yêu cầu về an toàn và đã được cấp thẻ an toàn (ATLĐ, ATĐ) phù hợp công việc được giao.",
+        "B": "Người chưa được huấn luyện, kiểm tra đạt yêu cầu về an toàn và chưa được cấp thẻ an toàn (ATLĐ, ATĐ) phù hợp công việc được giao.",
+        "C": "Người đã được huấn luyện, kiểm tra đạt yêu cầu về an toàn và chưa được cấp thẻ an toàn (ATLĐ, ATĐ) phù hợp công việc được giao.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 40,
+      "question": "Người trực tiếp làm công tác QLVH, thí nghiệm, sửa chữa, xây lắp phải có sức khỏe như thế nào ?",
+      "options": {
+        "A": "Đã khám sức khỏe định kỳ 02 lần/ năm.",
+        "B": "Đã khám sức khỏe định kỳ 01 lần/ năm.",
+        "C": "Phải có sức khỏe đáp ứng tiêu chuẩn theo quy định của pháp luật về lao động.",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 41,
+      "question": "Khoảng cách an toàn điện từ người đến phần có điện xoay chiều theo cấp điện áp không được nhỏ hơn bao nhiêu ?",
+      "options": {
+        "A": "0.3 m đối với cấp điện áp đến 1kV.",
+        "B": "1.0 m đối với cấp điện áp 22kV.",
+        "C": "1.5 m đối với cấp điện áp 110kV.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 42,
+      "question": "Những phần có điện mà trong khi làm việc không thể tránh được va chạm hoặc đến gần thì khoảng cách an toàn điện đối với cấp điện áp trên 15kV đến 35kV là bao nhiêu? A./ 0. 35 m. B./ 0.70 m. C./ 1.00 m. D./ 1.50 m.",
+      "options": {
+         "A": "0.35 m.",
+        "B": "0.70 m",
+        "C": "1.00 m.",
+        "D": "1.50 m."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 43,
+      "question": "Những phần có điện mà trong khi làm việc không thể tránh được va chạm hoặc đến gần thì khoảng cách an toàn điện đối với cấp điện áp 22kV là bao nhiêu?",
+      "options": {
+        "A": "0.70 m.",
+        "B": "1.00 m.",
+        "C": "1.50 m.",
+        "D": "2.50 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 44,
+      "question": "Những phần có điện mà trong khi làm việc không thể tránh được va chạm hoặc đến gần thì khoảng cách an toàn điện đối với cấp điện áp đến 110kV là bao nhiêu?",
+      "options": {
+        "A": "0.70 m.",
+        "B": "1.00 m.",
+        "C": "1.50 m.",
+        "D": "2.50 m."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 45,
+      "question": "Khi không thể cắt điện được mà người làm việc có khả năng vi phạm khoảng cách an toàn quy định thì phải làm rào chắn. Khoảng cách từ rào chắn tới phần có điện là bao nhiêu ?",
+      "options": {
+        "A": "0.35m đối với cấp điện áp trên 1kV đến 15kV.",
+        "B": "0.60 m đối với cấp điện áp trên 15kV đến 35kV.",
+        "C": "1.50 m đối với cấp điện áp trên 35kV đến 110kV.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 46,
+      "question": "Khi không thể cắt điện được mà người làm việc có khả năng vi phạm khoảng cách an toàn quy định thì phải làm rào chắn. Khoảng cách từ rào chắn tới phần có điện trên 15kV đến 35kV là bao nhiêu ?",
+      "options": {
+        "A": "0,35m.",
+        "B": "0,60 m.",
+        "C": "1,00 m.",
+        "D": "1,5 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 47,
+      "question": "Khi không thể cắt điện được mà người làm việc có khả năng vi phạm khoảng cách an toàn quy định thì phải làm rào chắn. Khoảng cách từ rào chắn tới phần có điện trên 35kV đến 110kV là bao nhiêu ?",
+      "options": {
+        "A": "0,35m.",
+        "B": "0,60 m.",
+        "C": "1,00 m.",
+        "D": "1,5 m."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 48,
+      "question": "Khoảng cách cho phép nhỏ nhất từ người đến phần có điện cao áp xoay chiều với cấp điện áp trên 1kV đến 35kV là bao nhiêu ?",
+      "options": {
+        "A": "0.35 m.",
+        "B": "0.60 m.",
+        "C": "0.70 m.",
+        "D": "1.00 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 49,
+      "question": "Khoảng cách cho phép nhỏ nhất từ người đến phần có điện cao áp xoay chiều với cấp điện áp trên trên 35kV đến 110kV là bao nhiêu ?",
+      "options": {
+        "A": "0.60 m.",
+        "B": "1 m.",
+        "C": "2 m.",
+        "D": "4 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 50,
+      "question": "Khoảng cách an toàn phóng điện theo cấp điện áp đối với thiết bị, dụng cụ, phương tiện (trừ phương tiện phục vụ hotline) đối với cấp điện áp trên 1kV đến 35kV là bao nhiêu ?",
+      "options": {
+        "A": "2 m.",
+        "B": "3 m.",
+        "C": "4 m.",
+        "D": "6 m."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 51,
+      "question": "Khoảng cách an toàn phóng điện theo cấp điện áp đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) đối với cấp điện áp 110kV là bao nhiêu ?",
+      "options": {
+        "A": "2 m.",
+        "B": "3 m.",
+        "C": "4 m.",
+        "D": "6 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 52,
+      "question": "Theo yêu cầu về nối đất thì đường dây, thiết bị điện được xem là đang có điện trong trường hợp nào ?",
+      "options": {
+        "A": "Đã cắt điện và nối đất.",
+        "B": "Chưa được nối đất.",
+        "C": "Đã thử điện và nối đất.",
+        "D": "Cả 3 câu đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 53,
+      "question": "Tiết diện dây nối đất ngắn mạch (chống đóng điện nhầm từ nguồn điện đến) phải chịu được tác dụng điện động và nhiệt động khi có dòng ngắn mạch với lưới điện cấp điện áp đến 35kV không được nhỏ hơn bao nhiêu ?",
+      "options": {
+        "A": "10 mm2",
+        "B": "16 mm2",
+        "C": "25 mm2",
+        "D": "35 mm2."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 54,
+      "question": "Tiết diện dây nối đất ngắn mạch (chống đóng điện nhầm từ nguồn điện đến) phải chịu được tác dụng điện động và nhiệt động khi có dòng ngắn mạch với lưới điện cấp điện áp từ 110kV trở lên không được nhỏ hơn bao nhiêu ?",
+      "options": {
+        "A": "10 mm2",
+        "B": "16 mm2",
+        "C": "25 mm2",
+        "D": "35 mm2."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 55,
+      "question": "Tiết diện dây nối đất chống điện áp cảm ứng phải chịu được dòng điện do điện áp cảm ứng sinh ra không được nhỏ hơn bao nhiêu ?",
+      "options": {
+        "A": "10 mm2",
+        "B": "16 mm2",
+        "C": "25 mm2",
+        "D": "35 mm2."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 56,
+      "question": "Khi làm việc trên ĐDK hạ áp có điện hoặc tiếp xúc trực tiếp với phần có điện hạ áp thì phải thực hiện theo quy định như thế nào ?",
+      "options": {
+        "A": "Người làm việc tiếp xúc trực tiếp với dây dẫn, thiết bị mang điện hạ áp phải dùng dụng cụ cách điện có tay cầm chắc chắn và đảm bảo an toàn; đi giày hoặc ủng cách điện hoặc đứng trên thảm cách điện.",
+        "B": "Người làm việc gần phần có điện hạ áp phải dùng các tấm cách điện để che, chắn.",
+        "C": "Gồm cả 02 đáp án A và B",
+        "D": "Cả 02 đáp án A và B đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 57,
+      "question": "Trong công tác thay chì trên cột phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Có 02 người.",
+        "B": "Trời khô ráo, không có giông, gió to, sấm sét.",
+        "C": "Quần áo người công nhân phải khô ráo, cột có chỗ đứng chắc chắn.",
+        "D": "Gồm cả 03 đáp án A, B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 58,
+      "question": "Nguyên tắc khi kiểm tra không còn điện bằng bút thử điện?",
+      "options": {
+        "A": "Thử ở nơi không có điện trước, nơi có điện sau.",
+        "B": "Thử ở nơi có điện trước rồi mới thử nơi không còn điện.",
+        "C": "Nếu ở nơi công tác không có điện thì cho phép đem thử ở nơi khác trước lúc thử ở nơi công tác và phải bảo quản tốt bút thử điện khi chuyên chở.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 59,
+      "question": "Khi đo dòng điện ở thiết bị điện hạ áp, người đo thực hiện như thế nào ?",
+      "options": {
+        "A": "Người đo phải sử dụng găng tay cách điện hạ áp, chân phải đi giày.",
+        "B": "Nếu đo trên cột thì phải tuân theo quy định an toàn khi làm việc trên cao.",
+        "C": "Khi đo phải đứng trên nền nhà hoặc giá đỡ chắc chắn, không đứng trên thang di động để đo.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 60,
+      "question": "Khi đo cường độ dòng điện hạ áp thì những trường hợp nào sau đây không được phép thực hiện ?",
+      "options": {
+        "A": "Đứng trên nền nhà.",
+        "B": "Đứng trên thang di động.",
+        "C": "Đứng trên giá đỡ chắc chắn.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 61,
+      "question": "Nguyên tắc lắp và tháo tiếp đất phải do 2 người thực hiện có bậc an toàn điện tối thiểu bao nhiêu ?",
+      "options": {
+        "A": "Người giám sát và người thực hiện phải có bậc 3 an toàn trở lên.",
+        "B": "Một người giám sát và một người thao tác, trong đó người giám sát phải có bậc ATĐ từ bậc 4 trở lên, người thao tác phải có bậc ATĐ từ bậc 3 trở lên.",
+        "C": "Hai người phải có bậc an toàn từ bậc 4 trở lên.",
+        "D": "Cả 3 câu đều đúng"
+      },
+      "answer": "2"
+    },
+    {
+      "number": 62,
+      "question": "Nguyên tắc đặt và tháo nối đất phải thực hiện theo quy định như thế nào ?",
+      "options": {
+        "A": "Khi đặt nối đất phải đấu một đầu với đất trước, sau đó mới lắp đầu còn lại vào dây dẫn, thiết bị điện.",
+        "B": "Khi thực hiện đặt và tháo tiếp đất di động trên lưới điện cao áp phải dùng sào và găng cách điện phù hợp.",
+        "C": "Khi đặt tiếp đất phải đấu một đầu với dây dẫn trước, sau đó mới lắp đầu còn lại xuống đất.",
+        "D": "Phải đảm bảo đủ các điều kiện A, B mới đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 63,
+      "question": "Trường hợp nào sau đây là đúng khi lắp đặt nối đất ?",
+      "options": {
+        "A": "Sử dụng thiết bị thử điện để kiểm tra ĐD hoặc thiết bị điện không còn điện trước khi lắp dây nối đất vào ĐD hoặc thiết bị điện.",
+        "B": "Nơi đặt tiếp đất phải chọn sao cho đảm bảo khoảng cách an toàn đến các phần đang có điện.",
+        "C": "Số lượng và vị trí đặt tiếp đất phải chọn sao cho những người công tác nằm trọn vẹn trong khu vực được bảo vệ bằng những tiếp đất đó.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 64,
+      "question": "Để đảm bảo an toàn cho nhóm công tác người nào chịu trách nhiệm về việc cho phép tháo dỡ tạm thời nối đất di động ?",
+      "options": {
+        "A": "Người lãnh đạo công việc.",
+        "B": "Người cấp phiếu.",
+        "C": "Người giám sát an toàn.",
+        "D": "Người chỉ huy trực tiếp."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 65,
+      "question": "Các thiết bị đóng cắt của ĐD, TBĐ có bố trí công tác cắt điện phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Thiết bị điện có bố trí công tác cắt điện phải được khóa (lock) hoặc kéo ra khỏi vị trí vận hành để tránh thao tác nhầm.",
+        "B": "Phải treo biển “Cấm đóng điện! Có người đang làm việc” tại chỗ thiết bị đóng cắt.",
+        "C": "Phải cử Người cảnh giới nếu không thực hiện được biện pháp khóa thiết bị đóng cắt.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 66,
+      "question": "Để chuẩn bị nơi làm việc khi cắt điện một phần hay cắt điện hoàn toàn phải thực hiện lần lượt theo thứ tự các biện pháp kỹ thuật an toàn nào sau đây mới đúng? 1/ Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc. 2/ Đặt nối đất (tiếp đất hoặc tiếp địa). 3/ Kiểm tra không còn điện. 4/ Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết).",
+      "options": {
+        "A": "Theo thứ tự 1, 2, 3, 4.",
+        "B": "Theo thứ tự 1, 3, 2, 4.",
+        "C": "Theo thứ tự 1, 4, 2, 3.",
+        "D": "Theo thứ tự 1, 2, 4, 3."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 67,
+      "question": "Theo quy trình an toàn, những công việc nào phải cắt điện ?",
+      "options": {
+        "A": "Những phần có điện mà tại đó sẽ tiến hành công việc.",
+        "B": "Những phần có điện mà khi làm việc có thể vi phạm khoảng cách đến phần mang điện theo quy trình an toàn.",
+        "C": "Gồm cả 2 đáp án A và",
+        "D": "Tất cả điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 68,
+      "question": "Đường dây, thiết bị điện tiến hành công việc đã cách ly khỏi các phần có điện từ mọi phía được xác định như thế nào ?",
+      "options": {
+        "A": "Phải nhìn thấy được khoảng hở của thiết bị đóng cắt, hoặc tạo khoảng hở như: kéo máy cắt hợp bộ ra vị trí thí nghiệm/sửa chữa; tháo cầu chì; tháo đầu cáp; tháo lèo dây dẫn.",
+        "B": "Đối với các thiết bị đóng cắt kiểu kín (không nhìn được khoảng hở) thì phải căn cứ hiển thị về cơ khí trạng thái tại chỗ của thiết bị đóng cắt và thông số điện áp (nếu có).",
+        "C": "Cả 2 câu trên điều đúng.",
+        "D": "Cả 2 câu trên điều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 69,
+      "question": "Việc cắt điện đường dây, thiết bị điện do ai đảm nhiệm ?",
+      "options": {
+        "A": "Nhân viên đơn vị công tác.",
+        "B": "Người được ủy nhiệm.",
+        "C": "Nhân viên vận hành.",
+        "D": "Cả 3 câu trên điều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 70,
+      "question": "Việc đóng cắt điện từng phần để làm việc phải giao cho ai thực hiện ?",
+      "options": {
+        "A": "Công nhân vận hành.",
+        "B": "Công nhân sửa chữa.",
+        "C": "Công nhân sửa chữa đã được huấn luyện.",
+        "D": "Công nhân vận hành nắm vững sơ đồ lưới điện và vị trí thực tế của TBĐ để ngăn ngừa khả năng nhầm lẫn."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 71,
+      "question": "Sau khi đã cắt điện, Nhân viên vận hành phải tiến hành kiểm tra xác định không còn điện ở các vị trí nào ?",
+      "options": {
+        "A": "Tại máy ngắt đầu nguồn.",
+        "B": "Tại 2 đầu nơi đơn vị công tác làm việc.",
+        "C": "Tại ngàm dưới cầu dao, dao cách ly đã được cắt điện.",
+        "D": "Tại các TBĐ, ĐD đã cắt điện, nơi làm việc có cắt điện."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 72,
+      "question": "Sau khi đã cắt điện, để xác định thiết bị, đường dây có điện hay không bằng cách nào ?",
+      "options": {
+        "A": "Dùng bút thử điện chuyên dùng.",
+        "B": "Căn cứ vào tín hiệu đèn, rơ le, đồng hồ trên bảng điện.",
+        "C": "Dùng bút thử điện phù hợp với điện áp cần thử.",
+        "D": "Có thể dùng một trong ba cách nói trên để xác định."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 73,
+      "question": "Nguyên tắc khi kiểm tra không còn điện bằng bút thử điện ?",
+      "options": {
+        "A": "Thử ở nơi không có điện trước, nơi có điện sau.",
+        "B": "Thử ở nơi có điện trước rồi mới thử nơi không còn điện.",
+        "C": "Nếu ở nơi công tác không có điện thì cho phép đem thử ở nơi khác trước lúc thử ở nơi công tác và phải bảo quản tốt bút thử điện khi chuyên chở.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 74,
+      "question": "Nguyên tắc khi kiểm tra không còn điện đối với thiết bị điện tại trạm điện, tủ hợp bộ hoặc thiết bị kiểu kín ?",
+      "options": {
+        "A": "Kiểm tra chỉ thị tại chỗ thiết bị đóng cắt (3 pha, tất cả các phía).",
+        "B": "Kiểm tra thông số điện áp (nếu có).",
+        "C": "Kiểm tra thông số dòng điện (nếu có).",
+        "D": "Gồm cả 2 đáp án A và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 75,
+      "question": "Để đảm bảo an toàn cho nhóm công tác làm việc có cắt điện thực hiện nối đất như thế nào ?",
+      "options": {
+        "A": "Phải nối đất (cố định, di động) ngay sau khi kiểm tra không còn điện.",
+        "B": "Nối đất ở tất cả các pha của thiết bị điện, phụ tải hoặc các nguồn điện khác về phía có khả năng dẫn điện đến.",
+        "C": "Đảm bảo cho toàn bộ Nhân viên đơn vị công tác nằm trọn trong vùng bảo vệ của nối đất.",
+        "D": "Gồm cả 3 đáp án A,B và C"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 76,
+      "question": "Theo quy trình an toàn, để đảm bảo an toàn cho nhóm công tác việc thực hiện nối đất di động (tiếp địa ngắn mạch) do đơn vị nào thực hiện ?",
+      "options": {
+        "A": "Đơn vị QLVH.",
+        "B": "Đơn vị công tác.",
+        "C": "Cả 2 câu trên điều đúng.",
+        "D": "Cả 2 câu trên điều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 77,
+      "question": "Theo quy trình an toàn, để đảm bảo an toàn cho nhóm công tác việc thực hiện nối đất di động (tiếp địa cảm ứng) do đơn vị nào thực hiện ?",
+      "options": {
+        "A": "Đơn vị QLVH.",
+        "B": "Đơn vị công tác.",
+        "C": "Cả 2 câu trên điều đúng.",
+        "D": "Cả 2 câu trên điều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 78,
+      "question": "Theo quy trình an toàn, trong quá trình làm việc cần dỡ bỏ tạm thời nối đất di động, đơn vị công tác thực hiện theo lệnh của ai ?",
+      "options": {
+        "A": "Người cho phép.",
+        "B": "Người giám sát an toàn.",
+        "C": "Người chỉ huy trực tiếp.",
+        "D": "Cả 3 câu trên điều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 79,
+      "question": "Nối đất ngắn mạch khi làm việc trên đường dây cao áp trên không thực hiện như thế nào ?",
+      "options": {
+        "A": "Nếu làm việc trên đường dây hai nguồn cấp không có nhánh rẽ, phải làm nối đất ở hai đầu đường dây.",
+        "B": "Nếu làm việc trên đường dây một nguồn cấp không có nhánh rẽ, cho phép làm nối đất ở đầu đường dây có nguồn cấp đến, đầu còn lại phải mở thiết bị đóng cắt hoặc tháo lèo.",
+        "C": "Nếu làm việc trên ĐDK có nhiều nguồn cấp đến và có nhánh rẽ, phải làm nối đất ở các đầu ĐDK có nguồn cấp đến, các nhánh không có nguồn cấp đến mở thiết bị đóng cắt, nhánh nào không mở được thiết bị đóng cắt thì phải làm một bộ nối đất ở nhánh đó.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 80,
+      "question": "Khi làm việc trên đường dây hai nguồn cấp không có nhánh rẽ thì biện pháp đảm bảo an toàn là gì ?",
+      "options": {
+        "A": "Nối đất ở một đầu đường dây.",
+        "B": "Nối đất ở hai đầu đường dây.",
+        "C": "Cả hai câu A, B đúng.",
+        "D": "Cả 2 câu trên sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 81,
+      "question": "Khi làm việc trên đường dây một nguồn cấp không có nhánh rẽ thì biện pháp đảm bảo an toàn là gì ?",
+      "options": {
+        "A": "Mở thiết bị đóng cắt nguồn cấp đến.",
+        "B": "Mở thiết bị đóng cắt đầu còn lại.",
+        "C": "Nối đất ở đầu ĐD có nguồn cấp đến, đầu còn lại phải mở thiết bị đóng cắt.",
+        "D": "Cả 3 câu trên đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 82,
+      "question": "Khi làm việc trên ĐDK có nhiều nguồn cấp đến và có nhánh rẽ thì biện pháp đảm bảo an toàn là gì ?",
+      "options": {
+        "A": "Nối đất ở các đầu ĐDK có nguồn cấp đến.",
+        "B": "Nhánh không có nguồn cấp đến mở thiết bị đóng cắt.",
+        "C": "Nhánh nào không mở được thiết bị đóng cắt thì phải làm một bộ nối đất ở nhánh đó.",
+        "D": "Cả ba câu A, B,"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 83,
+      "question": "Đối với các đường cáp ngầm phải đặt tiếp đất như thế nào ?",
+      "options": {
+        "A": "Đặt một bộ tiếp đất ở đầu nối vào nguồn của cáp ngầm.",
+        "B": "Phải đặt tiếp đất hai đầu của cáp ngầm tiến hành công việc. Trường hợp làm việc tại một đầu cáp ngầm mà theo yêu cầu công việc không thể tiếp đất được tại đầu cáp này trong thời gian thực hiện công việc đó phải có tiếp đất ở đầu còn lại.",
+        "C": "Nếu thiết bị đóng cắt nhìn thấy rõ thì không cần phải làm tiếp đất.",
+        "D": "Cả 03 câu đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 84,
+      "question": "Khi làm việc ở nhiều vị trí trên một đoạn ĐDK đối với cấp điện áp 22 kV khoảng cách xa nhất giữa hai bộ nối đất không lớn hơn bao nhiêu ?",
+      "options": {
+        "A": "1,0 km.",
+        "B": "2,0 km.",
+        "C": "3,0 km.",
+        "D": "4,0 km."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 85,
+      "question": "Khi làm việc ở nhiều vị trí trên một đoạn ĐDK song song hoặc giao chéo với ĐDK cao áp có điện thì khoảng cách xa nhất giữa hai bộ nối đất không lớn hơn bao nhiêu ?",
+      "options": {
+        "A": "200 m.",
+        "B": "300 m.",
+        "C": "400 m.",
+        "D": "500 m."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 86,
+      "question": "Đối với đường dây hạ áp, khi cắt điện để sửa chữa cũng phải đặt tiếp đất như thế nào ?",
+      "options": {
+        "A": "Nối đất ĐD tại đầu nguồn. Cho phép làm nối đất di động bằng cách chập cả 3 pha với dây trung tính và nối với đất.",
+        "B": "Trường hợp thay dây, nối dây hoặc tháo rời dây dẫn phải nối đất theo nguyên tắc mọi đoạn ĐD tách rời phải có ít nhất một điểm nối đất các pha để phòng ngừa các nguồn điện khác có thể xông ngược tới khu vực làm việc (nguồn điện từ mạch khác, nguồn điện từ khách hàng).",
+        "C": "Gồm cả 02 đáp án A và",
+        "D": "Cả 02 đáp án A và B đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 87,
+      "question": "Đối với cáp vặn xoắn hoặc dây bọc hạ áp tiếp đất như thế nào ?",
+      "options": {
+        "A": "Tại điểm hở hộp aptomat đầu nguồn.",
+        "B": "Tại điểm hở hộp phân dây, ghíp nối.",
+        "C": "Tại điểm hở đầu chờ nối đất.",
+        "D": "Gồm cả 03 đáp án A,B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 88,
+      "question": "Những yêu cầu nào sau đây của lưới điện, trạm điện đối với cấp điện áp đến 35kV cho phép làm việc sau khi cắt điện không cần thực hiện việc đặt nối đất ?",
+      "options": {
+        "A": "Thiết bị có cấu trúc gọn, quan sát toàn bộ dễ dàng. Có thể cách ly hoàn toàn khỏi lưới điện bằng thiết bị đóng cắt mà đứng tại chỗ nhìn thấy rõ, chắc chắn khoảng hở và không có hiện tượng rò điện.",
+        "B": "Chắc chắn không có hiện tượng cảm ứng điện từ xuất hiện trên thiết bị điện đó.",
+        "C": "Cho phép không cần nối đất di động được ghi rõ trong PCT/LCT.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 89,
+      "question": "Theo quy trình an toàn, khi công tác được phép không cần nối đất di động thanh cái, thiết bị điện tại nhà máy, trạm điện khi đảm bảo các điều kiện nào ?",
+      "options": {
+        "A": "Đã được cách ly hoàn toàn, đã khóa thiết bị đóng cắt liên quan để tránh thao tác nhầm.",
+        "B": "Đã được tiếp địa cố định",
+        "C": "Đã kiểm tra không có điện cảm ứng.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 90,
+      "question": "Vùng làm việc an toàn phải đảm bảo yêu cầu như thế nào ?",
+      "options": {
+        "A": "Không được ảnh hưởng đến vận hành của các phần có điện gần vùng làm việc an toàn.",
+        "B": "Không cản trở hoặc gây khó khăn cho Đơn vị công tác trong việc thoát nạn khi xảy ra tai nạn, sự cố.",
+        "C": "Gồm cả 02 đáp án A và B",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 91,
+      "question": "Khi làm việc gần phần có điện Đơn vị QLVH có trách nhiệm tạo vùng làm việc cho Đơn vị công tác thực hiện như thế nào ?",
+      "options": {
+        "A": "Đơn vị QLVH và Đơn vị công tác phối hợp xác định ranh giới vùng làm việc an toàn.",
+        "B": "Lập rào chắn tạm thời hoặc áp dụng biện pháp phù hợp để Đơn vị công tác xác định được ranh giới vùng làm việc an toàn bằng trực quan.",
+        "C": "Bàn giao vùng làm việc cho Đơn vị công tác.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 92,
+      "question": "Khi tiếp nhận hiện trường công tác, ai phải kiểm tra vùng an toàn ?",
+      "options": {
+        "A": "Người chỉ huy trực tiếp và Người giám sát an toàn điện (nếu có).",
+        "B": "Người chỉ huy trực tiếp, Người giám sát an toàn điện (nếu có) và Người cho phép.",
+        "C": "Người giám sát an toàn điện (nếu có) và Người cho phép.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 93,
+      "question": "Khi thực hiện công tác Đơn vị công tác có được vượt qua vùng làm việc an toàn hay không ?",
+      "options": {
+        "A": "Không được vượt qua ranh giới vùng làm việc an toàn do Đơn vị QLVH lập và bàn giao cho Đơn vị công tác.",
+        "B": "Được phép vượt qua ranh giới vùng làm việc an toàn khi Đơn vị QLVH cho phép.",
+        "C": "Được phép vượt qua ranh giới vùng làm việc an toàn khi người chỉ huy trực tiếp cho phép.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 94,
+      "question": "Đối với thiết bị điện có điện áp trên 1kV lắp đặt ngoài trời để cảnh báo người không có nhiệm vụ không được vào vùng đã giới hạn thực hiện như thế nào ?",
+      "options": {
+        "A": "Rào chắn, khoanh vùng hoặc các biện pháp an toàn khác.",
+        "B": "Biển báo, tín hiệu cảnh báo “cấm vào” được đặt ở lối vào, ra.",
+        "C": "Khóa cửa hoặc các biện pháp ngăn chặn khác được bố trí ở cửa vào, ra.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 95,
+      "question": "Khi làm việc có điện áp trên 01 kV thì phải đảm bảo điều kiện gì ?",
+      "options": {
+        "A": "Những công việc làm việc có điện phải được Thủ trưởng đơn vị phê duyệt.",
+        "B": "Những người làm việc với công việc có điện phải được đào tạo, huấn luyện phù hợp với thiết bị, quy trình, công nghệ được trang bị.",
+        "C": "Phương án thi công và biện pháp an toàn phải được phê duyệt trước khi thực hiện.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 96,
+      "question": "An toàn khi làm việc có điện cần bảm bảo những yêu cầu gì ?",
+      "options": {
+        "A": "Khi làm việc với phần có điện, phải sử dụng trang thiết bị, dụng cụ, phương tiện bảo vệ cá nhân phù hợp.",
+        "B": "Kiểm tra các kết cấu kim loại tại nơi làm việc có khả năng tiếp xúc phải đảm bảo không có điện, tại vị trí làm việc Nhân viên đơn vị công tác phải xác định phần có điện gần nhất.",
+        "C": "Khi làm việc trên hoặc gần phần có điện cao áp, Nhân viên đơn vị công tác không được mang theo đồ trang sức hoặc vật dụng cá nhân bằng kim loại.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 97,
+      "question": "Khi làm việc với cấp điện trên 1kV thì biện pháp an toàn phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Khi làm việc với điện cao áp như kiểm tra, sửa chữa và vệ sinh phần có điện hoặc sứ cách điện (vật liệu cách điện khác), Nhân viên đơn vị công tác sử dụng các trang bị, dụng cụ cho làm việc có điện, đảm bảo khoảng cách cho phép nhỏ nhất đối với các phần có điện xung quanh khác theo quy định.",
+        "B": "Khi chuyển các dụng cụ hoặc chi tiết bằng kim loại lên cột phải bảo đảm cho chúng không đến gần dây dẫn với khoảng cách quy định.",
+        "C": "Sử dụng tấm che: trên ĐDK điện áp đến 35 kV, khi khoảng cách giữa dây dẫn và cột điện nhỏ hơn theo quy định, cho phép tiến hành các công việc ở trên thân cột nhưng phải dùng các tấm che bằng vật liệu cách điện phù hợp cấp điện áp.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 98,
+      "question": "Theo quy định việc làm rào chắn tạm thời do đơn vị nào thực hiện ?",
+      "options": {
+        "A": "Đơn vị QLVH.",
+        "B": "Đơn vị công tác.",
+        "C": "Tùy theo thỏa thuận khi khảo sát hiện trường.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 99,
+      "question": "Theo quy trình an toàn, khi đặt rào chắn gần khu vực có điện trên 1kV đến 22 kV, nếu rào chắn có khả năng chạm vào phần mang điện thì người đặt rào chắn phải sử dụng phương tiện, dụng cụ cách điện như thế nào ?",
+      "options": {
+        "A": "Phải đeo găng cách điện và đi ủng cách điện.",
+        "B": "Phải đeo găng cách điện và đứng trên tấm thảm cách điện.",
+        "C": "Cả 2 đáp án A và B đều đúng.",
+        "D": "Cả 2 đáp án A và B đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 100,
+      "question": "Rào chắn tạo ranh giới an toàn phải được thiết lập như thế nào ?",
+      "options": {
+        "A": "Rào chắn phải dựa vào phần có điện.",
+        "B": "Phải đặt chắc chắn bao quanh vị trí làm việc.",
+        "C": "Phải đặt cố định chắc chắn sao cho những người không có nhiệm vụ không thể vào được khu vực cho phép làm việc.",
+        "D": "Rào chắn tạm thời không được cản trở người tham gia thực hiện công việc rời khỏi việc trí làm việc khi xảy ra tai nạn, sự cố."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 101,
+      "question": "Theo quy trình an toàn, việc treo biển báo thực hiện như thế nào ?",
+      "options": {
+        "A": "Tại tủ/bảng điều khiển thiết bị đóng cắt mà từ đó đóng điện đến nơi làm việc, treo biển “Cấm đóng điện! Có người đang làm việc”.",
+        "B": "Trên rào chắn tạm thời phải treo biển cảnh báo “Dừng lại! Có điện nguy hiểm chết người”, phải treo thêm tín hiệu cảnh báo khác nếu cần.",
+        "C": "Tại trạm/nhà máy điện: sau khi làm nối đất phải treo biển chỉ dẫn “Làm việc tại đây!”; tại các vị trí nối đất, treo biển báo “Đã nối đất”",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 102,
+      "question": "Biện pháp tổ chức để đảm bảo an toàn khi làm việc ở thiết bị điện là gì ?",
+      "options": {
+        "A": "Khảo sát, lập biên bản hiện trường, lập biện pháp an toàn trong phương án thi công; Đăng ký công tác; Làm việc theo PCT hoặc LCT.",
+        "B": "Cho phép làm việc tại hiện trường; Giám sát an toàn trong thời gian làm việc.",
+        "C": "Những biện pháp tổ chức khác như: nghỉ giải lao; nghỉ hết ngày làm việc và bắt đầu ngày tiếp theo; thay đổi người khi làm việc; kết thúc công việc, trao trả nơi làm việc, khoá phiếu PCT; trách nhiệm của các đơn vị có liên quan khi thực hiện công việc.",
+        "D": "Gồm cả 3 đáp án A, B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 103,
+      "question": "Đơn vị công tác được tổ chức thực hiện công tác điện như thế nào ?",
+      "options": {
+        "A": "Một Đơn vị công tác phải có tối thiểu hai người, trong đó phải có một Người chỉ huy trực tiếp chịu trách nhiệm chung (trừ trường hợp Những công việc đơn giản, không phải chuẩn bị biện pháp an toàn, có mức rủi ro cấp 1 thì được phép thực hiện một người).",
+        "B": "Đơn vị công tác phải thực hiện sao cho với 01 Đơn vị công tác khi làm việc theo 01 PCT (hoặc LCT), Người CHTT và Người GSATĐ (nếu có) phải giám sát được tất cả Nhân viên đơn vị công tác trong thời gian làm việc để đảm bảo an toàn về điện.",
+        "C": "Những công việc đơn giản, không phải chuẩn bị biện pháp an toàn, có mức rủi ro cấp 1 thì được phép thực hiện một người.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 104,
+      "question": "Đơn vị công tác tổ chức thực hiện công tác điện có trách nhiệm gì ?",
+      "options": {
+        "A": "Thống nhất với các Đơn vị QLVH có liên quan về tiến độ và tổ chức các Đơn vị công tác phù hợp với công việc, điều kiện thực tế của hiện trường công tác.",
+        "B": "Tổ chức các Đơn vị công tác, cử Người CHTT, Người LĐCV, Người GSATĐ, Người CG, Người thi hành lệnh, Nhân viên đơn vị công tác theo quy định của Quy trình này. Việc tổ chức các Đơn vị công tác phải thực hiện sao cho với 01 Đơn vị công tác khi làm việc theo 01 PCT (hoặc LCT), Người CHTT và Người GSATĐ (nếu có) phải giám sát được tất cả Nhân viên đơn vị công tác trong thời gian làm việc để đảm bảo an toàn về điện.",
+        "C": "Cấp có thẩm quyền của Đơn vị công tác phải chịu hoàn toàn trách nhiệm trước pháp luật về sự đảm bảo đáp ứng các yêu cầu của bậc ATĐ đối với từng loại công việc và những chức danh trong PCT, LCT theo quy định của Quy trình này được ghi trong Đăng ký công tác.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 105,
+      "question": "Đơn vị QLVH thực hiện công tác điện có trách nhiệm gì ?",
+      "options": {
+        "A": "Chủ động phối hợp với Đơn vị công tác, Đơn vị điều độ triển khai thực hiện công việc theo đúng kế hoạch và quy định của Quy trình an toàn để đảm bảo an toàn cho Đơn vị công tác.",
+        "B": "Cử Nhân viên vận hành thực hiện các biện pháp kỹ thuật chuẩn bị nơi làm việc. Nếu thao tác cắt điện thuộc các Đơn vị QLVH khác thì chủ động phối hợp với Đơn vị điều độ cắt điện theo đúng kế hoạch, đảm bảo thời gian làm việc.",
+        "C": "Cấp PCT/LCT; Cử Người cho phép; Cử Người GSATĐ (nếu có); Treo thẻ, gán nhãn hoặc hình thức phù hợp để đánh dấu từng Đơn vị công tác trên sơ đồ vận hành.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 106,
+      "question": "Những công việc nào phải khảo sát hiện trường ?",
+      "options": {
+        "A": "Việc khảo sát hiện trường công tác được áp dụng đối với những công việc bao gồm hai yếu tố sau: Một là: Được thực hiện theo kế hoạch; Hai là: Hiện trường công tác có yếu tố nguy hiểm, có thể gây tai nạn cho người tham gia thực hiện công việc hoặc cho cộng đồng, như: sửa chữa nóng; công việc có thể vi phạm khoảng cách ATĐ; làm việc trên ĐD vượt sông, vượt đường; làm việc trên ĐD gần hoặc giao chéo ĐD cao áp khác; kéo dây, dựng cột, đào đường có thể gây tai nạn cho người tham gia giao thông.",
+        "B": "Đối với công việc do Đơn vị QLVH/Đơn vị công tác quyết định việc khảo sát hiện trường.",
+        "C": "Gồm cả 2 đáp án A và B",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 107,
+      "question": "Đơn vị chủ trì nào khảo sát, lập biên bản hiện trường ?",
+      "options": {
+        "A": "Đơn vị công tác.",
+        "B": "Đơn vị quản lý vận hành.",
+        "C": "Điều độ có quyền điều khiển thiết bị.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 108,
+      "question": "Tham gia khảo sát, lập biên bản hiện trường gồm những thành phần nào ?",
+      "options": {
+        "A": "Chỉ cần đơn vị công tác phải chủ trì và phối hợp với Đơn vị QLVH để tổ chức khảo sát, lập biên bản hiện trường.",
+        "B": "Đơn vị công tác phải chủ trì và phối hợp với Đơn vị QLVH để tổ chức khảo sát, lập biên bản hiện trường với sự tham gia đầy đủ của các Đơn vị có liên quan.",
+        "C": "Đơn vị QLVH phải chủ trì và phối hợp với Đơn vị công tác để tổ chức khảo sát, lập biên bản hiện trường với sự tham gia đầy đủ của các Đơn vị QLVH có liên quan, nếu cần thiết có thể mời thêm cấp điều độ có quyền điều khiển tham gia.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 109,
+      "question": "Thành phần của đơn vị công tác tham gia khảo sát, lập biên bản hiện trường là những ai ?",
+      "options": {
+        "A": "Người đi khảo sát phải là những người sẽ được cử làm Người lãnh đạo công việc. Nếu Người lãnh đạo công việc không có tên trong biên bản khảo sát hoặc không trực tiếp tham gia khảo sát hiện trường, thì phải được phổ biến để nhận biết rõ các yếu tố nguy hiểm, điều kiện an toàn khi tiến hành công việc.",
+        "B": "Người đi khảo sát phải là những người sẽ được cử làm Người chỉ huy trực tiếp, Người giám sát ATĐ. Nếu Người chỉ huy trực tiếp, Người giám sát ATĐ không có tên trong biên bản khảo sát hoặc không trực tiếp tham gia khảo sát hiện trường, thì phải được phổ biến để nhận biết rõ các yếu tố nguy hiểm, điều kiện an toàn khi tiến hành công việc.",
+        "C": "Người đi khảo sát phải là những người sẽ được cử làm Người chỉ huy trực tiếp, Người giám sát ATĐ. Nếu Người chỉ huy trực tiếp, Người giám sát ATĐ không có tên trong biên bản khảo sát hoặc không trực tiếp tham gia khảo sát hiện trường thì không được tham gia làm người chỉ huy trực tiếp, người giám sát ATĐ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 110,
+      "question": "Trường hợp nếu công việc có liên quan đến ĐD, thiết bị điện của từ 02 Đơn vị QLVH trở lên thì thực hiện như thế nào ?",
+      "options": {
+        "A": "Khi khảo sát lập biên bản hiện trường, Đơn vị công tác và các Đơn vị QLVH phải thống nhất, làm rõ trách nhiệm của từng bên.",
+        "B": "Khi khảo sát lập biên bản hiện trường, Đơn vị QLVH cấp phiếu công tác phải phân công trách nhiệm của từng bên.",
+        "C": "Khi khảo sát lập biên bản hiện trường, Đơn vị công tác phải phân công trách nhiệm của từng bên.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 111,
+      "question": "Những công việc nào phải lập biện pháp ATĐ trong phương án thi công ?",
+      "options": {
+        "A": "Những công việc bao gồm hai yếu tố sau: Một là: Được thực hiện theo kế hoạch; Hai là: Hiện trường công tác có yếu tố nguy hiểm, có thể gây tai nạn cho người tham gia thực hiện công việc hoặc cho cộng đồng, như: sửa chữa nóng; công việc có thể vi phạm khoảng cách ATĐ; làm việc trên ĐD vượt sông, vượt đường; làm việc trên ĐD gần hoặc giao chéo ĐD cao áp khác; kéo dây, dựng cột, đào đường có thể gây tai nạn cho người tham gia giao thông.",
+        "B": "Những công việc do Đơn vị QLVH/Đơn vị công tác quyết định việc khảo sát hiện trường.",
+        "C": "Gồm cả 2 đáp án A và",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 112,
+      "question": "Chủ trì lập biện pháp ATĐ trong phương án thi công là trách nhiệm của đơn vị nào ?",
+      "options": {
+        "A": "Đơn vị công tác.",
+        "B": "Đơn vị quản lý vận hành.",
+        "C": "Theo phân công trong khảo sát hiện trường.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 113,
+      "question": "Phê duyệt biện pháp ATĐ trong phương án thi công do đơn vị nào thực hiện ?",
+      "options": {
+        "A": "Do Đơn vị công tác phê duyệt trước khi thi công.",
+        "B": "Do Đơn vị QLVH phê duyệt trước khi thi công.",
+        "C": "Theo phân công trong khảo sát hiện trường.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 114,
+      "question": "Sửa đổi, bổ sung biện pháp ATĐ trong phương án thi công do đơn vị nào thực hiện ?",
+      "options": {
+        "A": "Đơn vị công tác.",
+        "B": "Đơn vị quản lý vận hành.",
+        "C": "Theo phân công trong khảo sát hiện trường.",
+        "D": "Phải được hai bên thỏa thuận, thông báo đến các đơn vị liên quan."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 115,
+      "question": "Phiếu công tác là gì ?",
+      "options": {
+        "A": "Phiếu công tác là phương án để đơn vị công tác thực hiện một công tác.",
+        "B": "Phiếu công tác là Phiếu để đơn vị thực hiện một thao tác nào đó.",
+        "C": "Phiếu công tác là phiếu cho phép Đơn vị công tác làm việc với ĐD, thiết bị điện.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 116,
+      "question": "Phiếu công tác giấy yêu cầu như thế nào ?",
+      "options": {
+        "A": "Theo đúng mẫu, rõ ràng, đủ và đúng theo yêu cầu công việc; không được để rách nát, nhòe chữ; cấm tẩy xóa.",
+        "B": "Lập thành 02 bản: Người cấp phiếu ký 02 bản, chuyển đến Người cho phép, Người chỉ huy trực tiếp mỗi người 01 bản. Người tham gia thực hiện PCT phải ký vào 02 bản, mỗi đơn vị giữ 01 bản.",
+        "C": "Gồm cả 2 Đáp án A và",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 117,
+      "question": "Mở rộng phạm vi làm việc theo phiếu công tác trong khi tiến hành công việc thì thực hiện như thế nào ?",
+      "options": {
+        "A": "Do người chỉ huy trực tiếp quyết định.",
+        "B": "Không được tự ý mở rộng phạm vi làm việc theo PCT.",
+        "C": ". Nếu mở rộng phạm vi làm việc thì phải cấp PCT mới.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 118,
+      "question": "Thay đổi nội dung làm việc theo phiếu công tác trong khi tiến hành công việc thì thực hiện như thế nào ?",
+      "options": {
+        "A": "Do người chỉ huy trực tiếp quyết định.",
+        "B": "Không được tự ý thay đổi nội dung làm việc theo PCT.",
+        "C": ". Nếu thay đổi nội dung làm việc thì phải cấp PCT mới.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 119,
+      "question": "Phiếu công tác phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp phiếu quyết định.",
+        "B": "Sau khi hoàn thành công việc, PCT phải lưu giữ ít nhất 03 tháng.",
+        "C": "Đối với công việc để xảy ra sự cố hoặc tai nạn thì các PCT có liên quan, phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 120,
+      "question": "Phiếu công tác trong trường hợp bình thường phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp phiếu quyết định.",
+        "B": "Sau khi hoàn thành công việc, PCT phải lưu giữ ít nhất 01 tháng.",
+        "C": "Sau khi hoàn thành công việc, PCT phải lưu giữ ít nhất 03 tháng.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 121,
+      "question": "Phiếu công tác trong trường hợp công việc xảy ra sự cố hoặc tai nạn phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp phiếu quyết định.",
+        "B": "Đối với công việc để xảy ra sự cố hoặc tai nạn thì các PCT có liên quan, PCT phải lưu giữ ít nhất 01 năm.",
+        "C": ". Đối với công việc để xảy ra sự cố hoặc tai nạn thì các PCT có liên quan, phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
+        "D": "Cả 3 câu đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 122,
+      "question": "Lệnh công tác là gì ?",
+      "options": {
+        "A": "Lệnh công tác là phương án để đơn vị công tác thực hiện một công tác..",
+        "B": "Lệnh công tác là lệnh để đơn vị thực hiện một thao tác nào đó.",
+        "C": "Lệnh công tác là lệnh cho phép thực hiện công việc ở ĐD, thiết bị điện.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 123,
+      "question": "Cấp lệnh công tác theo công việc thực hiện như thế nào ?",
+      "options": {
+        "A": "Mỗi lệnh công tác chỉ được cấp cho 01 Đơn vị công tác.",
+        "B": "Lệnh công tác được cấp để đơn vị thực hiện một thao tác nào đó.",
+        "C": "Lệnh công tác được cấp khi không sử dụng được phiếu công tác.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 124,
+      "question": "Lệnh công tác giấy yêu cầu như thế nào ? B./ Lập thành 02 phần A, B: Người ra lệnh ký 02 phần, chuyển đến Người chỉ huy trực tiếp phần B. Tại hiện trường, sau khi kiểm tra đủ, đúng các biện pháp an toàn theo LCT, Người chỉ huy trực tiếp và các Nhân viên đơn vị công tác phải ký vào phần B. Khi kết thúc công tác, Người chỉ huy trực tiếp chuyển lại đến Người ra lệnh phần B.",
+      "options": {
+        "A": "Theo đúng mẫu, rõ ràng, đủ và đúng theo yêu cầu công việc; không được để rách nát, nhòe chữ; cấm tẩy xóa.",
+        "C": ". Gồm cả 2 đáp án A và B",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 125,
+      "question": "Thay đổi nội dung hoặc mở rộng phạm vi làm việc theo lệnh công tác trong khi tiến hành công việc thì thực hiện như thế nào ?",
+      "options": {
+        "A": "Do người chỉ huy trực tiếp quyết định.",
+        "B": "Không được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc.",
+        "C": "Nếu thay đổi nội dung hoặc mở rộng phạm vi làm việc thì phải cấp LCT mới.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 126,
+      "question": "Mở rộng phạm vi làm việc theo lệnh công tác trong khi tiến hành công việc thì thực hiện như thế nào ?",
+      "options": {
+        "A": "Do người chỉ huy trực tiếp quyết định.",
+        "B": "Không được phép mở rộng phạm vi làm việc.",
+        "C": "Nếu mở rộng phạm vi làm việc thì phải cấp LCT mới.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 127,
+      "question": "Lệnh công tác phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp lệnh công tác quyết định.",
+        "B": "Sau khi hoàn thành công việc, LCT phải lưu giữ ít nhất 03 tháng.",
+        "C": "Nếu xảy ra sự cố hoặc tai nạn thì các LCT liên quan phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
+        "D": "Gồm cả 2 đáp án B và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 128,
+      "question": "Lệnh công tác trong trường hợp bình thường phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp lệnh công tác quyết định.",
+        "B": "Sau khi hoàn thành công việc, LCT phải lưu giữ ít nhất 01 tháng.",
+        "C": "Sau khi hoàn thành công việc, LCT phải lưu giữ ít nhất 03 tháng.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 129,
+      "question": "Lệnh công tác trong trường hợp công việc xảy ra sự cố hoặc tai nạn phải lưu giữ trong thời hạn bao lâu ?",
+      "options": {
+        "A": "Do người cấp lệnh công tác quyết định.",
+        "B": "Nếu xảy ra sự cố hoặc tai nạn thì các LCT liên quan phải lưu giữ ít nhất 01 năm.",
+        "C": "Nếu xảy ra sự cố hoặc tai nạn thì các LCT liên quan phải được lưu trong hồ sơ điều tra sự cố, tai nạn lao động của đơn vị.",
+        "D": "Cả 3 câu đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 130,
+      "question": "Công việc nào thực hiện theo PCT ?",
+      "options": {
+        "A": "Làm việc với ĐD/TBĐ trên 01 kV: Cắt điện, có điện hoặc gần phần có điện trên 01 kV.",
+        "B": "Làm việc với ĐD/TBĐ hạ áp: Đại tu, sửa chữa lớn; Thay, kéo dây đường trục, nhánh rẽ trục; Thay, chuyển cột điện, chuyển điểm đấu nối; Kéo dây, thay dây và đấu nối nhánh rẽ hạ áp khách hàng, lắp đặt mới hoặc thay thế công tơ/hộp công tơ cấp điện áp 220/380kV trong trường hợp làm việc phải cắt điện theo Quy trình an toàn.",
+        "C": "Làm việc với mạch nhị thứ.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 131,
+      "question": "Công việc nào thực hiện theo LCT ?",
+      "options": {
+        "A": "Làm việc ở xa nơi có điện.",
+        "B": "Làm việc với ĐD/TBĐ hạ áp, trừ công việc thực hiện theo PCT theo quy trình an toàn.",
+        "C": "Công việc không cần phải thực hiện các biện pháp kỹ thuật chuẩn bị vị trí làm việc, chỉ cần sử dụng PTBVCN.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 132,
+      "question": "Có bao nhiêu chức danh trong Phiếu công tác ?",
+      "options": {
+        "A": "6 chức danh (người cấp phiếu, người cho phép, người giám sát ATĐ, người lãnh đạo công việc, người chỉ huy trực tiếp, nhân viên đơn vị công tác).",
+        "B": "6 chức danh (người cấp phiếu, người cho phép, người giám sát ATĐ, người lãnh đạo công việc, người chỉ huy trực tiếp, người cảnh giới).",
+        "C": "7 chức danh (người cấp phiếu, người cho phép, người giám sát ATĐ, người lãnh đạo công việc, người cảnh giới, người chỉ huy trực tiếp, nhân viên đơn vị công tác).",
+        "D": "8 chức danh (người cấp phiếu, người cho phép, người giám sát ATĐ, người lãnh đạo công việc, người cảnh giới, người thi hành lệnh, người chỉ huy trực tiếp, nhân viên đơn vị công tác)."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 133,
+      "question": "Người cấp phiếu được phép kiêm nhiệm các chức danh nào khi thực hiện PCT ?",
+      "options": {
+        "A": "Người cấp phiếu kiêm Người cho phép.",
+        "B": "Người cấp phiếu kiêm Người lãnh đạo công việc.",
+        "C": "Người cấp phiếu kiêm Người CHTT nếu hai chức danh này cùng một Cơ sở.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 134,
+      "question": "Có bao nhiêu chức danh trong lệnh công tác ?",
+      "options": {
+        "A": "4 chức danh (người cấp lệnh, người giám sát ATĐ, người chỉ huy trực tiếp, nhân viên đơn vị công tác).",
+        "B": "4 chức danh (người cấp lệnh, người giám sát ATĐ, người thi hành lệnh, người cảnh giới).",
+        "C": "5 chức danh (người cấp lệnh, người giám sát ATĐ, người thi hành lệnh, người chỉ huy trực tiếp, nhân viên đơn vị công tác).",
+        "D": "6 chức danh (người cấp lệnh, người giám sát ATĐ, người cảnh giới, người thi hành lệnh, người chỉ huy trực tiếp, nhân viên đơn vị công tác)."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 135,
+      "question": "Làm việc trên lưới điện Công ty quản lý vận hành, Người cấp phiếu là những người nào ?",
+      "options": {
+        "A": "Người cấp phiếu phải là người của Đơn vị QLVH; phải nắm vững về vận hành lưới điện hoặc nhà máy điện do đơn vị mình trực tiếp quản lý, biết được nội dung công việc, điều kiện đảm bảo ATĐ để đề ra đủ, đúng các biện pháp an toàn cho Đơn vị công tác; có bậc 4 ATĐ trở lên.",
+        "B": "Người cấp phiếu phải là người của Đơn vị QLVH; biết được nội dung công việc, điều kiện đảm bảo ATĐ để đề ra đủ, đúng các biện pháp an toàn cho Đơn vị công tác; có bậc 5 ATĐ.",
+        "C": "Người cấp phiếu phải là người của Đơn vị thi công; biết được nội dung công việc, điều kiện đảm bảo ATĐ để đề ra đủ, đúng các biện pháp an toàn cho Đơn vị công tác; có bậc 4 ATĐ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 136,
+      "question": "Làm việc trên lưới điện thuộc Điện lực quản lý vận hành, Người cấp phiếu trong các trường hợp công tác cụ thể là những người nào ?",
+      "options": {
+        "A": "Đối với công tác có kế hoạch: Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có).",
+        "B": "Đối với công tác ngoài kế hoạch: Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có).",
+        "C": "Đối với công tác xử lý sự cố: Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có), Trưởng ca/Phụ trách Ca trực Thao tác và Sửa chữa điện, Trưởng ca vận hành Diesel (nếu có).",
+        "D": "Tất cả các đáp án đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 137,
+      "question": "Đối với công tác có kế hoạch. Người cấp phiếu của Điện lực là những người nào ?",
+      "options": {
+        "A": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có).",
+        "B": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có), Trưởng ca/Phụ trách Ca trực Thao tác và Sửa chữa điện, Trưởng ca vận hành Diesel (nếu có).",
+        "C": "Người cấp phiếu là Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp hoặc người được giao nhiệm vụ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 138,
+      "question": "Đối với công tác ngoài kế hoạch. Người cấp phiếu của Điện lực là những người nào ?",
+      "options": {
+        "A": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có).",
+        "B": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có), Trưởng ca/Phụ trách Ca trực Thao tác và Sửa chữa điện, Trưởng ca vận hành Diesel (nếu có).",
+        "C": "Người cấp phiếu là Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp hoặc người được giao nhiệm vụ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 139,
+      "question": "Đối với công tác xử lý sự cố. Người cấp phiếu của Điện lực là những người nào ?",
+      "options": {
+        "A": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có).",
+        "B": "Người cấp phiếu là Trưởng/Phó Điện lực, Tổ trưởng/Tổ phó các Tổ: Kỹ thuật, Kinh doanh, QLVH và Diesel (nếu có), Trưởng ca/Phụ trách Ca trực Thao tác và Sửa chữa điện, Trưởng ca vận hành Diesel (nếu có).",
+        "C": "Người cấp phiếu là Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp hoặc người được giao nhiệm vụ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 140,
+      "question": "Người cấp phiếu có những trách nhiệm nào ?",
+      "options": {
+        "A": "Ghi đầy đủ các nội dung theo mẫu quy định và ký/xác nhận điện tử cấp phiếu công tác/lệnh công tác.",
+        "B": "Giao phiếu công tác/lệnh công tác, chỉ dẫn những yêu cầu cụ thể và những yếu tố nguy hiểm để thực hiện công việc.",
+        "C": "Kiểm tra và ký/xác nhận điện tử hoàn thành phiếu công tác/ lệnh công tác sau khi nhận lại.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 141,
+      "question": "Người cho phép là những người nào ?",
+      "options": {
+        "A": "Người cho phép là người có bậc 4 ATĐ trở lên được Đơn vị QLVH giao nhiệm vụ giao nhận hiện trường với Đơn vị công tác, bao gồm: Nhân viên vận hành đang làm nhiệm vụ trong ca trực, là các chức danh: Trưởng ca/Trưởng kíp/Trực chính/Phụ trách ca trực hoặc người được giao nhiệm vụ theo quy định.",
+        "B": "Người cho phép là người có bậc 3 ATĐ trở lên được Đơn vị QLVH giao nhiệm vụ giao nhận hiện trường với Đơn vị công tác, bao gồm: Nhân viên vận hành đang làm nhiệm vụ trong ca trực, là các chức danh: Trưởng ca/Trưởng kíp/Trực chính/Phụ trách ca trực hoặc người được giao nhiệm vụ theo quy định.",
+        "C": "Người cho phép là người có bậc 4 ATĐ trở lên được Đơn vị thi công giao nhiệm vụ giao nhận hiện trường công tác với đơn vị QLVH.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 142,
+      "question": "Người cho phép có những trách nhiệm nào ?",
+      "options": {
+        "A": "Chịu trách nhiệm kiểm tra việc thực hiện đầy đủ các biện pháp kỹ thuật an toàn điện thuộc trách nhiệm của mình để chuẩn bị chỗ làm việc cho đơn vị công tác.",
+        "B": "Chỉ dẫn cho đơn vị công tác các thiết bị đã được cắt điện, những phần thiết bị còn điện và các biện pháp đặc biệt chú ý. Ký/xác nhận điện tử cho phép vào làm việc và bàn giao nơi làm việc cho đơn vị công tác.",
+        "C": "Ký/ xác nhận điện từ tiếp nhận nơi làm việc khi đơn vị công tác kết thúc công việc và ký khóa Phiếu công tác.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 143,
+      "question": "Người giám sát ATĐ là những người nào ?",
+      "options": {
+        "A": "Người GSATĐ có bậc 4 ATĐ trở lên, được Đơn vị công tác hoặc Đơn vị QLVH cử để làm nhiệm vụ GSATĐ cho Đơn vị công tác.",
+        "B": "Người giám sát ATĐ có bậc 3 ATĐ trở lên, được Đơn vị công tác hoặc Đơn vị QLVH cử để làm nhiệm vụ giám sát ATĐ cho Đơn vị công tác.",
+        "C": "Người giám sát ATĐ có bậc 4 ATĐ trở lên, được Đơn vị công tác hoặc Đơn vị QLVH cử để làm nhiệm vụ giám sát ATĐ cho Đơn vị quản lý vận hành.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 144,
+      "question": "Phải cử Người giám sát ATĐ riêng cho Đơn vị công tác trong những trường hợp nào ?",
+      "options": {
+        "A": "Đơn vị công tác làm các công việc không có chuyên môn về điện như nề, mộc, cơ khí nhưng có yếu tố nguy hiểm có thể dẫn đến tai nạn điện trong khi làm việc mà Người CHTT không thể GSATĐ được.",
+        "B": "Đơn vị công tác làm các công việc căng, kéo dây, lấy độ võng ĐDK giao chéo ở phía dưới hoặc gần ĐDK đang vận hành.",
+        "C": "Đơn vị công tác làm việc ở những nơi đặc biệt nguy hiểm về điện; Trường hợp làm việc có yếu tố nguy hiểm có thể dẫn đến tai nạn điện trong khi làm việc đối với Đơn vị công tác mà Người chỉ huy trực tiếp không thể giám sát ATĐ được.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 145,
+      "question": "Người giám sát ATĐ có những trách nhiệm nào ?",
+      "options": {
+        "A": "Cùng Người chỉ huy trực tiếp tiếp nhận nơi làm việc.",
+        "B": "Phải luôn có mặt tại nơi làm việc để giám sát an toàn về điện cho nhân viên đơn vị công tác.",
+        "C": "không được làm thêm nhiệm vụ khác.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 146,
+      "question": "Người lãnh đạo công việc là những người nào ?",
+      "options": {
+        "A": "Người LĐCV phải có bậc 5 ATĐ, do Cấp có thẩm quyền của Đơn vị công tác cử. Trường hợp các Đơn vị công tác không cùng một tổ chức hoạt động điện lực, Đơn vị QLVH phải cử Người LĐCV.",
+        "B": "Người lãnh đạo công việc phải có bậc 4 ATĐ do Cấp có thẩm quyền của Đơn vị công tác cử. Trường hợp các Đơn vị công tác không cùng một tổ chức hoạt động điện lực, Đơn vị QLVH và các Đơn vị công tác phải thống nhất phải cử Người LĐCV.",
+        "C": "Người lãnh đạo công việc phải có bậc 3 ATĐ do Cấp có thẩm quyền của Đơn vị công tác cử. Trường hợp các Đơn vị công tác không cùng một tổ chức hoạt động điện lực, Đơn vị QLVH và các Đơn vị công tác phải thống nhất phải cử Người LĐCV.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 147,
+      "question": "Người lãnh đạo công việc có những trách nhiệm nào ?",
+      "options": {
+        "A": "Người lãnh đạo công việc chịu trách nhiệm phối hợp hoạt động của các đơn vị công tác trong quá trình thực hiện công việc; Tiếp nhận thông tin từ Người chỉ huy trực tiếp khi nhận, trả hiện trường công tác.",
+        "B": "Chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc; cảnh báo những nguy hiểm, rủi ro về an toàn cho Người chỉ huy trực tiếp và Người giám sát ATĐ (nếu có) để họ biết và phòng tránh.",
+        "C": "Ghi thời gian bàn giao hiện trường, ký cho phép vào làm việc; Thực hiện và ghi vào PCT khi công tác nghỉ qua ngày hoặc chuyển vị trí công tác; Tiếp nhận nơi làm việc do Người chỉ huy trực tiếp bàn giao khi Đơn vị công tác kết thúc công việc; kiểm tra nội dung công việc, nơi làm việc, ký khóa PCT và thông báo cho các đơn vị liên quan, giao lại PCT cho Người cấp phiếu.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 148,
+      "question": "Cần có Người LĐCV trong những trường hợp nào ?",
+      "options": {
+        "A": "Nhiều Đơn vị công tác thực hiện trên cùng ĐD, TBĐ và có phối hợp về biện pháp ATĐ.",
+        "B": "Đơn vị công tác phải phối hợp với nhau về thời gian làm việc.",
+        "C": "Thí nghiệm ĐD, TBĐ khi có Đơn vị công tác khác thực hiện công việc trên ĐD, TBĐ đó.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 149,
+      "question": "Trường hợp nào cần có người cảnh giới ?",
+      "options": {
+        "A": "Công việc thực hiện có thể gây nguy hiểm cho cộng đồng.",
+        "B": "Biển báo, rào chắn, căng dây hoặc các biện pháp khác chưa đủ đảm bảo an toàn cho cộng đồng.",
+        "C": "Người CHTT không đủ khả năng kiêm nhiệm vai trò Người CG.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 150,
+      "question": "Người cảnh giới có những trách nhiệm nào ?",
+      "options": {
+        "A": "Cùng với Người chỉ huy trực tiếp tiếp nhận và phải luôn có mặt tại vị trí cần cảnh giới để bảo đảm an toàn cho cộng đồng.",
+        "B": "Phối hợp với Người chỉ huy trực tiếp để thực hiện công việc bảo đảm an toàn cho cộng đồng.",
+        "C": "Gồm cả 2 đáp án A và B",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 151,
+      "question": "Người ra lệnh là những người nào ?",
+      "options": {
+        "A": "Người ra lệnh phải nắm vững về vận hành lưới điện hoặc nhà máy điện do đơn vị mình trực tiếp quản lý, biết được nội dung công việc, điều kiện đảm bảo ATĐ khi tiến hành công việc. Có bậc 3 ATĐ trở lên, bao gồm: Trưởng/Phó đơn vị/tổ/đội, Quản đốc/Phó quản đốc phân xưởng vận hành, Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp/Trực chính hoặc người được giao nhiệm vụ.",
+        "B": "Người ra lệnh là người có bậc 4 ATĐ trở lên được Đơn vị QLVH giao nhiệm vụ giao nhận hiện trường với Đơn vị công tác, bao gồm: Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp/Trực chính hoặc người được giao nhiệm vụ.",
+        "C": "Người ra lệnh phải nắm vững về vận hành lưới điện hoặc nhà máy điện do đơn vị mình trực tiếp quản lý, biết được nội dung công việc, điều kiện đảm bảo ATĐ khi tiến hành công việc. Có bậc 3 ATĐ trở lên, bao gồm: Trưởng/Phó đơn vị/tổ/đội, Quản đốc/Phó quản đốc phân xưởng vận hành, Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp hoặc người được giao nhiệm vụ.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 152,
+      "question": "Người ra lệnh có những trách nhiệm nào ?",
+      "options": {
+        "A": "Khi ra LCT phải ghi đầy đủ các nội dung của LCT, trực tiếp ký/xác nhận điện tử và giao LCT cho Người CHTT (hoặc Người thi hành lệnh); tiếp nhận lại LCT giấy, kiểm tra, ký/xác nhận điện tử sau khi hoàn thành công việc.",
+        "B": "Trường hợp ra lệnh bằng lời nói và chưa trang bị phần mềm quản lý LCT, trước khi ra LCT, Người ra lệnh phải ghi vào sổ LCT những nội dung sau: Người ra lệnh, họ tên của Người CHTT (hoặc Người thi hành lệnh), Người GSATĐ (nếu có), nhân viên của Đơn vị công tác, địa điểm làm việc, nội dung công tác, điều kiện tiến hành công việc, thời gian bắt đầu và kết thúc công việc, đồng thời dành một mục để ghi việc kết thúc công việc. Nếu Người ra lệnh không trực tiếp ghi được thì phải thông qua Trực ban vận hành hoặc Trưởng ca trực vận hành để ghi vào sổ LCT đầy đủ các nội dung nêu ở trên.",
+        "C": "Phải chỉ dẫn những điều có liên quan đến công việc và các yếu tố nguy hiểm tại hiện trường cho Người CHTT (hoặc Người thi hành lệnh), Người GSATĐ (nếu có) để đảm bảo an toàn khi thực hiện công việc; Người ra lệnh tiếp nhận báo cáo kết quả, thời gian hoàn thành sau khi thực hiện xong công việc từ Người CHTT (hoặc Người thi hành lệnh) và ghi vào sổ LCT hoặc phần mềm quản lý LCT theo quy định.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 153,
+      "question": "Người chỉ huy trực tiếp có bậc an toàn điện được quy định như thế nào ?",
+      "options": {
+        "A": "Có bậc 5 ATĐ khi thực hiện PCT, bậc 4 ATĐ trở lên khi thực hiện LCT đối với công việc về điện.",
+        "B": "Có bậc 5 ATĐ khi thực hiện PCT, bậc 3 ATĐ trở lên khi thực hiện LCT đối với công việc về điện.",
+        "C": "Có bậc 4 ATĐ trở lên khi thực hiện PCT, bậc 3 ATĐ trở lên khi thực hiện LCT đối với công việc về điện.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 154,
+      "question": "Trách nhiệm phối hợp của người chỉ huy trực tiếp như thế nào ?",
+      "options": {
+        "A": "Phối hợp chặt chẽ với các tổ chức liên quan, kiểm tra và chỉ huy thực hiện công việc đảm bảo an toàn cho nhân viên đơn vị công tác và cộng đồng.",
+        "B": "Người chỉ huy trực tiếp phải hiểu rõ nội dung công việc được giao, các biện pháp an toàn phù hợp với công việc và có trách nhiệm kiểm tra: Kiểm tra sơ bộ sức khỏe nhân viên đơn vị công tác, phương tiện sơ cứu thiết yếu; Kiểm tra lại và thực hiện đầy đủ các biện pháp an toàn cần thiết; Việc chấp hành các quy định về an toàn của nhân viên đơn vị công tác; Chất lượng, số lượng các dụng cụ, trang bị an toàn sử dụng trong khi làm việc ; Trực tiếp hoặc phân công nhân viên đơn vị công tác đặt, di chuyển, tháo dỡ các biển báo an toàn điện, rào chắn, nối đất di động trong khi làm việc và phổ biến cho tất cá nhân viên đơn vị công tác biết.",
+        "C": "Trước khi cho đơn vị công tác vào làm việc Người chỉ huy trực tiếp phải giải thích cho nhân viên đơn vị công tác về nội dung, trình tự để thực hiện công việc và các biện pháp an toàn.",
+        "D": "Người chỉ huy trực tiếp phải có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 155,
+      "question": "Trách nhiệm kiểm tra của người chỉ huy trực tiếp như thế nào ?",
+      "options": {
+        "A": "Phối hợp chặt chẽ với các tổ chức liên quan, kiểm tra và chỉ huy thực hiện công việc đảm bảo an toàn cho nhân viên đơn vị công tác và cộng đồng.",
+        "B": "Người chỉ huy trực tiếp phải hiểu rõ nội dung công việc được giao, các biện pháp an toàn phù hợp với công việc và có trách nhiệm kiểm tra: Kiểm tra sơ bộ sức khỏe nhân viên đơn vị công tác, phương tiện sơ cứu thiết yếu; Kiểm tra lại và thực hiện đầy đủ các biện pháp an toàn cần thiết; Việc chấp hành các quy định về an toàn của nhân viên đơn vị công tác; Chất lượng, số lượng các dụng cụ, trang bị an toàn sử dụng trong khi làm việc ; Trực tiếp hoặc phân công nhân viên đơn vị công tác đặt, di chuyển, tháo dỡ các biển báo an toàn điện, rào chắn, nối đất di động trong khi làm việc và phổ biến cho tất cá nhân viên đơn vị công tác biết.",
+        "C": "Trước khi cho đơn vị công tác vào làm việc Người chỉ huy trực tiếp phải giải thích cho nhân viên đơn vị công tác về nội dung, trình tự để thực hiện công việc và các biện pháp an toàn.",
+        "D": "Người chỉ huy trực tiếp phải có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 156,
+      "question": "Trách nhiệm giám sát của người chỉ huy trực tiếp như thế nào ?",
+      "options": {
+        "A": "Phối hợp chặt chẽ với các tổ chức liên quan, kiểm tra và chỉ huy thực hiện công việc đảm bảo an toàn cho nhân viên đơn vị công tác và cộng đồng.",
+        "B": "Người chỉ huy trực tiếp phải hiểu rõ nội dung công việc được giao, các biện pháp an toàn phù hợp với công việc và có trách nhiệm kiểm tra: Kiểm tra sơ bộ sức khỏe nhân viên đơn vị công tác, phương tiện sơ cứu thiết yếu; Kiểm tra lại và thực hiện đầy đủ các biện pháp an toàn cần thiết; Việc chấp hành các quy định về an toàn của nhân viên đơn vị công tác; Chất lượng, số lượng các dụng cụ, trang bị an toàn sử dụng trong khi làm việc ; Trực tiếp hoặc phân công nhân viên đơn vị công tác đặt, di chuyển, tháo dỡ các biển báo an toàn điện, rào chắn, nối đất di động trong khi làm việc và phổ biến cho tất cá nhân viên đơn vị công tác biết.",
+        "C": "Trước khi cho đơn vị công tác vào làm việc Người chỉ huy trực tiếp phải giải thích cho nhân viên đơn vị công tác về nội dung, trình tự để thực hiện công việc và các biện pháp an toàn.",
+        "D": "Người chỉ huy trực tiếp phải có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 157,
+      "question": "Trách nhiệm giải thích của người chỉ huy trực tiếp như thế nào ?",
+      "options": {
+        "A": "Phối hợp chặt chẽ với các tổ chức liên quan, kiểm tra và chỉ huy thực hiện công việc đảm bảo an toàn cho nhân viên đơn vị công tác và cộng đồng.",
+        "B": "Người chỉ huy trực tiếp phải hiểu rõ nội dung công việc được giao, các biện pháp an toàn phù hợp với công việc và có trách nhiệm kiểm tra: Kiểm tra sơ bộ sức khỏe nhân viên đơn vị công tác, phương tiện sơ cứu thiết yếu; Kiểm tra lại và thực hiện đầy đủ các biện pháp an toàn cần thiết; Việc chấp hành các quy định về an toàn của nhân viên đơn vị công tác; Chất lượng, số lượng các dụng cụ, trang bị an toàn sử dụng trong khi làm việc ; Trực tiếp hoặc phân công nhân viên đơn vị công tác đặt, di chuyển, tháo dỡ các biển báo an toàn điện, rào chắn, nối đất di động trong khi làm việc và phổ biến cho tất cá nhân viên đơn vị công tác biết.",
+        "C": "Trước khi cho đơn vị công tác vào làm việc Người chỉ huy trực tiếp phải giải thích cho nhân viên đơn vị công tác về nội dung, trình tự để thực hiện công việc và các biện pháp an toàn.",
+        "D": "Người chỉ huy trực tiếp phải có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 158,
+      "question": "Người thi hành lệnh được quy định như thế nào ?",
+      "options": {
+        "A": "Người thi hành lệnh có bậc 3 ATĐ trở lên; Phải nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc; Được Đơn vị công tác cử để thực hiện công việc.",
+        "B": "Người thi hành lệnh có bậc 3 ATĐ; phải nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc; được Đơn vị công tác cử để thực hiện công việc.",
+        "C": "Người thi hành lệnh có bậc 3 ATĐ trở lên; phải nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc; được Đơn vị QLVH cử để thực hiện công việc.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 159,
+      "question": "Người thi hành lệnh có những trách nhiệm nào ?",
+      "options": {
+        "A": "Phải nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc ; Phải đọc kỹ nội dung lệnh công tác, nếu thấy bất thường hoặc chưa rõ thì phải hỏi lại ngay người ra lệnh.",
+        "B": "Chuẩn bị, kiểm tra chất lượng của các dụng cụ, trang bị an toàn sử dụng trong khi làm việc.",
+        "C": "Kiểm tra và thực hiện các biện pháp an toàn để tiến hành công việc.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 160,
+      "question": "Nhân viên đơn vị công tác được quy định như thế nào ?",
+      "options": {
+        "A": "Nhân viên đơn vị công tác phải được huấn luyện về an toàn phù hợp với công việc được giao.",
+        "B": "Nhân viên đơn vị công tác do người được giao nhiệm vụ trực tiếp quản lý nhân viên của đơn vị công tác cử tham gia thực hiện công tác.",
+        "C": "Gồm cả 2 đáp án Avà",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 161,
+      "question": "Nhân viên đơn vị công tác có những trách nhiệm nào ?",
+      "options": {
+        "A": "Phải tuân thủ hướng dẫn và chỉ thực hiện những việc do Người chỉ huy trực tiếp giao. Trường hợp không thể thực hiện được công việc theo lệnh của Người chỉ huy trực tiếp, hoặc nhận thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác được phép ngừng ngay công việc và báo cáo người có trách nhiệm.",
+        "B": "Chỉ được làm việc trong phạm vi cho phép.",
+        "C": "Ký hoặc xác nhận điện tử khi được bổ sung hoặc rút khỏi nơi làm việc.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 162,
+      "question": "Nhân viên đơn vị công tác được phép làm việc ở đâu ?",
+      "options": {
+        "A": "Làm việc trong và ngoài phạm vi cho phép. Được tự ý mở rộng phạm vi làm việc, vào các vùng cấm vào hoặc các vùng có nguy cơ xảy ra tai nạn đã được cảnh báo trước đó.",
+        "B": "Được tự ý mở rộng phạm vi làm việc, vào các vùng cấm vào hoặc các vùng có nguy cơ xảy ra tai nạn đã được cảnh báo trước đó.",
+        "C": "Chỉ được làm việc trong phạm vi cho phép.",
+        "D": "Tất cả các đáp án đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 163,
+      "question": "Thủ tục tiếp nhận tại hiện trường trước khi công tác, nhiệm vụ của người chỉ huy trực tiếp thực hiện như thế nào ?",
+      "options": {
+        "A": "kiểm tra và xác nhận Người cho phép đã thực hiện đủ yêu cầu theo PCT, đồng ý tiếp nhận hiện trường công tác và ký/xác nhận điện tử, ghi họ tên vào PCT.",
+        "B": "Kiểm tra và xác nhận Người cho phép đã thực hiện đủ yêu cầu theo phiếu công tác, đồng ý tiếp nhận hiện trường công tác.",
+        "C": "Sau khi người cho phép chỉ phạm vi được phép vào làm việc và cảnh báo, chỉ dẫn các yếu tố nguy hiểm để đảm bảo an toàn cho đơn vị công tác, đồng ý tiếp nhận hiện trường công tác và ký, ghi họ tên vào phiếu công tác.",
+        "D": "Kiểm tra và xác nhận Người cho phép đã thực hiện đủ yêu cầu theo biên bản khảo sát hiện trường, đồng ý tiếp nhận hiện trường công tác."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 164,
+      "question": "Khi nào người chỉ huy trực tiếp được quyền điều hành đơn vị công tác thực hiện công việc, bao gồm cả thực hiện biện pháp an toàn nơi làm việc thuộc trách nhiệm của đơn vị công tác ?",
+      "options": {
+        "A": "Sau khi người cho phép kiểm tra các biện pháp an toàn do đơn vị quản lý vận hành thực hiện.",
+        "B": "Sau khi phiếu công tác đã có chữ ký của người cho phép.",
+        "C": "Sau khi người cho phép đã chỉ dẫn phạm vi được phép vào làm việc và cảnh báo, chỉ dẫn các yếu tố nguy hiểm để đảm bảo an toàn cho đơn vị công tác",
+        "D": "Tất cả nhân viên đơn vị công tác đã có mặt tại hiện trường đầy đủ."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 165,
+      "question": "Nhiệm vụ người chỉ huy trực tiếp thực hiện như thế nào trước khi cho nhân viên đơn vị công tác bắt đầu thực hiện công việc ?",
+      "options": {
+        "A": "Người chỉ huy trực tiếp phổ biến công việc cần làm; kiểm tra trang bị bảo vệ cá nhân, nhắc nhở biện pháp an toàn.",
+        "B": "Kiểm tra trang bị bảo vệ cá nhân, nhắc nhở biện pháp an toàn và yêu cầu nhân viên đơn vị công tác đã ký vào phiếu công tác.",
+        "C": "Người chỉ huy trực tiếp phổ biến công việc cần làm và yêu cầu nhân viên đơn vị công tác đã ký vào phiếu công tác.",
+        "D": "Người CHTT phổ biến công việc cần làm, kiểm tra trang bị bảo vệ cá nhân, nhắc nhở biện pháp an toàn và yêu cầu Người tham gia thực hiện công tác ký/xác nhận điện tử vào PCT trước khi bắt đầu thực hiện công việc."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 166,
+      "question": "Trong quá trình làm việc, đơn vị công tác được phép làm những công việc nào sau đây ?",
+      "options": {
+        "A": "Vượt qua ranh giới vùng làm việc an toàn do Đơn vị QLVH lập và bàn giao cho Đơn vị công tác nếu công việc đang làm cần phải vượt qua.",
+        "B": "Được phép dịch chuyển, dỡ bỏ rào chắn, biển báo, tín hiệu xác định vùng làm việc an toàn và các biện pháp an toàn do Đơn vị QLVH lập.",
+        "C": "Không được phép vượt qua ranh giới vùng làm việc an toàn do Đơn vị QLVH lập và bàn giao cho Đơn vị công tác. Không được phép dịch chuyển, dỡ bỏ rào chắn, biển báo, tín hiệu xác định vùng làm việc an toàn và các biện pháp an toàn do Đơn vị QLVH lập.",
+        "D": "Câu A và B đều đúng."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 167,
+      "question": "Giám sát an toàn điện và an toàn trong khi làm việc đối với tất cả Nhân viên Đơn vị công tác thuộc trách nhiệm của ai?",
+      "options": {
+        "A": "Người chỉ huy trực tiếp",
+        "B": "Người cho phép.",
+        "C": "Người giám sát an toàn điện",
+        "D": "Người cấp phiếu công tác."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 168,
+      "question": "Khi công việc phải cử Người giám sát an toàn điện thì việc giám sát an toàn điện cho tất cả Nhân viên đơn vị công tác thuộc về trách nhiệm của ai?",
+      "options": {
+        "A": "Người chỉ huy trực tiếp",
+        "B": "Người cho phép.",
+        "C": "Người giám sát an toàn điện",
+        "D": "Người cấp phiếu công tác."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 169,
+      "question": "Nếu để xảy ra mất an toàn do lỗi không thực hiện giám sát nhân viên đơn vị công tác trong khi tiến hành công việc thì ai phải chịu hoàn toàn trách nhiệm trước pháp luật ?",
+      "options": {
+        "A": "Người chi huy trực tiếp và người cho phép.",
+        "B": "Người cấp phiếu công tác và người cho phép.",
+        "C": "Người chỉ huy trực tiếp và người giám sát an toàn điện (nếu có).",
+        "D": "Người chủ huy trực tiếp và người lãnh đạo công việc (nếu có)."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 170,
+      "question": "Những người nào có trách nhiệm kiểm tra việc thực hiện giám sát đảm bảo an toàn trong khi làm việc ?",
+      "options": {
+        "A": "Cấp có thẩm quyền, người quản lý của Đơn vị QLVH, của Đơn vị làm công việc.",
+        "B": "Người làm công tác an toàn của Đơn vị QLVH, của Đơn vị làm công việc.",
+        "C": "Cả 02 câu trên đều đúng.",
+        "D": "Cả 02 câu trên đều sai"
+      },
+      "answer": "3"
+    },
+    {
+      "number": 171,
+      "question": "Khi thay đổi nhân viên trong đơn vị công tác thì phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Thay đổi Nhân viên công tác do Người CHTT chịu trách nhiệm, phải được ghi nhận trong PCT/LCT và thông báo cho Người cho phép/Người cấp lệnh.",
+        "B": "Thay đổi Nhân viên công tác do Người CHTT chịu trách nhiệm, không phải ghi nhận trong PCT/LCT và thông báo cho Người cho phép/Người cấp lệnh.",
+        "C": "Do người có trách nhiệm của đơn vị làm việc và người cho phép quyết định.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 172,
+      "question": "Cấm tự ý vào và tiếp xúc ở thiết bị để làm việc gì khi có lệnh ?",
+      "options": {
+        "A": "Tháo biển \"Làm việc tại đây\".",
+        "B": "Tháo biển \"Cấm đóng điện! Có người đang làm việc\".",
+        "C": "Tháo nối đất.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 173,
+      "question": "Kết thúc công tác, bàn giao trao trả nơi làm việc, khóa phiếu công tác được thực hiện giữa những người nào ?",
+      "options": {
+        "A": "Người lãnh đạo công việc và người cho phép.",
+        "B": "Người chỉ huy trực tiếp và Người cho phép.",
+        "C": "Người cho phép và người giám sat an toàn (nếu có)",
+        "D": "Người lãnh đạo công việc và người cấp phiếu công tác."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 174,
+      "question": "Công việc làm xong, sau khi Người chỉ huy trực tiếp ký phiếu kết thúc công tác, Người cho phép phải làm gì ?",
+      "options": {
+        "A": "Kiểm tra lại tại nơi làm việc đảm bảo an toàn mới được ký khoá phiếu công tác và thực hiện những thủ tục tiếp theo để đưa đường dây, thiết bị điện vào vận hành hoặc dự phòng.",
+        "B": "Ký khoá phiếu công tác mới kiểm tra lại tại nơi làm việc đảm bảo an toàn và thực hiện những thủ tục tiếp theo để đưa đường dây, thiết bị điện vào vận hành hoặc dự phòng.",
+        "C": "Thực hiện những thủ tục để đưa đường dây, thiết bị điện vào vận hành, sau đó ký khoá phiếu công tác và kiểm tra lại tại nơi làm việc.",
+        "D": "Kiểm tra lại tại nơi làm việc đảm bảo an toàn, thực hiện những thủ tục để đưa đường dây, thiết bị điện vào vận hành hoặc dự phòng và sau cùng ký khoá phiếu công tác."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 175,
+      "question": "Ai có trách nhiệm kiểm tra việc sử dụng các trang bị an toàn và bảo hộ lao động của Nhân viên đơn vị công tác trước khi thực hiện công việc ?",
+      "options": {
+        "A": "Cán bộ an toàn.",
+        "B": "Lãnh đạo đơn vị.",
+        "C": "Người chỉ huy trực tiếp.",
+        "D": "Người cho phép."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 176,
+      "question": "Kiểm tra, sử dụng trang thiết bị an toàn, bảo hộ lao động như thế nào ?",
+      "options": {
+        "A": "Các dụng cụ và trang thiết bị an toàn điện phải đạt được các tiêu chuẩn thử nghiệm và sử dụng.",
+        "B": "Các trang thiết bị an toàn và bảo hộ lao động phải được kiểm tra, bảo quản theo quy định của nhà sản xuất và quy định pháp luật hiện hành.",
+        "C": "Cấm sử dụng các trang thiết bị an toàn và bảo hộ lao động khi chưa được thử nghiệm, đã quá hạn sử dụng hoặc có dấu hiệu bất thường.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 177,
+      "question": "Sau khi sử dụng, các trang thiết bị an toàn và bảo hộ lao động được bảo quản như thế nào ?",
+      "options": {
+        "A": "Các trang thiết bị an toàn và phương tiện bảo vệ cá nhân phải được vệ sinh sạch sẽ làm khô và bảo quản theo quy định. Nếu phát hiện trang thiết bị an toàn và phương tiện bảo vệ cá nhân có dấu hiệu bất thường phải báo cáo với người quản lý.",
+        "B": "Rửa sạch bằng dầu, lau khô bằng vải; Phát hiện trang thiết bị an toàn và bảo hộ lao động có dấu hiệu bất thường phải báo cáo với người quản lý.",
+        "C": "Cất ngay vào bao đựng và bảo quản theo quy định; Phát hiện trang thiết bị an toàn và bảo hộ lao động có dấu hiệu bất thường phải báo cáo với người quản lý.",
+        "D": "Cả 3 đáp án A, B và C đều đúng"
+      },
+      "answer": "1"
+    },
+    {
+      "number": 178,
+      "question": "Quy định kiểm tra định kỳ và bảo dưỡng đối với dụng cụ và thiết bị cho công việc sửa chữa có điện như thế nào ?",
+      "options": {
+        "A": "Dụng cụ và thiết bị cho công việc sửa chữa có điện phải được kiểm tra định kỳ theo tiêu chuẩn và bảo dưỡng, bảo quản theo quy định.",
+        "B": "Cấm sử dụng dụng cụ, thiết bị an toàn và phương tiện bảo vệ cá nhân cho công việc sửa chữa có điện quá thời hạn kiểm tra, đã hết hạn sử dụng hoặc có dấu hiệu bất thường.",
+        "C": "Đối với các trang bị, phương tiện bảo vệ cá nhân chưa có tiêu chuẩn Việt Nam, cho phép tạm thời áp dụng các tiêu chuẩn Quốc tế phù hợp.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 179,
+      "question": "Vận chuyển các dụng cụ, thiết bị an toàn và bảo hộ lao động khi đi làm việc như thế nào ?",
+      "options": {
+        "A": "Các dụng cụ, thiết bị an toàn và phương tiện bảo vệ cá nhân phải được cất vào bao gói chuyên dụng để tránh làm hỏng, biến dạng, dính dầu, bụi bẩn, ẩm trong quá trình vận chuyển.",
+        "B": "Các dụng cụ, thiết bị an toàn và bảo hộ lao động phải được cất vào bao gói chuyên dụng và vận chuyển bằng xe có mái che.",
+        "C": "Các dụng cụ, thiết bị an toàn và bảo hộ lao động phải vận chuyển bằng xe chuyên dùng riêng để không bị hư hỏng.",
+        "D": "Các dụng cụ, thiết bị an toàn và bảo hộ lao động phải được vận chuyển bằng xe có mái che để tránh hư hỏng khi nắng, mưa."
+      },
+      "answer": "1"
+    },
+    {
+      "number": 180,
+      "question": "Khi thấy dây dẫn đứt, rơi xuống đất hoặc còn lơ lửng thì phải tìm các biện pháp ngăn ngừa mọi người và cả bản thân mình không được tới gần khoảng cách bao nhiêu ?",
+      "options": {
+        "A": "Dưới 5 m.",
+        "B": "Dưới 10 m.",
+        "C": "Dưới 15 m.",
+        "D": "Dưới 20 m."
+      },
+      "answer": "2"
+    },
+    {
+      "number": 181,
+      "question": "Khi thấy dây dẫn đứt, rơi xuống đất hoặc còn lơ lửng nơi có người qua lại phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Cử người cảnh giới.",
+        "B": "Báo ngay cho ca trực điều độ biết.",
+        "C": "Nếu giao cho người khác cảnh giới thì phải giải thích kỹ biện pháp an toàn cho người cảnh giới biết.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 182,
+      "question": "Khi có gió cấp mấy thì không được làm việc trên ĐDK ?",
+      "options": {
+        "A": "Cấp 4 trở lên.",
+        "B": "Cấp 5 trở lên",
+        "C": "Cấp 6 trở lên.",
+        "D": "Cấp 7 trở lên."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 183,
+      "question": "Khi làm việc với điện hạ áp đang có điện đảm bảo các điều kiện gì ?",
+      "options": {
+        "A": "Chân phải đi giày.",
+        "B": "Tay phải đeo găng cách điện hạ áp.",
+        "C": "Quần áo bảo hộ phải khô ráo..",
+        "D": "Gồm cả 03 đáp án A, b và"
+      },
+      "answer": "4"
+    },
+    {
+      "number": 184,
+      "question": "Khi làm việc trên ĐDK hạ áp có điện hoặc tiếp xúc trực tiếp với phần có điện hạ áp thì phải thực hiện theo những quy định như thế nào ?",
+      "options": {
+        "A": "Người làm việc tiếp xúc trực tiếp với dây dẫn, thiết bị mang điện hạ áp phải dùng dụng cụ cách điện có tay cầm chắc chắn và đảm bảo an toàn; đi giày hoặc ủng cách điện hoặc đứng trên thảm cách điện.",
+        "B": "Người làm việc gần phần có điện hạ áp phải dùng các tấm cách điện để che, chắn.",
+        "C": "Gồm cả 02 đáp án A và",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "3"
+    },
+    {
+      "number": 185,
+      "question": "Trong công tác thay chì trên cột phải thực hiện như thế nào ?",
+      "options": {
+        "A": "Có 02 người",
+        "B": "Trời khô ráo, không có giông, gió to, sấm sét.",
+        "C": "Quần áo người công nhân phải khô ráo, cột có chỗ đứng chắc chắn.",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "4"
+    },
+    {
+      "number": 186,
+      "question": "Khi làm việc trên ĐDK hạ áp đi chung cột với ĐDK cao áp đến 35 kV, ĐD thông tin hoặc hạ áp khác thì thực hiện như như thế nào ? ----------------HẾT PHẦN 5 ----------------",
+      "options": {
+        "A": "Không phải kiểm tra khoảng cách từ chỗ làm việc trên ĐDK hạ áp đến ĐDK cao áp đi chung cột đó đảm bảo an toàn mới tiến hành công việc",
+        "B": "Phải kiểm tra khoảng cách từ chỗ làm việc trên ĐDK hạ áp đến ĐDK trung áp đi chung cột đó đảm bảo an toàn mới tiến hành công việc.",
+        "C": "Tất cả đều đúng.",
+        "D": "Tất cả đều sai."
+      },
+      "answer": "2"
+    }
+  ]
+}
