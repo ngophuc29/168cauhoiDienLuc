@@ -1,5 +1,14 @@
 import React, { useEffect, useMemo, useState } from "react";
 
+/** Chuẩn hóa tìm kiếm: không phân biệt hoa/thường, có dấu / không dấu (đ → d). */
+function normalizeSearchText(str) {
+  return String(str)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d");
+}
+
 function App() {
   const [questions, setQuestions] = useState([]);
   const [activeQuestion, setActiveQuestion] = useState(null); // câu đang thao tác
@@ -27,13 +36,13 @@ function App() {
   const isSearching = searchQuery.trim().length > 0;
 
   const filteredQuestions = useMemo(() => {
-    const q = searchQuery.trim().toLowerCase();
+    const q = normalizeSearchText(searchQuery.trim());
     if (!q) return questions;
     return questions.filter((item) => {
-      const inQuestion = item.question.toLowerCase().includes(q);
+      const inQuestion = normalizeSearchText(item.question).includes(q);
       const inNumber = String(item.number).includes(q);
       const inOptions = Object.values(item.options).some((text) =>
-        String(text).toLowerCase().includes(q)
+        normalizeSearchText(text).includes(q)
       );
       return inQuestion || inNumber || inOptions;
     });
@@ -70,7 +79,7 @@ function App() {
             type="search"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Nhập từ khóa trong câu hỏi hoặc đáp án…"
+            placeholder="Gõ có dấu hoặc không dấu, không phân biệt hoa thường…"
             aria-describedby="search-hint"
             style={{
               flex: "1 1 220px",
