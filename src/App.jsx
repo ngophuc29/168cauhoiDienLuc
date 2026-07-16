@@ -52,7 +52,7 @@ function App() {
   };
 
   return (
-    <div style={{ padding: 20, fontFamily: "sans-serif", maxWidth: 900, margin: "0 auto" }}>
+    <div style={{ fontFamily: "sans-serif", width: "100%" }}>
       <h1 style={{ textAlign: "center", color: "#007bff" }}>
         🧩 Trắc nghiệm Điện kế - Cúp hơi - Kiểm tra
       </h1>
