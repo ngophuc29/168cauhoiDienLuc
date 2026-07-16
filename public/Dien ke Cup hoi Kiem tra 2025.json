@@ -1,0 +1,2348 @@
+[
+  {
+    "number": 1,
+    "question": "Trên một công tơ có ghi giá trị cấp chính xác là 1.0, tức sai số của công tơ được hiểu là",
+    "options": {
+      "A": "+1% ứng với dòng điện định mức",
+      "B": "-1% ứng với dòng điện định mức",
+      "C": "+1% và -1%",
+      "D": "Từ -1% đến +1%"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 2,
+    "question": "Phạm vi đo của dụng cụ đo là:",
+    "options": {
+      "A": "Tập hợp giá trị của đại lượng đo được đánh dấu trên thang đo",
+      "B": "Các dấu hiệu được sắp xếp thứ tự trên mặt dụng cụ đo",
+      "C": "Cấp chính xác của dụng cụ đo"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 3,
+    "question": "Điều kiện chuẩn của dụng cụ đo là:",
+    "options": {
+      "A": "Các điều kiện qui định chế độ vận hành của thiết bị",
+      "B": "Điều kiện dùng để kiểm định, thử nghiệm các đặc trưng",
+      "C": "Điều kiện mà khi đo dụng cụ sẽ bị sai số"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 4,
+    "question": "Gọi ∆X: sai số tuyệt đối, Xsc: số chỉ của dụng cụ đo, Xt: giá trị thực của đại lượng đo, thì ∆X được tính như sau:",
+    "options": {
+      "A": "∆X = Xt-Xsc",
+      "B": "∆X = Xsc - Xt",
+      "C": "∆X = Xt + Xsc"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 5,
+    "question": "Gọi U1 điện áp sơ cấp, U2: điện áp thứ cấp, n1: số vòng dây cuộn sơ cấp, n2: số vòng dây cuộn thứ cấp, nu: tỷ số của biến điện áp đo lường thì:",
+    "options": {
+      "A": "nu = (U1/U2) = (n1 / n2)",
+      "B": "nu = (U2/U1) = (n1/n2)",
+      "C": "nu = (U1/U2) = (n2/n1)"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 6,
+    "question": "Theo cấp chính xác biến điện áp đo lường (TU) được phân thành",
+    "options": {
+      "A": "3 loại (dùng trong phòng thí nghiệm, dùng cho mạch đo lường, dùng cho mạch bảo vệ)",
+      "B": "2 loại (dùng cho mạch đo lường, dùng cho mạch bảo vệ)",
+      "C": "1 loại (dùng cho mạch đo lường)"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 7,
+    "question": "Điện áp đo được bên thứ cấp của TU có tỷ số biến 12000/120 (V) là 60V thì điện áp bên sơ cấp TU là:",
+    "options": {
+      "A": "12000V",
+      "B": "6000V",
+      "C": "Cả hai câu trên đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 8,
+    "question": "Một khách hàng có nhu cầu sử dụng phụ tải 120A lắp đặt TI nào là hợp lý nhất",
+    "options": {
+      "A": "100/5A",
+      "B": "150/5A",
+      "C": "200/5A"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 9,
+    "question": "TI có các ứng dụng sau:",
+    "options": {
+      "A": "Tiêu chuẩn hóa việc chế tạo thiết bị",
+      "B": "Mở rộng giới hạn đo dòng",
+      "C": "Cách ly các dụng cụ đo tạo an toàn cho người và thiết bị",
+      "D": "Cả 3 câu trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 10,
+    "question": "Nếu cần tháo rời thứ cấp của TI đang họat động ra khỏi mạch đo:",
+    "options": {
+      "A": "Cô lập 2 đầu TI",
+      "B": "Nối tắt thứ cấp TI",
+      "C": "Nối đất thứ cấp TI",
+      "D": "Phải được thực hiện cả B và C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 11,
+    "question": "Sai số về đại lượng của TI (TU) biểu thị theo đơn vị",
+    "options": {
+      "A": "Phút góc",
+      "B": "Centi Radian",
+      "C": "% so với dòng điện (điện áp) chuẩn"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 12,
+    "question": "TI (TU) khi làm việc có tiếp đất bảo vệ an toàn không",
+    "options": {
+      "A": "Không",
+      "B": "Có"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 13,
+    "question": "Khi đấu TI để mở rộng phạm vi đo dòng cho công tơ điện, trên mác TI nhà chế tạo qui định số vòng cuộn sơ cấp là 2 vòng, nhưng công nhân lắp đặt quấn thành 3 vòng. Trong trường hợp này điện năng tiêu thụ ghi nhận được trên công tơ là:",
+    "options": {
+      "A": "Giảm 3 lần",
+      "B": "Tăng 2/3 lần",
+      "C": "Giảm 2/3 lần",
+      "D": "Tăng 1,5 lần"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 14,
+    "question": "Một biến dòng có tỷ số biến đổi là 200/5A, nhà chế tạo qui định số vòng dây cuộn sơ cấp là 2 vòng, như vậy cuộn thứ cấp sẽ có bao nhiêu vòng dây?",
+    "options": {
+      "A": "40 vòng",
+      "B": "60 vòng",
+      "C": "80 vòng",
+      "D": "100 vòng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 15,
+    "question": "Một máy biến dòng đo lường với cuộn thứ cấp có 400 vòng dây, mỗi vòng dây của cuộn thứ cấp gây sai số bao nhiêu phần trăm (%)",
+    "options": {
+      "A": "2%",
+      "B": "0,25%",
+      "C": "1%",
+      "D": "0,33%"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 16,
+    "question": "Phần tĩnh của công tơ điện xoay chiều 1 pha gồm:",
+    "options": {
+      "A": "Phần tử điện áp, phần tử dòng điện",
+      "B": "Nam châm hãm",
+      "C": "Cả hai câu trên đều đúng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 17,
+    "question": "Gọi Ap: điện năng tác dụng trong một chu kỳ ghi chỉ số công tơ, Aq: điện năng phản kháng trong một chu kỳ ghi chỉ số công tơ tương ứng thì hệ số công suất cosφ trung bình được xác định:",
+    "options": {
+      "A": "cosφ = Aq / √(Ap + Aq)",
+      "B": "cosφ = Ap / √(Ap + Aq)",
+      "C": "cosφ = Ap / √(Ap2 + Aq2)"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 18,
+    "question": "Điện áp sơ cấp danh định là Up, điện áp thứ cấp danh định là Us, hỏi tỉ số danh định của biến áp là bao nhiêu?",
+    "options": {
+      "A": "A K = Up/Us.",
+      "B": "B K = Us/Up.",
+      "C": "C K = Us.Up."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 19,
+    "question": "Trước khi lắp công tơ mẫu để kiểm tra công tơ khách hàng, cần chú ý những điểm nào sau đây:",
+    "options": {
+      "A": "A Điện áp, dòng điện của thiết bị cần kiểm tra so với điện áp định mức của công tơ mẫu.",
+      "B": "B Sơ đồ đấu dây của thiết bị cần kiểm tra.",
+      "C": "C Những dây dẫn khác có thể ảnh hưởng đến kết qủa phép đo hoặc gây mất an toàn.",
+      "D": "D Cả 3 câu A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 20,
+    "question": "Bản chất của phép đo là:",
+    "options": {
+      "A": "A So sánh đại lượng cần đo với 1 đại lượng cùng loại.",
+      "B": "B Tìm ra giá trị thực đại lượng cần đo.",
+      "C": "C So sánh đại lượng cần đo với 1 đại lượng cùng loại được chọn làm đơn vị."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 21,
+    "question": "Độ nhạy của dụng cụ đo là:",
+    "options": {
+      "A": "Tỷ số giữa độ biến thiên của đại lượng ra và độ biến thiên tương ứng của đại lượng vào.",
+      "B": "Giá trị đo được của thiết bị đo",
+      "C": "Hiệu của đại lượng ra và đại lượng vào"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 22,
+    "question": "Các hình thức biểu thị sai số của dụng cụ đo",
+    "options": {
+      "A": "Sai số tương đối, sai số tuyệt đối, sai số hỗn hợp.",
+      "B": "Sai số tương đối, sai số tuyệt đối, sai số qui đổi",
+      "C": "Sai số tương đối, sai số tuyệt đối, sai số hỗn hợp, cấp chính xác."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 23,
+    "question": "Khả năng nào sẽ xảy ra khi sơ đồ véc tơ của hệ thống đo đếm có các thông số đo sau: góc lệch pha (Ua,Ia) = 170 độ C, (Ub,Ib) = 25 độ L, (Uc,Ic) = 40 độ L",
+    "options": {
+      "A": "Ngược cực tính biến dòng pha A",
+      "B": "Ngược cực tính biến dòng pha B",
+      "C": "Ngược cực tính biến dòng pha C"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 24,
+    "question": "Sai số dòng điện được biểu thị theo công thức nào dưới đây? (Trong đó: Kdd - tỷ số biến đổi danh định; Ip - là dòng điện sơ cấp thực tế; Is - là dòng điện thứ cấp thực tế).",
+    "options": {
+      "A": "A (Kdd.Is - Ip)x100/Ip.",
+      "B": "B (Kdd.Ip - Is)x100/Is.",
+      "C": "C (Ip - Kdd.Is)x100/Ip."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 25,
+    "question": "Gọi ε%: sai số tương đối tính theo phần trăm, ∆X: sai số tuyệt đối, Xsc: số chỉ của dụng cụ đo, Xt: giá trị thực của đại lượng đo, thì ε% được tính như sau:",
+    "options": {
+      "A": "ε% = ∆X x Xsc x 100",
+      "B": "ε% = (∆X/Xsc) x100",
+      "C": "ε% = ∆X/(Xsc x 100)",
+      "D": "ε% = (∆X/Xt) x100"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 26,
+    "question": "Gọi ∆Xmax: sai số tuyệt đối lớn nhất, Xđm: giá trị đo lớn nhất ứng với mỗi thang đo, γ: cấp chính xác của dụng cụ đo thì γ được tính như sau:",
+    "options": {
+      "A": "γ = (∆Xmax x Xđm) x 100",
+      "B": "γ = (Xđm/∆Xmax) x 100",
+      "C": "C γ = ∆Xmax / Xđm",
+        "D": "γ = (∆Xmax / Xđm) x 100"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 27,
+    "question": "Trên một TI có ghi thông số 150/5A, khi đó tỷ số biến của nó là",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 28,
+    "question": "Cấu tạo của máy biến dòng điện gồm có:",
+    "options": {
+      "A": "Cuộn cao áp, cuộn hạ áp và lõi sắt",
+      "B": "Cuộn cao áp, cuộn thứ cấp và lõi sắt",
+      "C": "Cuộn sơ cấp, cuộn hạ áp và lõi sắt",
+      "D": "Cuộn sơ cấp, cuộn thứ cấp và lõi sắt"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 29,
+    "question": "Máy biến dòng điện (TI) là thiết bị biến đổi dòng điện để cung cấp cho:",
+    "options": {
+      "A": "Thiết bị đo lường",
+      "B": "Thiết bị bảo vệ",
+      "C": "Thiết bị đo lường, điều khiển và bảo vệ",
+      "D": "Thiết bị điều khiển"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 30,
+    "question": "Một TI hạ thế hình xuyến có tỷ số biến là 100/5A, sơ cấp đấu với 1 vòng dây, dòng điện trên dây sơ cấp đo được là 72A thì dòng thứ cấp là bao nhiêu?",
+    "options": {
+      "A": "5 A",
+      "B": "3,6 A",
+      "C": "7,2 A",
+      "D": "Không xác định được"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 31,
+    "question": "Một TI hạ thế hình xuyến có tỷ số biến là 150/5A, sơ cấp đấu với 1 vòng dây, dòng điện trên dây thứ cấp đo được là 4A thì dòng sơ cấp là bao nhiêu?",
+    "options": {
+      "A": "150 A",
+      "B": "100 A",
+      "C": "80 A",
+      "D": "120 A"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 32,
+    "question": "Máy biến điện áp (TU) là thiết bị biến đổi điện áp để cung cấp cho",
+    "options": {
+      "A": "Thiết bị đo lường, thiết bị điều khiển",
+      "B": "Thiết bị bảo vệ, thiết bị điều khiển",
+      "C": "Thiết bị đo lường, thiết bị bảo vệ",
+      "D": "Thiết bị đo lường, thiết bị bảo vệ, thiết bị điều khiển"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 33,
+    "question": "Một TU trung thế dùng trên lưới điện 22 kV có ghi thông số 22000/ ;110/ V thì có tỷ số biến KU là",
+    "options": {
+      "A": "220 lần",
+      "B": "200 lần",
+      "C": "150 lần",
+      "D": "120 lần"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 34,
+    "question": "Chế độ làm việc của biến dòng điện (TI) và biến điện áp (TU) :",
+    "options": {
+      "A": "TU ngắn mạch TI hở mạch",
+      "B": "TU ngắn mạch TI ngắn mạch",
+      "C": "TU hở mạch TI ngắn mạch",
+      "D": "TU hở mạch TI hở mạch"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 35,
+    "question": "Trên một công tơ có ghi giá trị cấp chính xác là cấp 1.0, tức sai số của nó là",
+    "options": {
+      "A": "+1% ứng với dòng điện định mức",
+      "B": "-1% ứng với dòng điện định mức",
+      "C": "+1% và -1%",
+      "D": "Từ -1% đến +1%"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 36,
+    "question": "Trên một công tơ có ghi thông số: 220V, 20(80)A, khi đó ta nói:",
+    "options": {
+      "A": "220V là điện áp danh định - 20A là dòng điện danh định",
+    "B": "220V là điện áp danh định - 80A là dòng điện danh định",
+    "C": "220V là điện áp danh định - 80A là dòng điện cực đại",
+    "D": "220V là điện áp danh định - 20A là dòng điện danh định, 80A là dòng điện cực đại"
+    },
+    "answer": "4"
+  },
+    {
+    "number": 37,
+    "question": "Loại công tơ nào dùng để đo điện năng tác dụng trực tiếp:",
+    "options": {
+       "A": "Dòng điện: 3x5A, điện áp: 3x380/220V",
+      "B": "Dòng điện: 3x50(100)A, điện áp: 3x380/220V",
+      "C": "Dòng điện: 3x5A, điện áp: 3x380V",
+      "D": "Dòng điện: 3x5A, điện áp: 3x208/120V"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 38,
+    "question": "Chất lượng điện được được thể hiện qua các chỉ tiêu:",
+    "options": {
+      "A": "Công suất, dòng điện.",
+      "B": "Điện áp",
+      "C": "Hệ số công suất, tần số",
+      "D": "Tần số, Điện áp"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 39,
+    "question": "Gọi Id là dòng điện trong các dây pha nối giữa nguồn và phụ tải, Ip là dòng điện đi trong các cuộn dây pha, Ud điện áp giữa 2 dây pha, Up là điện áp giữa 2 đầu cuộn dây pha thì công suất tác dụng trong mạch điện xoay chiều 3 pha :",
+    "options": {
+      "A": "P 3pha = √3Up Id cosφ",
+      "B": "P 3pha = √3 Ud Id cosφ",
+      "C": "P 3pha = √3Up Ip cosφ",
+      "D": "P 3pha = Ud x Id cosφ"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 40,
+    "question": "Mối liên hệ giữa tần số f và tần số góc ω qua công thức",
+    "options": {},
+    "answer": "?"
+  },
+  {
+    "number": 41,
+    "question": "Một tụ điện có điện dung C được đặt trong mạch điện xoay chiều có tần số góc ω thì dung kháng của Zc của tụ điện là:",
+    "options": {
+      "A": "Zc=ωC",
+      "B": "Zc=1/ωC",
+      "C": "Zc=2ωC"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 42,
+    "question": "Một cuộn cảm thuần có độ tự cảm L đặt trong mạch điện xoay chiều có tần số góc ω thì cảm kháng của cuộn cảm Zl của cuộn dây là:",
+    "options": {},
+    "answer": "?"
+  },
+  {
+    "number": 43,
+    "question": "Phụ tải ba pha nối sao gồm các bóng đèn mỗi pha có điện trở R = 10 Ω, điện áp dây Ud= 380 V. Dòng điện dây, dòng điện pha là :",
+    "options": {
+      "A": "I p = 38 A, Id = 22A",
+      "B": "I p = 22 A, Id = 38A",
+      "C": "I p = 22 A, Id = 22A",
+      "D": "I p = 15 A, Id = 10A"
+    },
+    "answer": "3"
+  },
+  {
+  "number": 44,
+  "question": "Cường độ dòng điện xoay chiều qua tụ điện:",
+  "options": {
+    "A": "Biến thiên chậm pha π/2 so với điện áp giữa 2 bản cực của tụ điện.",
+    "B": "Biến thiên sớm pha π/2 so với điện áp giữa 2 bản cực của tụ điện.",
+    "C": "Cùng pha với điện áp giữa 2 bản cực của tụ điện.",
+    "D": "Biến thiên sớm pha π/4 so với điện áp giữa 2 bản cực của tụ điện."
+  },
+  "answer": "2"
+},
+  {
+    "number": 45,
+    "question": "Cường độ dòng điện xoay chiều qua cuộn cảm thuần :",
+    "options": {
+      "A": "Biến thiên chậm pha π/2 so với điện áp giữa 2 hai đầu cuộn cảm.",
+      "B": "Biến thiên sớm pha π/2 so với điện áp giữa 2 hai đầu cuộn cảm.",
+      "C": "Biến thiên sớm pha π/4 so với điện áp giữa 2 hai đầu cuộn cảm.",
+      "D": "Cùng pha với điện áp giữa 2 hai đầu cuộn cảm."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 46,
+    "question": "Tần số dòng điện xoay chiều công nghiệp của nước ta f = 50 Hz. Vậy chu kỳ của dòng điện là:",
+    "options": {
+      "A": "0,02 s",
+      "B": "100 s",
+      "C": "0.01s",
+      "D": "0.05s"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 47,
+    "question": "Điều kiện để xảy ra hiện tượng cộng hưởng điện trong đoạn mạch xoay chiều RLC mắc nối tiếp là:",
+    "options": {
+      "B": "ω=LC"
+    },
+    "answer": "?"
+  },
+  {
+    "number": 48,
+    "question": "Mạch điện song song có điện áp nguồn U = 220 V. Ba bóng đèn mắc song song có điện trở R1= 400Ω, R2 =800Ω, R3 =1000Ω. Dòng điện tổng qua mạch là :",
+    "options": {
+      "A": "0,95A",
+      "B": "0,5A",
+      "C": "0,75 A",
+      "D": "1,045 A"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 49,
+    "question": "Quan hệ giữa điện áp, dòng điện và điện trở được thể hiện qua công thức:",
+    "options": {
+      "A": "I=U.R",
+      "B": "I=U/R",
+      "C": "I = U – R",
+      "D": "I = 2 U/R"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 50,
+    "question": "Quan hệ giữa công suất phản kháng Q, công suất tác dụng P, công suất toàn phần S là:",
+    "options": {
+      "A": "P = S/Q",
+      "B": "S2 = P2 + Q2",
+      "C": "Q = P/S",
+      "D": "S = P + Q"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 51,
+    "question": "Một động cơ một pha tiêu thụ công suất tác dụng P = 1000 W, điện áp của động cơ U = 220 V, hệ số công suất 0,8. Dòng điện của động cơ:",
+    "options": {
+      "A": "5,68 A",
+      "B": "3,6 A",
+      "C": "0,17 A",
+      "D": "2 A"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 52,
+    "question": "Trạm biến áp phân phối có nhiệm vụ:",
+    "options": {
+      "A": "Tăng điện áp 3 pha 380V, một pha 220V lên điện áp cao 10 kV, 15 kV, 22 kV, 35 kV",
+      "B": "Giảm điện áp cao của đường dây trung áp (10 kv, 15 kV, 22 kv, 35 kV) xuống điện áp thấp: 3 pha 380V, một pha 220V, hai pha 2x220V",
+      "C": "Ổn định điện áp",
+      "D": "Để điện áp đầu vào bằng điện áp đầu vào"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 53,
+    "question": "Một biến dòng điện nhà chế tạo qui định số vòng dây cuộn sơ cấp là 1 vòng, nếu khi lắp đặt quấn 2 vòng sơ cấp, thì dòng điện bên phía thứ cấp của TI sẽ tăng lên mấy lần.",
+    "options": {
+      "A": "Không tăng",
+      "B": "Tăng 1,2 lần",
+      "C": "Tăng 1,5 lần",
+      "D": "Tăng 2 lần"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 54,
+    "question": ". Khả năng nào sẽ xảy ra khi sơ đồ véc tơ của hệ thống đo đếm gián tiếp hạ thế có các thông số đo sau: góc lệch pha (Ua,Ia) = 170 độ C, (Ub,Ib) = 25 độ L, (Uc,Ic) = 40 độ L",
+    "options": {
+      "A": "Ngược cực tính biến dòng pha A",
+      "B": "Ngược cực tính biến dòng pha B",
+      "C": "Ngược cực tính biến dòng pha C",
+      "D": "Mất tín hiệu dòng pha A"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 55,
+    "question": "Yêu cầu về cấp chính xác đo lường của công tơ 3 pha trực tiếp tối thiểu là bao nhiêu:",
+    "options": {
+      "A": "Cấp chính xác 0.2.",
+      "B": "Cấp chính xác 0.5.",
+      "C": "Cấp chính xác 1.",
+      "D": "Cấp chính xác 2."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 56,
+    "question": "Khả năng nào sẽ xảy ra khi sơ đồ véc tơ của hệ thống đo đếm gián tiếp có các thông số đo sau: góc lệch pha (Ua,Ia) = 70 độ C, (Ub,Ib) = 35 độ L, (Uc,Ic) = 160 độ L",
+    "options": {
+      "A": "Ngược cực tính biến dòng pha A, C",
+      "B": "Áp Pha A, dòng pha C; áp pha C dòng pha A",
+      "C": "Ngược cực tính biến dòng pha C",
+      "D": "Áp Pha C, dòng pha B; áp pha A dòng pha C"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 57,
+    "question": "Khi người tiếp xúc với một dây nóng và một dây nguội cở vị trí lớp cách điện bị hỏng (chân người có cách điện với đất) thì:",
+    "options": {
+      "A": "Điện áp đặt vào người là điện áp dây, dòng điện sẽ đi từ dây nóng qua người và sang dây nguội",
+      "B": "Điện áp đặt vào người là điện áp pha, dòng điện sẽ đi từ dây nóng qua người và sang dây nguội",
+      "C": "Người không bị điện giật vì chân cách điện với đất",
+      "D": "Người không bị gì nhưng gây sự cố lưới điện"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 58,
+    "question": "Biến dòng điện được dùng trong các trường hợp sau",
+    "options": {
+      "A": "Khi dòng điện cần đo có giá trị lớn",
+      "B": "Khi dòng điện cần đo có giá trị lớn và dây dẫn có dòng điện cần đo có giá trị cao",
+      "C": "Khi điện áp cần đo có giá trị lớn",
+      "D": "Khi dòng điện cần đo có giá trị lớn, điện áp cần đo có giá trị cao"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 59,
+    "question": "Khả năng quá tải cho phép của biến dòng dùng trong đo lường",
+    "options": {
+      "A": "105%",
+      "B": "110%",
+      "C": "120%",
+      "D": "150%"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 60,
+    "question": "Tại sao phải đấu 1 đầu cuộn thứ cấp của CT với đất",
+    "options": {
+      "A": "Để CT hoạt động chính xác",
+      "B": "Để công tơ hoạt động chính xác",
+      "C": "Để dòng thứ cấp tuyến tính với dòng sơ cấp",
+      "D": "Vì lý do an toàn"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 61,
+    "question": "Trên công tơ có ghi cấp chính xác 0,5. Giả sử khách hàng tiêu thụ 2000 kwh thì giá trị nào sau đây mà công tơ đo được, được xem là đúng",
+    "options": {
+      "A": "1.900 kwh",
+      "B": "2000 kwh",
+      "C": "Từ 1900 kwh đến 2100 kwh",
+      "D": "2100 kwh"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 62,
+    "question": "Sai số của TI và TU được phân loại thuộc",
+    "options": {
+      "A": "Sai số quy đổi",
+      "B": "Sai số tương đối",
+      "C": "Sai số tuyệt đối",
+      "D": "Sai số hệ thống"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 63,
+    "question": "Một biến dòng đo lường với cuộn thứ cấp có 400 vòng dây, nếu đặt giả thiết sai số đại lượng (sai số tỷ số biến đổi) và sai số góc là đúng, thì trong trường hợp nào sai số sẽ bị dương 0,75%",
+    "options": {
+      "A": "Thừa 4 vòng",
+      "B": "Thiếu 4 vòng",
+      "C": "Thiếu 3 vòng",
+      "D": "Thừa 3 vòng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 64,
+    "question": "Nếu quá thừa cuộn sơ cấp TI (so với số vòng dây của cuộn sơ cấp đã quy định) cường độ dòng điện trong cuộn sơ cấp của TI sẽ tăng lên hay giảm xuống",
+    "options": {
+      "A": "Không thay đổi",
+      "B": "Giảm",
+      "C": "Tăng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 65,
+    "question": "Nếu đấu thêm tải vào cuộn thứ cấp của TI có làm thay đổi dòng điện trong cuộn thứ cấp không",
+    "options": {
+      "A": "Không làm thay đổi",
+      "B": "Giảm",
+      "C": "Tăng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 66,
+    "question": "Nếu đấu thêm tải vào cuộn thứ cấp của TU có làm thay đổi dòng điện trong cuộn thứ cấp không",
+    "options": {
+      "A": "Giảm",
+      "B": "Tăng",
+      "C": "Không làm thay đổi"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 67,
+    "question": "Khi khách hàng có nhu cầu sử dụng công suất 3 pha với dòng điện pha bao nhiêu thì lắp đặt đo đếm gián tiếp:",
+    "options": {
+        "A": "> 80A",
+      "B": "> 90A",
+      "C": "> 100A",
+      "D": "> 110A"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 68,
+    "question": "Đối với khu vực Thị trấn, Thị xã, Thành phố khi thay định kỳ hoặc gắn mới công tơ, Điện lực sử dụng loại công tơ nào sau đây để gắn cho khách hàng sử dụng ánh sáng sinh hoạt:",
+    "options": {
+        "A": "Loại 5(20)",
+      "B": "Loại 10(40)",
+      "C": "Loại 20(80)",
+      "D": "Loại 40(100)"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 69,
+    "question": "Cáp vào công tơ 1 pha: sử dụng cáp Muller, AVV tiết diện tối thiểu bao nhiêu:",
+    "options": {
+      "A": "2x8 mm2.",
+      "B": "2x11mm2.",
+      "C": "2x16 mm2.",
+      "D": "2x26 mm2.."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 70,
+    "question": "Cáp nhị thứ (dòng điện, điện áp) cấp tín hiệu cho công tơ đo đếm 3 pha gián tiếp sử dụng cáp CVV có tiết diện tối thiểu:",
+    "options": {
+      "A": "4x1.5 mm2.",
+      "B": "4x2.5 mm2.",
+      "C": "4x4mm2.",
+      "D": "4x6mm2."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 71,
+    "question": "Thùng công tơ 1 pha, 3 pha trực tiếp ngoài trời phải có:",
+    "options": {
+      "A": "Các vị trí để kẹp vào trụ bằng đai thép và khóa đai.",
+              "B": " Vị trí để niêm chì thùng",
+
+      "C": "Vị trí để thao tác đóng, cắt CB",
+      "D": "Cả 3 câu trên."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 72,
+    "question": "Thùng công tơ phải được lắp đặt để mặt chỉ số của công tơ trong thùng cách mặt đất:",
+    "options": {
+      "A": "Từ 1,2m đến 1,3m.",
+      "B": "Từ 1,3m đến 1,4m.",
+      "C": "Từ 1,4m đến 1,5m.",
+      "D": "Từ 1,5m đến 1,6m."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 73,
+    "question": "Yêu cầu về cấp chính xác đo lường của công tơ 3 pha trực tiếp tối thiểu là bao nhiêu:",
+    "options": {
+      "A": "Cấp chính xác 0.2.",
+      "B": "Cấp chính xác 0.5.",
+      "C": "Cấp chính xác 1.",
+      "D": "Cấp chính xác 2."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 74,
+    "question": "Điều kiện phụ tải lắp đặt đo đếm 3 pha gián tiếp trung thế hiện nay: các trạm biến áp có công suất bao nhiêu:",
+    "options": {
+        "A": "< 400 kV",
+      "B": "≥ 400 kV",
+      "C": "< 560 kV",
+      "D": "≥ 560 kVA"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 75,
+    "question": "Trong điều kiện bình thường dao động điện áp tại vị trí đặt đo đếm hoặc thứ cấp của máy biến thế cho phép dao động trong khoảng:",
+    "options": {
+      "A": "±1%.",
+      "B": "±2%.",
+      "C": "±5%.",
+      "D": "±10%."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 76,
+    "question": "Trong điều kiện bình thường dao động tần số của lưới điện cho phép trong khoảng:",
+    "options": {
+      "A": "± 0,2Hz.",
+      "B": "± 0,3Hz.",
+      "C": "± 0,4Hz.",
+      "D": "± 0,5Hz."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 77,
+    "question": "Trường hợp lưới điện chưa ổn định sau sự cố tần số cho phép dao động trong phạm vi:",
+    "options": {
+      "A": "± 0,2Hz.",
+      "B": "± 0,3Hz.",
+      "C": "± 0,4Hz.",
+      "D": "± 0,5Hz."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 78,
+    "question": "Mã OBIS “1.8.0” có ý nghĩa",
+    "options": {
+      "A": "Tổng điện năng vô công theo chiều giao",
+      "B": "Tổng điện năng hữu công theo chiều giao",
+      "C": "Tổng công suất tác dụng theo chiều giao",
+      "D": "Tổng điện năng hữu công theo chiều nhận"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 79,
+    "question": "Mã OBIS “2.8.0” có ý nghĩa",
+    "options": {
+      "A": "Tổng điện năng vô công theo chiều giao",
+      "B": "Tổng điện năng hữu công theo chiều nhận",
+      "C": "Tổng công suất tác dụng theo chiều giao",
+      "D": "Tổng điện năng vô công theo chiều nhận"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 80,
+    "question": "Mã OBIS “3.8.0” có ý nghĩa",
+    "options": {
+      "A": "Tổng điện năng vô công theo chiều giao",
+      "B": "Tổng điện năng hữu công theo chiều nhận",
+      "C": "Tổng công suất tác dụng theo chiều giao",
+      "D": "Tổng điện năng vô công theo chiều nhận"
+    },
+    "answer": "1"
+  },
+  {
+  "number": 81,
+  "question": "Mã OBIS “4.8.0” có ý nghĩa",
+  "options": {
+    "A": "Tổng điện năng vô công theo chiều giao",
+    "B": "Tổng điện năng hữu công theo chiều nhận",
+    "C": "Tổng công suất tác dụng theo chiều giao",
+    "D": "Tổng điện năng vô công theo chiều nhận"
+  },
+  "answer": "4"
+},
+{
+  "number": 82,
+  "question": "Yêu cầu đối với mạch đo đếm có CT (TI):",
+  "options": {
+    "A": "Cuộn thứ cấp của CT và cáp nhị thứ đấu nối với công tơ đo đếm điện năng của HTĐĐ không được sử dụng cho bất kỳ mục đích nào khác",
+    "B": "Độc lập với các hệ thống đo lường, bảo vệ khác.",
+    "C": "Cáp nhị thứ của HTĐĐ phải đi riêng và đấu nối trực tiếp từ hộp đấu dây của CT đến tủ công tơ mà không có thêm bất kỳ đấu nối trung gian nào khác.",
+    "D": "Cả 3 câu A, B, C"
+  },
+  "answer": "4"
+}
+    ,
+  {
+    "number": 83,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ 1 pha điện tử trực tiếp là bao lâu?",
+    "options": {
+      "A": "60 tháng.",
+      "B": "72 tháng.",
+      "C": "24 tháng",
+      "D": "36 tháng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 84,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ 1 pha điện tử gián tiếp là bao lâu?",
+    "options": {
+      "A": "60 tháng.",
+      "B": "72 tháng.",
+      "C": "24 tháng",
+      "D": "36 tháng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 85,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ 3 pha điện tử trực tiếp là bao lâu?",
+    "options": {
+      "A": "12 tháng.",
+      "B": "24 tháng.",
+      "C": "36 tháng",
+      "D": "48 tháng"
+    },
+    "answer": "3"
+  },
+  {
+  "number": 86,
+  "question": "Yêu cầu khi lắp đặt TBĐĐ:",
+  "options": {
+    "A": "Việc thiết kế, lắp đặt TBĐĐ phải đảm bảo yêu cầu kỹ thuật, mỹ quan và an toàn điện.",
+    "B": "TBĐĐ được lắp đặt trong hoặc ngoài địa điểm sử dụng điện (tường nhà/tường rào, cột điện/tủ kỹ thuật gắn ở điểm sử dụng điện của khách hàng nhất) do hai bên thỏa thuận để thuận lợi cho việc kiểm tra và GCS công tơ",
+    "C": "Lập biên bản treo tháo TBĐĐ ngay sau khi hoàn thành lắp đặt, niêm phong hộp đấu dây, hộp bảo vệ công tơ.",
+    "D": "Cả 3 câu A, B, C."
+  },
+  "answer": "4"
+},
+  {
+    "number": 87,
+    "question": "Kể từ khi treo/tháo TBĐD, bộ phận quản lý TBĐĐ phải hoàn thành việc cập nhật các thông tin của biên bản treo/tháo TBĐĐ vào chương trình CMIS trong thời hạn bao nhiêu:",
+    "options": {
+      "A": "2 ngày.",
+      "B": "2 ngày làm việc.",
+      "C": "3 ngày.",
+      "D": "3 ngày làm việc."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 88,
+    "question": "Khi giao dấu niêm phong cho CBCNV để niêm phong TBĐĐ thì phải thực hiện như thế nào?",
+    "options": {
+      "A": "Mỗi dấu niêm phong được giao cho một CBCNV chịu trách nhiệm quản lý và sử dụng đúng mục đích, không để mất và phải giao nộp lại cho lãnh đạo Đơn vị nếu chuyển công tác khác. Trường hợp bị mất dấu niêm phong, CBCNV phải báo cáo với lãnh đạo Đơn vị để có biện pháp giải quyết.",
+      "B": "Mỗi dấu niêm phong được giao cho một CBCNV chịu trách nhiệm quản lý và sử dụng đúng mục đích, không để mất và phải giao nộp lại cho lãnh đạo Đơn vị nếu chuyển công tác khác và lãnh đạo Đơn vị có thể bàn giao dấu niêm phong cho CBCNV khác khi có nhu cầu.",
+      "C": "Mỗi dấu niêm phong được giao cho nhiều CBCNV theo nhu cầu quản lý và các CBCNV co trách nhiệm sử dụng đúng mục đích, không để mất và phải giao nộp lại cho lãnh đạo Đơn vị nếu chuyển công tác khác và lãnh đạo Đơn vị có thể bàn giao dấu niêm phong cho CBCNV khác khi có nhu cầu."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 89,
+    "question": "Nội dung khi kiểm tra định kỳ TBĐĐ gồm:",
+    "options": {
+      "A": "Kiểm tra sự nguyên vẹn của dấu niêm phong hộp bảo vệ, hộp đấu dây, số chế tạo của TBĐĐ (ngoại trừ TBĐĐ có điện áp trên 1.000V), thời hạn kiểm định, đồng hồ thời gian, số lần lập trình (đối với công tơ điện tử có khả năng lập trình) và chỉ số công tơ, tỷ số biến CT, VT (nếu có).",
+      "B": "Kiểm tra sự nguyên vẹn của dấu niêm phong hộp bảo vệ, hộp đấu dây, tình trạng hoạt động của TBĐĐ, số chế tạo của TBĐĐ (ngoại trừ TBĐĐ có điện áp trên 1.000V), thời hạn kiểm định, đồng hồ thời gian, số lần lập trình, thời điểm lập trình cuối (đối với công tơ điện tử có khả năng lập trình) và chỉ số công tơ, tỷ số biến CT, VT (nếu có).",
+      "C": "Kiểm tra sự nguyên vẹn của dấu niêm phong hộp bảo vệ, số chế tạo của TBĐĐ (ngoại trừ TBĐĐ có điện áp trên 1.000V), thời hạn kiểm định, đồng hồ thời gian, số lần lập trình (đối với công tơ điện tử có khả năng lập trình) và chỉ số công tơ, tỷ số biến CT, VT (nếu có)."
+    },
+    "answer": "2"
+  },
+ {
+"number": 90,
+"question": "Việc bảo quản, vận chuyển TBĐĐ thực hiện như thế nào?",
+"options": {
+"A": "Quản lý bằng chương trình phần mềm theo lô hàng, số lượng, chủng loại, năm sản xuất, thời gian kiểm định của các TBĐĐ trên lưới, lưu kho, chờ thanh lý.",
+"B": "TBĐĐ chưa lắp đặt phải được bảo quản đảm bảo các điều kiện về nhiệt độ và độ ẩm theo tiêu chuẩn của nhà sản xuất. Công tơ điện tử có nguồn pin dự phòng, phải có biện pháp bảo quản không để hết pin trước khi đưa vào sử dụng.",
+"C": "Việc vận chuyển TBĐĐ phải có biện pháp tránh va đập, rung, xóc gây sai số và hư hỏng.",
+"D": "Tất cả các câu A, B, C."
+},
+"answer": "4"
+},
+  {
+    "number": 91,
+    "question": "Điện lực có trách nhiệm đưa vào lắp đặt, sử dụng kịp thời các công tơ đã được kiểm định đạt yêu cầu kỹ thuật đo lường, công tơ đã qua kiểm định không được lưu kho quá:",
+    "options": {
+      "A": "03 tháng.",
+      "B": "04 tháng.",
+      "C": "05 tháng.",
+      "D": "06 tháng"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 92,
+    "question": "Khi khách hàng có yêu cầu kiểm tra hệ thống đo đếm, Điện lực thực hiện kiểm tra, sửa chữa, thay thế TBĐĐ (nếu cần) và lập biên bản có chữ ký xác nhận của khách hàng (hoặc đại diện khách hàng) trong thời gian bao lâu theo quy trình kinh doanh điện năng ban hành tại Quyết định số 1675/QĐ-EVNSPC ngày 01/06/2025",
+    "options": {
+      "A": "01 ngày làm việc",
+      "B": "02 ngày làm việc.",
+      "C": "03 ngày",
+      "D": "03 ngày làm việc."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 93,
+    "question": "Khi TBĐD bị mất, cháy hỏng, hoạt động bất thường, trường hợp xác định nguyên nhân không do khách hàng, Điện lực thay thế TBĐĐ cho khách hàng, tính toán truy thu/thoái hoàn điện năng theo HĐMBĐ và các quy định pháp luật trong vòng:",
+    "options": {
+      "A": "01 ngày làm việc.",
+      "B": "02 ngày làm việc.",
+      "C": "03 ngày làm việc.",
+      "D": "04 ngày làm việc."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 94,
+    "question": "Quá trình cài đặt thay đổi thông số hoặc thay thế TBĐĐ, Đơn vị giao nhận điện liên quan thống nhất kế hoạch thực hiện hoặc đề nghị bổ sung tài liệu cần thiết trong thời hạn:",
+    "options": {
+      "A": "01 ngày làm việc.",
+      "B": "02 ngày làm việc.",
+      "C": "03 ngày làm việc.",
+      "D": "04 ngày làm việc."
+    },
+    "answer": "2"
+  },
+  {
+"number": 95,
+"question": "Khi cài đặt thay đổi thông số hoặc thay thế TBĐĐ ranh giới giao nhận điện năng, các đơn vị tham gia tiến hành:",
+"options": {
+"A": "Kiểm tra niêm phong và tình trạng hoạt động của TBĐĐ;",
+"B": "Thu thập số liệu trong công tơ, ghi nhận các thông số và chỉ số của công tơ tại thời điểm treo, tháo thiết bị hoặc thay đổi thông số của TBĐĐ; Tính toán sản lượng trong các chu kỳ không qua đo đếm phục vụ cho việc truy thu, thoái hoàn (nếu có);",
+"C": "Lập biên bản có chữ ký xác nhận của đại diện các đơn vị tham gia. Trường hợp phát hiện TBĐĐ có dấu hiệu bất thường, các đơn vị tham gia lập biên bản ghi nhận sự việc và tiến hành kiểm tra, giải quyết theo quy định của HĐMBĐ.",
+"D": "Cả A, B, C."
+},
+"answer": "4"
+},
+  {
+    "number": 96,
+    "question": "Các nội dung thực hiện khi xử lý sự cố TBĐĐ ranh giới giao nhận điện năng:",
+    "options": {
+      "A": "Kiểm tra, xác định nguyên nhân gây hư hỏng hoặc hoạt động bất thường của TBĐĐ.",
+      "B": "Xác định phương án đo đếm thay thế, thu thập các số liệu liên quan làm cơ sở xác định sản lượng điện năng giao nhận trong thời gian TBĐĐ bị sự cố hoặc hoạt động bất thường.",
+      "C": "Thay thế TBĐĐ bị sự cố, nghiệm thu sau khi thay thế. Lập biên bản xử lý sự cố và có chữ ký xác nhận đầy đủ của các bên tham gia.",
+      "D": "Tất cả các câu trên."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 97,
+    "question": "Kể từ ngày xảy ra sự cố TBĐĐ ranh giới giao nhận điện năng, Đơn vị quản lý TBĐĐ phối hợp với Đơn vị giao nhận điện liên quan khắc phục hoặc thay thế TBĐĐ bị sự cố, xác định sản lượng điện năng truy thu, thoái hoàn trong thời gian:",
+    "options": {
+      "A": "≤ 03 ngày.",
+      "B": "≤ 04 ngày.",
+      "C": "≤ 05 ngày.",
+      "D": "≤ 06 ngày."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 98,
+    "question": "Thời gian sai lệch giữa các công tơ thu thập dữ liệu từ xa và HTTTSL so với nguồn thời gian chuẩn:",
+    "options": {
+      "A": "≤ 03 phút.",
+      "B": "≤ 05 phút.",
+      "C": "≤ 15 phút.",
+      "D": "≤ 30 phút."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 99,
+    "question": "Điện lực tiến hành kiểm tra, xử lý khắc phục hoặc thay thế nếu công tơ bị hỏng đồng hồ thời gian trong trường hợp tại thời điểm bất kỳ trong một chu kỳ kiểm định định kỳ công tơ, nếu phát hiện công tơ sai lệch thời gian so với thời gian chuẩn bao nhiêu phút:",
+    "options": {
+      "A": "≤ 15 phút.",
+      "B": "≤ 20 phút.",
+      "C": "≤ 25 phút.",
+      "D": "≤ 30 phút."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 100,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ điện tử 1 pha trực tiếp là bao lâu?",
+    "options": {
+      "A": "60 tháng.",
+      "B": "72 tháng.",
+      "C": "24 tháng",
+      "D": "36 tháng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 101,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ điện tử 1 pha gián tiếp là bao lâu?",
+    "options": {
+      "A": "60 tháng.",
+      "B": "72 tháng.",
+      "C": "24 tháng",
+      "D": "36 tháng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 102,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ điện tử 3 pha trực tiếp là bao lâu?",
+    "options": {
+      "A": "12 tháng.",
+      "B": "24 tháng.",
+      "C": "36 tháng",
+      "D": "48 tháng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 103,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với công tơ điện tử 3 pha gián tiếp là bao lâu?",
+    "options": {
+      "A": "12 tháng.",
+      "B": "24 tháng.",
+      "C": "36 tháng",
+      "D": "48 tháng"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 104,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với biến dòng điện CT/TI là bao lâu?",
+    "options": {
+      "A": "12 tháng.",
+      "B": "24 tháng.",
+      "C": "36 tháng",
+      "D": "60 tháng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 105,
+    "question": "Chu kỳ kiểm định định kỳ theo Thông tư 07/2019/TT-BKHCN tối thiểu đối với biến điện áp VT/TU là bao lâu?",
+    "options": {
+      "A": "12 tháng.",
+      "B": "24 tháng.",
+      "C": "36 tháng",
+      "D": "60 tháng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 106,
+    "question": "Hàng năm, tỷ lệ kiểm tra định kỳ xác suất công tơ 3 pha trực tiếp đang vận hành trên lưới theo quy trình kinh doanh điện năng ban hành tại Quyết định số 1675/QĐ-EVNSPC ngày 01/06/2025 là bao lâu?",
+    "options": {
+      "A": "50% số lượng công tơ 3 pha trực tiếp",
+      "B": "30% số lượng công tơ 3 pha trực tiếp",
+      "C": "20% số lượng công tơ 3 pha trực tiếp",
+      "D": "100% số lượng công tơ 3 pha trực tiếp"
+    },
+    "answer": "1"
+  },
+  {
+"number": 107,
+"question": "Hàng năm, tỷ lệ kiểm tra định kỳ xác suất công tơ 3 pha gián tiếp đang vận hành trên lưới theo quy trình kinh doanh điện năng ban hành tại Quyết định số 1675/QĐ-EVNSPC ngày 01/06/2025 là bao lâu?",
+"options": {
+"A": "50% số lượng công tơ 3 pha gián tiếp",
+"B": "30% số lượng công tơ 3 pha gián tiếp",
+"C": "20% số lượng công tơ 3 pha gián tiếp",
+"D": "100% số lượng công tơ 3 pha gián tiếp"
+},
+"answer": "4"
+},{
+"number": 108,
+"question": "Trình tự thực hiện tháo công tơ",
+"options": {
+"A": "Trước khi tháo, phải kiểm tra tình trạng hoạt động của TBĐĐ, sự toàn vẹn của chì niêm kiểm định, dấu niêm phong hộp đấu dây của TBĐĐ, chỉ số công tơ tháo, chụp ảnh TBĐĐ (thể hiện rõ số chế tạo, nhãn TBĐĐ, chỉ số công tơ)",
+"B": "Sau khi tháo, công tơ phải được giữ nguyên chì niêm kiểm định, chỉ số của công tơ tại thời điểm tháo xuống và bàn giao cho bộ phận quản lý TBĐĐ kiểm tra, giám sát trước khi lưu kho.",
+"C": "Cả 2 câu A, B"
+},
+"answer": "3"
+},
+  {
+    "number": 109,
+    "question": "Trình tự thực hiện treo công tơ",
+    "options": {
+      "A": "Trước khi treo, phải kiểm tra ngoại quan, thời hạn kiểm định, các thông số của TBĐĐ phù hợp với phương án cấp điện được phê duyệt",
+      "B": "Sau khi treo, kiểm tra tình trạng hoạt động, chỉ số công tơ, chụp ảnh TBĐĐ (thể hiện rõ số chế tạo, nhãn TBĐĐ, chỉ số công tơ), niêm phong hộp đấu dây của TBĐĐ",
+      "C": "Cả 2 câu A,B"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 110,
+    "question": "Trách nhiệm tổ chức cài đặt, quản lý và phân cấp sử dụng mật khẩu công tơ điện tử và mật khẩu chương trình cài đặt công tơ",
+    "options": {
+      "A": "Đảm bảo tính bảo mật, chống truy cập trái phép",
+      "B": "Quản lý mật khẩu đồng bộ thời gian, cài đặt công tơ dưới hình thức điện tử",
+      "C": "Trường hợp có cài đặt thay đổi thông số trong công tơ, CTĐL/ĐL phải lập biên bản (treo tháo/kiểm tra TBĐĐ) để ghi nhận nội dung thực hiện và có chữ ký xác nhận của khách hàng (hoặc đại diện khách hàng)",
+      "D": "Cả 3 câu A, B, C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 111,
+    "question": "Trường hợp không thu thập được số liệu của công tơ, CTĐL/ĐL phải kiểm tra, sửa chữa, thay thế thiết bị truyền số liệu công tơ như: modem/modul truyền thông, thiết bị lặp thông tin, DCU, cáp thông tin,… trong thời gian",
+    "options": {
+      "A": "Thời gian ≤ 48 giờ kể từ thời điểm gần nhất không thu thập được số liệu công tơ",
+      "B": "Thời gian ≤ 48 giờ kể từ thời điểm phát hiện",
+      "C": "Thời gian ≤ 24 giờ kể từ thời điểm gần nhất không thu thập được số liệu công tơ",
+      "D": "Thời gian ≤ 24 giờ kể từ thời điểm phát hiện"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 112,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, có bao nhiêu chính sách chăm sóc khách hàng:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "Cả 3 câu đều sai."
+    },
+    "answer": "1"
+  },
+  {
+"number": 113,
+"question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chăm sóc khách hàng bao gồm:",
+"options": {
+"A": "Chính sách về chất lượng cung cấp điện.",
+"B": "Chính sách về chất lượng dịch vụ.",
+"C": "Cả hai câu A và B."
+},
+"answer": "3"
+},
+  {
+    "number": 114,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chất lượng cung cấp điện bao gồm",
+    "options": {
+      "A": "Dịch vụ chuẩn;",
+      "B": "Dịch vụ ưu tiên cao nhất;",
+      "C": "Dịch vụ chuẩn; Dịch vụ ưu tiên cao nhất;",
+      "D": "Dịch vụ chuẩn; Dịch vụ ưu tiên cao nhất; Dịch vụ ưu tiên được điều chỉnh từ dịch vụ chuẩn đến dịch vụ ưu tiên cao nhất."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 115,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định dịch vụ chuẩn của chính sách chất lượng cung cấp điện bao gồm",
+    "options": {
+      "A": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng;",
+      "B": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng; cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày.",
+      "C": "Dịch vụ chuẩn bao gồm: cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày và trong thời hạn 24 giờ kể từ thời điểm thực hiện ngừng, giảm mức cung cấp điện khẩn cấp.",
+      "D": "Dịch vụ chuẩn bao gồm: đảm bảo cung cấp điện theo hợp đồng cung cấp thông tin ngừng, giảm cung cấp điện theo kế hoạch ít nhất trước 5 ngày và trong thời hạn 24 giờ kể từ thời điểm thực hiện ngừng, giảm mức cung cấp điện khẩn cấp."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 116,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định dịch vụ ưu tiên cao nhất của chính sách chất lượng cung cấp điện bao gồm:",
+    "options": {
+      "A": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất.",
+      "B": "Dịch vụ ưu tiên cao nhất bao gồm: cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra. Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất.",
+      "C": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra.",
+      "D": "Dịch vụ ưu tiên cao nhất bao gồm: đảm bảo cung cấp điện đầy đủ và liên tục từ ít nhất 2 nguồn, trường hợp mất điện lưới sử dụng máy phát thay thế; cung cấp các thông tin ngừng giảm cung cấp điện theo kế hoạch hoặc khẩn cấp ngay sau khi sự kiện xảy ra. Các mức độ ưu tiên được điều chỉnh từ Dịch vụ chuẩn đến Dịch vụ ưu tiên cao nhất."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 117,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định chính sách chất lượng dịch vụ bao gồm",
+    "options": {
+      "A": "Rút ngắn thời gian tiếp nhận và giải quyết yêu cầu; Cung cấp thông tin đầy đủ, đa dạng ; Chuyển điểm đánh giá thành quà tặng vật chất hoặc các ưu đãi khi khách hàng sử dụng dịch vụ điện của Đơn vị Điện lực;",
+      "B": "Rút ngắn thời gian tiếp nhận và giải quyết yêu cầu; Chuyển điểm đánh giá thành quà tặng vật chất hoặc các ưu đãi khi khách hàng sử dụng dịch vụ điện của Đơn vị Điện lực; Mời tham gia các sự kiện CSKH",
+      "C": "Cung cấp thông tin đầy đủ, đa dạng( tiền điện hàng tháng, các dịch vụ phát sinh, các chương trình CSKH) ; Mời tham gia các sự kiện CSKH: Hội nghị trị ân KH; tặng quà hàng năm nhân dịp lễ, tết, sinh nhật; các chương trình sự kiện về KD&DVKH",
+      "D": "Đảm bảo tiếp nhận và giải quyết yêu càu các dịch vụ điện theo đúng trình tự thủ tục và thời gian; Cung cấp thông tin đầy đủ, đa dạng( tiền điện hàng tháng, các dịch vụ phát sinh, các chương trình CSKH) ; Mời tham gia các sự kiện CSKH: Hội nghị trị ân KH; tặng quà hàng năm nhân dịp lễ, tết, sinh nhật; các chương trình sự kiện về KD&DVKH"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 118,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định phân nhóm khách hàng dựa trên các tiêu chí",
+    "options": {
+      "A": "Nhóm tiêu chí kinh doanh;",
+      "B": "Nhóm khách hàng sinh hoạt và ngoài sinh hoạt.",
+      "C": "Nhóm khách hàng sinh hoạt và ngoài sinh hoạt; khách hàng có sản lượng cao.",
+      "D": "Nhóm tiêu chí kinh doanh và nhóm các tiêu chí về cộng đồng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 119,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, Quy định trang phục CBCNV khi giao tiếp trực tiếp với khách hàng",
+    "options": {
+      "A": "Sử dụng trang phục công tác, thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác. Chỉ được phép vào nhà, trụ sở, địa điểm,... phạm vi thuộc quyền quản lý của khách hàng khi đã xuất trình đầy đủ các giấy tờ cần thiết và được sự đồng ý của khách hàng.",
+      "B": "Sử dụng trang phục công tác, thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác.",
+      "C": "Đeo thẻ nghiệp vụ (có ảnh) ghi rõ đầy đủ họ và tên, mã số (nếu có), chức danh, bộ phận, đơn vị công tác, không được che giấu hoặc cung cấp thông tin giả mạo họ và tên, chức danh, bộ phận, đơn vị công tác. Chỉ được phép vào nhà, trụ sở, địa điểm,... phạm vi thuộc quyền quản lý của khách hàng khi đã xuất trình đầy đủ các giấy tờ cần thiết và được sự đồng ý của khách hàng.",
+      "D": "Sử dụng trang phục công tác"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 120,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, Nguyên tắc khi chăm sóc khách hàng",
+    "options": {
+      "A": "Hoạt động chăm sóc khách hàng phải bảo đảm tuân thủ phương châm “Khách hàng là trung tâm” và hướng đến nâng cao mức độ hài lòng của khách hàng.",
+      "B": "Đảm bảo dịch vụ cung cấp phải thực hiện đúng cam kết, minh bạch, đồng nhất trên các kênh và phù hợp với nhu cầu sử dụng điện của từng nhóm khách hàng;",
+      "C": "Chủ động tiếp cận, cung cấp, hỗ trợ giải đáp cung cấp thông tin và hướng dẫn khách hàng tận tình, đầy đủ, rõ ràng nhiều hơn mong đợi của khách hàng.",
+      "D": "Tất cả các công tác trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 121,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, loại giấy tờ nào sau đây không phải là giấy tờ xác định mục đích sử dụng điện",
+    "options": {
+      "A": "Giấy chứng nhận đăng ký đầu tư",
+      "B": "Giấy chứng nhận đăng ký chi nhánh động văn phòng đại diện",
+      "C": "Giấy chứng nhận quyền sử dụng đất."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 122,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025,thông tin nào sau đây không phải là thông tin xác định chủ thể hợp đồng mua bán điện tại địa điểm sử dụng điện",
+    "options": {
+      "A": "Cơ sở dữ liệu cư dân Quốc gia",
+      "B": "Giấy chứng nhận chi nhánh, văn phòng đại diện",
+      "C": "Giấy chứng nhận quyền sử dụng đất (trường hợp cấp điện sinh hoạt: trên đất đã có nhà ở)",
+      "D": "Giấy tờ của chủ sở hữu nhà / quyền sử dụng đất đồng ý cho cá nhân/tổ chức được quyền sử dụng tại địa điểm mua điện"
+    },
+    "answer": "2"
+  },
+  {
+"number": 123,
+"question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, khách hàng xác nhận giao dịch điện tử:",
+"options": {
+"A": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử đối với trường hợp khách hàng là tổ chức, cá nhân có chữ ký điện tử, mã OTP đối với khách hàng là cá nhân",
+"B": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử qua hình thức mã OTP đối với tất cả khách hàng sinh hoạt và ngoài sinh hoạt",
+"C": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử qua hình thức mã OTP đối với khách hàng là tổ chức và cá nhân",
+"D": "Khách hàng xác nhận giao dịch điện tử bằng chữ ký điện tử đối với tất cả khách hàng"
+},
+"answer": "1"
+},
+  {
+"number": 124,
+"question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định thông tin khách hàng cung cấp",
+"options": {
+"A": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao được đối chiếu với bản chính.",
+"B": "Thông tin khách hàng cung cấp là bản sao (bao gồm cả bản chụp từ thiết bị công nghệ, bản photo) và được đối chiếu với bản chính.",
+"C": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao (bao gồm cả bản chụp từ thiết bị công nghệ, bản photo) và được đối chiếu với bản chính hoặc bản sao được chứng thực có giá trị sử dụng (nếu cần).",
+"D": "Thông tin khách hàng cung cấp là dữ liệu điện tử, bản sao và được đối chiếu với bản chính hoặc bản sao được chứng thực có giá trị sử dụng (nếu cần)."
+},
+"answer": "C"
+},
+  {
+    "number": 125,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, thời hạn cung cấp dịch vụ cấp điện hạ áp là",
+    "options": {
+      "A": "Không quá 01 ngày làm việc kể từ khi tiếp nhận đủ hồ sơ theo quy định",
+      "B": "Không quá 03 ngày kể từ ngày nhận được yêu cầu mua điện. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc.",
+      "C": "Không quá 05 ngày làm việc. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc.",
+      "D": "Không quá 05 ngày làm việc kể từ ngày nhận được yêu cầu mua điện. Trường hợp phải lắp thêm cột/cáp ngầm/lắp đặt máy biến dòng điện không quá 07 ngày làm việc."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 126,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các dịch vụ nào sau đây được miễn phí trong quá trình thực hiện HĐMBĐ",
+    "options": {
+      "A": "Thay đổi chủ thể HĐMBĐ, thay đổi thông tin",
+      "B": "Thay đổi mục đích sử dụng điện, thay đổi định mức sử dụng điện",
+      "C": "Gia hạn HĐMBĐ, chấm dứt HĐMBĐ",
+      "D": "Cả 3 câu trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 127,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các loại dịch vụ có chi phí trong quá trình thực hiện HĐMBĐ gồm:",
+    "options": {
+      "A": "Thay đổi vị trí đo đếm, thay đổi công suất sử dụng",
+      "B": "Kiểm tra/kiểm định thiết bị đo đếm",
+      "C": "Cả câu A và B",
+      "D": "Theo thỏa thuận giữa 2 bên."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 128,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, thời gian cung cấp dịch vụ là:",
+    "options": {
+      "A": "Thời gian theo ngày làm việc khi tiếp nhận hồ sơ.",
+      "B": "Thời gian theo ngày làm việc từ khi tiếp nhận đầy đủ hồ sơ theo quy định đến khi hoàn thành yêu cầu dịch vụ của khách hàng (không tính thời gian do chủ quan từ phía khách hàng, từ cơ quan quản lý nhà nước, do sự kiện bất khả kháng).",
+      "C": "Theo thỏa thuận giữa khách hàng và người tiếp nhận hồ sơ.",
+      "D": "Thời gian từ khi tiếp nhận đầy đủ hồ sơ theo quy định đến khi hoàn thành yêu cầu dịch vụ của khách hàng (không tính thời gian do chủ quan từ phía khách hàng, từ cơ quan quản lý nhà nước, do sự kiện bất khả kháng)."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 129,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định sự kiện bất khả kháng :",
+    "options": {
+      "A": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép",
+      "B": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được.",
+      "C": "Là sự kiện xảy ra một cách khách quan không thể lường trước được.",
+      "D": "Là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 130,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, các yêu cầu cung cấp dịch vụ của khách hàng được tiếp nhận bằng các hình thức nào",
+    "options": {
+      "A": "Tổng đài chăm sóc khách hàng",
+      "B": "Trực tuyến qua các website, cổng dịch vụ công, ứng dụng CSKH, mạng xã hội,…",
+      "C": "Trực tiếp tại Phòng/địa điểm giao dịch khách hàng.",
+      "D": "Tất cả các đáp án trên đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 131,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, một trong các trách nhiệm của CTĐL/ ĐL trong cung cấp dịch vụ điện cho khách hàng",
+    "options": {
+      "A": "Hướng dẫn đầy đủ các hồ sơ, thủ tục khi tiếp nhận yêu cầu cung cấp dịch vụ của khách hàng. Tiếp nhận hồ sơ còn thiếu trong quá trình thực hiện đến trước khi kết thúc dịch vụ;",
+      "B": "Không được từ chối cấp điện khi khách hàng đã có đủ điều kiện theo yêu cầu của Quy định này, trừ trường hợp bất khả kháng; Chịu trách nhiệm bảo vệ dữ liệu cá nhân theo quy định.",
+      "C": "Thực hiện đúng lịch đã hẹn với khách hàng. Đảm bảo cung cấp dịch vụ điện đúng nội dung, đúng chi phí, đúng thời gian; Thỏa thuận và được sự chấp thuận của chủ sở hữu công trình điện, khi sử dụng tài sản lưới điện của chủ sở hữu, bán điện cho khách hàng khác",
+      "D": "Cả 3 câu trên đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 132,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, một trong các đối tượng phải đặt cọc bằng tiền cho Điện lực/Công ty điện lực khi yêu cầu mua điện",
+    "options": {
+      "A": "Khách hàng mua điện sinh hoạt.",
+      "B": "Khách hàng mua điện ngoài sinh hoạt ngắn hạn (dưới 12 tháng)",
+      "C": "Khách hàng mua điện ngoài sinh hoạt có công suất lớn hơn hoặc bằng 40kW.",
+      "D": "Khách hàng mua điện ngoài sinh hoạt có công suất dưới 40kW."
+    },
+    "answer": "2"
+  },
+  {
+"number": 133,
+"question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, quy định trường hợp chưa có lưới điện phân phối hoặc lưới điện phân phối bị quá tải có xác nhận của cơ quan Điều tiết ĐVĐL hoặc cơ quan được ủy quyền, trong thời gian bao lâu Điện lực phải trả lời KH:",
+"options": {
+"A": "≤ 03 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+"B": "≤ 05 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+"C": "≤ 07 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được.",
+"D": "≥ 05 ngày làm việc kể từ khi nhận được đề nghị mua điện, trong đó nêu rõ thời hạn dự kiến cấp điện được."
+},
+"answer": "2"
+},
+  {
+"number": 134,
+"question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, các tiêu chí đánh giá chất lượng về thời gian xử lý yêu cầu:",
+"options": {
+"A": "Giải quyết các yêu cầu, khiếu nại khẩn cấp ≤ 24 giờ",
+"B": "Giải quyết yêu cầu, khiếu nại còn lại: Phản hồi yêu cầu, khiếu nại của khách hàng: trong ngày.",
+"C": "Giải quyết yêu cầu, khiếu nại còn lại: Phản hồi yêu cầu, khiếu nại của khách hàng: trong ngày; Giải quyết yêu cầu, khiếu nại của khách hàng: ≤ 03 ngày.",
+"D": "Cả A, B, C"
+},
+"answer": "4"
+},
+  {
+    "number": 135,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/2025, nội dung đánh giá khảo sát chất lượng dịch vụ phải bao gồm ít nhất các tiêu chí",
+    "options": {
+      "A": "Thái độ phục vụ khách hàng.",
+      "B": "Thái độ phục vụ khách hàng và kỹ năng nghiệp vụ của nhân viên thực hiện;",
+      "C": "Thái độ phục vụ khách hàng và kỹ năng nghiệp vụ của nhân viên thực hiện; Trình tự thực hiện, quy trình thủ tục; Thời gian giải quyết.",
+      "D": "Thời gian giải quyết."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 136,
+    "question": "Theo Quy trình kinh doanh điện năng áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành theo tại quyết định số 1675/QĐ-EVNSPC ngày 1/6/202 quy định trường hợp chủ đầu tư các khu đô thị mới, khu chung cư,…đã đầu tư hệ thống điện và có văn bản đồng ý để Đơn vị Điện lực sử dụng hệ thống điện để cấp điện cho khách hàng thì :",
+    "options": {
+      "A": "Đơn vị Điện lực chưa được ký HĐMBĐ với khách hàng",
+      "B": "Đơn vị Điện lực phải có văn bản xin ý kiến",
+      "C": "Đơn vị Điện lực được ký ngay HĐMBĐ với khách hàng",
+      "D": "A,B,C đều sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 137,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định hình thức cung cấp dịch vụ bao gồm:",
+    "options": {
+      "A": "Trực tuyến: Khách hàng sử dụng dịch vụ điện qua môi trường mạng từ đăng ký dịch vụ, cung cấp hồ sơ (tập tin điện tử), thanh toán chi phí (chuyển khoản, Internet/Mobile/SMS banking, ví điện tử,…) và xác nhận điện tử bằng chữ ký điện tử hoặc mã OTP;",
+      "B": "Trực tiếp kết hợp trực tuyến: Đối với khách hàng chưa đủ điều kiện thực hiện trực tuyến hoàn toàn, áp dụng tối đa các bước có đủ điều kiện thực hiện hình thức trực tuyến kết hợp với hình thức trực tiếp.",
+      "C": "Cả 2 câu A, B",
+      "D": "A, B đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 138,
+    "question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định quyền của khách hàng bao gồm:",
+    "options": {
+      "A": "Được yêu cầu cung cấp các dịch vụ điện trong Quy định này;",
+      "B": "Được cung cấp dịch vụ theo đúng nội dung và thời gian nêu trong Quy định này khi có đầy đủ hồ sơ và đã thanh toán đủ chi phí (nếu có), trừ trường hợp bất khả kháng;",
+      "C": "Được yêu cầu cung cấp các dịch vụ điện trong Quy định này; Được cung cấp dịch vụ theo đúng nội dung và thời gian nêu trong Quy định này khi có đầy đủ hồ sơ và đã thanh toán đủ chi phí (nếu có), trừ trường hợp bất khả kháng; Được kiểm tra, giám sát việc thực hiện các dịch vụ cung cấp điện nêu trong Quy định này; Thực hiện các quyền lợi theo các quy định của pháp luật.",
+      "D": "Được kiểm tra, giám sát việc thực hiện các dịch vụ cung cấp điện nêu trong Quy định này;"
+    },
+    "answer": "3"
+  },
+  {
+"number": 139,
+"question": "Theo Quy định về cung cấp các dịch vụ điện áp dụng trong Tổng Công ty Điện lực Miền Nam ban hành tại quyết định 94/QĐ-HĐTV ngày 1/6/2025, quy định trách nhiệm của khách hàng bao gồm:",
+"options": {
+"A": "Hợp tác, phối hợp với đơn vị cung cấp dịch vụ trong quá trình cung cấp và sử dụng dịch vụ;",
+"B": "Sử dụng điện an toàn, tiết kiệm, hiệu quả, đúng mục đích và đúng nội dung HĐMBĐ đã ký kết; Cung cấp đầy đủ thông tin, hồ sơ của dịch vụ điện khách hàng yêu cầu.",
+"C": "Thực hiện các trách nhiệm khác theo các quy định của pháp luật.",
+"D": "Cả 3 câu A, B, C."
+},
+"answer": "4"
+},
+  {
+    "number": 140,
+    "question": "Trong giao tiếp con người có thể dùng yếu tố phi ngôn ngữ gì để biểu lộ tình cảm, thái độ của mình?",
+    "options": {
+      "A": "Cử chi",
+      "B": "Nụ cười",
+      "C": "Ánh mắt",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 141,
+    "question": "Khi nhận được những ý kiến phản hồi tiêu cực, bạn sẽ:",
+    "options": {
+      "A": "Phủ nhận, xin lỗi hoặc biện hộ cho sự thiếu hiểu biết của mình",
+      "B": "Nổi giận và bảo vệ quan điểm của mình",
+      "C": "Ghi nhận và tìm cách cải thiện vấn đề.",
+      "D": "Tất cả các ý trên đều sai"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 142,
+    "question": "Nguyên tắc trong giao tiếp với khách hàng nào sau đây là sai:",
+    "options": {
+      "A": "Chào hỏi khách trước và chủ động giúp đỡ khi thấy khách có biểu hiện cần được giúp đỡ.",
+      "B": "Lợi dụng cương vị công tác, nhiệm vụ được giao để vòi vĩnh, sách nhiễu, gây phiền hà cho khách hàng",
+      "C": "Giao tiếp với thái độ ân cần, gần gũi biểu hiện sự tôn trọng, thân thiện",
+      "D": "Hướng dẫn, trả lời các yêu cầu của khách hàng."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 143,
+    "question": "Khách hàng của Điện lực là ai?",
+    "options": {
+      "A": "Khách hàng bên ngoài – người mua điện",
+      "B": "Khách hàng nội bộ - Sếp và nhân viên trong nội bộ công ty",
+      "C": "Khách hàng nội bộ và Khách hàng bên ngoài",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 144,
+    "question": "Chúng ta làm gì để hiểu rõ người khác đang nói",
+    "options": {
+      "A": "Đặt các câu hỏi",
+      "B": "Đưa ra các đánh giá trên những điều họ đang nói",
+      "C": "Hiểu các ngôn ngữ cơ thể",
+      "D": "Sử dụng ngữ điện và các giao tiêp bằng mắt"
+    },
+    "answer": "1"
+  },
+  {
+"number": 145,
+"question": "Để giao tiếp tốt với khách hàng khó tính, bạn sẽ làm gì?",
+"options": {
+"A": "Xoa dịu cảm xúc tiêu cực của họ bằng nhiều cách khác nhau",
+"B": "Lắng nghe họ nói",
+"C": "Xin lỗi họ vì chưa làm họ hài lòng",
+"D": "Tất cả các câu A, B, C."
+},
+"answer": "4"
+},
+  {
+    "number": 146,
+    "question": "Theo quy Thông tư 04/2025/TT-BCT ngày 1/2/2025, nội dung thông báo ngừng, giảm mức cung cấp điện bao gồm:",
+    "options": {
+      "A": "Địa điểm ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "B": "Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "C": "Địa điểm ngừng, giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại.",
+      "D": "Địa điểm ngừng, giảm mức cung cấp điện; mức công suất giảm hoặc khả năng cung cấp tối đa trong trường hợp giảm mức cung cấp điện; Lý do ngừng, giảm mức cung cấp điện; Thời gian bắt đầu ngừng, giảm mức cung cấp điện; Thời điểm dự kiến đóng điện trở lại hoặc bảo đảm mức cung cấp điện bình thường."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 147,
+    "question": "Quy định về giao dịch với khách hàng của ngành điện tại địa điểm giao dịch phải bảo đảm",
+    "options": {
+      "A": "Chu đáo, đúng nơi quy định",
+      "B": "Nguyên tắc thực hiện văn hóa công sở",
+      "C": "Văn hóa EVN",
+      "D": "Tất cả A, B,C"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 148,
+    "question": "Các hành vi bị nghiêm cấm khi giao tiếp với khách hàng quy định trong Quy tắc ứng xử đạo đức nghề nghiệp của EVNSPC là:",
+    "options": {
+      "A": "Dùng cử chỉ, lời nói thiếu văn hóa, từ ngữ có tính chất đe dọa, mệnh lệnh, thiếu bình đẳng, cửa quyền với khách hàng.",
+      "B": "Giao tiếp với khách hàng khi có mùi bia rượu. Thu tiền trông giữ xe của khách đến đơn vị.",
+      "C": "Lợi dụng cương vị công tác, nhiệm vụ được giao để vòi vĩnh, sách nhiễu, gây phiền hà cho khách.",
+      "D": "A,B,C đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 149,
+    "question": "Hướng dẫn cho khách hàng gửi kiến nghị vượt cấp về những vấn đề thuộc thẩm quyền giải quyết của đơn vị:",
+    "options": {
+      "A": "Là 1 trong các hành vi bị nghiêm cấm khi giao tiếp với khách hàng.",
+      "B": "Thể hiện sự tận tâm giúp đỡ khách hàng",
+      "C": "Góp phần nâng cao chất lượng phục vụ khách hàng",
+      "D": "Là sự sáng tạo trong công tác chăm sóc khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 150,
+    "question": "Trong các chuẩn mực đạo đức, EVN nêu phương châm “EVN phấn đấu để xứng đáng với niềm tin của đất nước và nhân dân” và thực hiện cụ thể thông qua việc:",
+    "options": {
+      "A": "EVN có tinh thần đoàn kết, hợp tác và lao động sáng tạo là nguồn sức mạnh tổng hợp để đạt được các mục tiêu đề ra",
+      "B": "EVN tin tưởng sẽ xứng đáng với niềm tin mà Đảng, Chính phủ, đất nước và nhân dân đã giao phó",
+      "C": "EVN hành động vì niềm vui, hạnh phúc của mọi người",
+      "D": "Các câu trên đều đúng"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 151,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Cam kết giữ gìn môi trường” của EVN:",
+    "options": {
+      "A": "EVN luôn phấn đấu sử dụng những công nghệ tiên tiến, thân thiện với môi trường",
+      "B": "EVN luôn phấn đấu sử dụng những công nghệ kiểm soát được ô nhiễm môi trường",
+      "C": "EVN luôn phấn đấu tạo điều kiện cho các hoạt động xã hội tự nguyện và bảo vệ môi trường của CBCNV",
+      "D": "EVN luôn phấn đấu tạo điều kiện cho các hoạt động kiểm soát ô nhiễm môi trường, tăng cường chất lượng môi trường"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 152,
+    "question": "“Đáp ứng đầy đủ nhu cầu về điện của khách hàng với chất lượng và dịch vụ ngày càng tốt hơn” là nội dung thuộc về yếu tố nào của văn hóa EVN:",
+    "options": {
+      "A": "Tầm nhìn",
+      "B": "Sứ mạng",
+      "C": "Khẩu hiệu",
+      "D": "Giá trị cốt lõi"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 153,
+    "question": "Trong các chuẩn mực đạo đức, EVN nêu phương châm “Sức mạnh trong mọi hành động của EVN là sự đồng thuận và trí tuệ tập thể” và thực hiện cụ thể thông qua việc:",
+    "options": {
+      "A": "EVN có tinh thần đoàn kết, hợp tác và lao động sáng tạo là nguồn sức mạnh tổng hợp để đạt được các mục tiêu đề ra",
+      "B": "EVN tin tưởng sẽ xứng đáng với niềm tin mà Đảng, Chính phủ, đất nước và nhân dân đã giao phó",
+      "C": "EVN cam kết hành động vì lợi ích quốc gia, vì sự phồn vinh của Tổ quốc",
+      "D": "Các câu trên đều đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 154,
+    "question": "Nội dung nào không phải là giá trị cốt lõi của EVN:",
+    "options": {
+      "A": "Chất lượng - Tín nhiệm",
+      "B": "Lợi nhuận – Tiết kiệm",
+      "C": "Sáng tạo - Hiệu quả",
+      "D": "Tận tâm - Trí tuệ"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 155,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Bảo đảm lợi ích cho cộng đồng” của EVN:",
+    "options": {
+      "A": "Khuyến khích, đề cao các ý tưởng sáng tạo và tạo điều kiện tối đa để các ý tưởng sáng tạo được áp dụng vào thực tiễn",
+      "B": "Tổ chức, khuyến khích và tạo điều kiện cho các hoạt động xã hội tự nguyện của CBCNV như đền ơn đáp nghĩa, từ thiện và bảo vệ môi trường",
+      "C": "EVN coi các đối tác như những người bạn, luôn mong muốn xây dựng các mối quan hệ thân thiện, bền vững trên cơ sở bình đẳng, cùng có lợi và tin tưởng nhau",
+      "D": "Luôn khuyến khích, tạo điều kiện cho người lao động rèn luyện, trau dồi kiến thức, kỹ năng để phát triển"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 156,
+    "question": "Trong thực thi văn hóa EVN, câu khẩu hiệu nào sau đây thể hiện “Quan hệ với đối tác” của EVN:",
+    "options": {
+      "A": "Khách hàng là sự tồn tại của chúng tôi",
+      "B": "Bảo vệ ngôi nhà chung",
+      "C": "Vì một cộng đồng phát triển",
+      "D": "Hợp tác cùng phát triển"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 157,
+    "question": "Trong thực thi văn hóa EVN, hành động nào sau đây được xem là “Quan hệ với đối tác” của EVN:",
+    "options": {
+      "A": "Khi giải quyết công việc, EVN coi trọng sự tuân thủ pháp luật, cạnh tranh lành mạnh trên cơ sở công nghệ tiên tiến, chất lượng sản phẩm tốt",
+      "B": "Luôn đối xử với nhau trên cơ sở bình đẳng, tôn trọng lẫn nhau, sống có tình nghĩa, tôn trọng và đoàn kết, hợp tác trên mọi phương diện",
+      "C": "Kiên quyết bài trừ tệ nạn tham nhũng, cửa quyền, quan liêu, thiếu trách nhiệm và tư lợi cá nhân",
+      "D": "Mọi người phải được đánh giá đúng và được lắng nghe, thành tích phải được đánh giá"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 158,
+    "question": "“Khách hàng là sự tồn tại của chúng tôi” là nội dung thuộc yếu tố nào của văn hóa EVN.",
+    "options": {
+      "A": "Sứ mệnh",
+      "B": "Tầm nhìn",
+      "C": "Thực thi văn hóa",
+      "D": "Chuẩn mực đạo đức"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 159,
+    "question": "CBCNV của EVNSPC khi giao tiếp với khách hàng:",
+    "options": {
+      "A": "Không nhất thiết phải sử dụng trang phục và thẻ nghiệp vụ chỉ cần giao tiếp với thái độ ân cần, gần gũi, biểu hiện sự thân thiện, tôn trọng.",
+      "B": "Chủ động giúp đỡ nếu thấy khách có biểu hiện cần giúp đỡ (kể cả khách đến không phải để gặp mình)",
+      "C": "Chỉ chủ động tỏ thái độ cởi mở với khách hàng đến gặp mình để giải quyết công việc.",
+      "D": "Đề nghị khách hàng đưa ngay yêu cầu, hạn chế giao tiếp để không mất thời gian giải quyết công việc."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 160,
+    "question": "EVN khẳng định Giá trị cốt lõi của mình là “Chất lượng – tín nhiệm” thông qua phương châm hành động cụ thể là:",
+    "options": {
+      "A": "EVN cam kết với mọi đối tác sẽ luôn đảm bảo chất lượng là mục tiêu hàng đầu, đáp ứng nhu cầu ngày càng cao của khách hàng",
+      "B": "EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao",
+      "C": "EVN sẽ luôn hợp tác trên tinh thần trung thực, công bằng, sẵn sàng chia sẻ, gắn bó chặt chẽ để giải quyết được mọi vấn đề của hệ thống",
+      "D": "EVN mong muốn tạo môi trường thuận lợi để mọi người phát huy được sức sáng tạo, đổi mới công nghệ, quy trình quản lý để đem lại hiệu quả cao nhất"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 161,
+    "question": "Các quy trình, quy phạm sử dụng trong EVN thuộc về yếu tố:",
+    "options": {
+      "A": "Các giả định",
+      "B": "Các biểu tượng",
+      "C": "Các giá trị",
+      "D": "Các chuẩn mực"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 162,
+    "question": "“Các cán bộ - Nhân viên Điện lực hạnh phúc sẽ giúp ngành Điện phát triển hiệu quả và bền vững” là một dạng của:",
+    "options": {
+      "A": "Giả định",
+      "B": "Nghi thức",
+      "C": "Niềm tin",
+      "D": "Giá trị"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 163,
+    "question": "EVN khẳng định Giá trị cốt lõi của mình là “Hợp tác – chia sẻ” thông qua phương châm hành động cụ thể là:",
+    "options": {
+      "A": "EVN cam kết với mọi đối tác sẽ luôn đảm bảo chất lượng là mục tiêu hàng đầu, đáp ứng nhu cầu ngày càng cao của khách hàng",
+      "B": "EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao",
+      "C": "EVN sẽ luôn hợp tác trên tinh thần trung thực, công bằng, sẵn sàng chia sẻ, gắn bó chặt chẽ để giải quyết được mọi vấn đề của hệ thống",
+      "D": "EVN mong muốn tạo môi trường thuận lợi để mọi người phát huy được sức sáng tạo, đổi mới công nghệ, quy trình quản lý để đem lại hiệu quả cao nhất."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 164,
+    "question": "Trong nội dung của văn hóa giao tiếp, EVN quy định: “Trang phục gọn gàng, lịch sự theo đúng quy định”. Đây là một kiểu biểu hiện của:",
+    "options": {
+      "A": "Biểu trưng trực quan",
+      "B": "Niềm tin",
+      "C": "Giá trị",
+      "D": "Chuẩn mực"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 165,
+    "question": "Đâu là quy định trong “Văn hóa công sở” của Tổng Công ty Điện lực Miền Nam:",
+    "options": {
+      "A": "CBCNV tuân thủ mặc đồng phục theo quy định, đeo biển tên mọi lúc mọi nơi.",
+      "B": "Không để tay trong túi quần trong quá trình giao tiếp.",
+      "C": "Đi lại đóng mở cửa nhẹ nhàng, nên gõ cửa chỉ trước khi vào phòng lãnh đạo.",
+      "D": "Đi đứng trong tư thế đàng hoàng, cần vội vàng đúng những khi cần thiết."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 166,
+    "question": "Trong thực thi văn hóa EVN, câu khẩu hiệu nào sau đây thể hiện “Bảo đảm lợi ích cho cộng đồng” của EVN:",
+    "options": {
+      "A": "Khách hàng là sự tồn tại của chúng tôi",
+      "B": "Vì một cộng đồng phát triển",
+      "C": "Hợp tác cùng phát triển",
+      "D": "Bảo vệ ngôi nhà chung"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 167,
+    "question": "Nội dung nào sau đây là quy định về chuẩn mực ứng xử của CBNV quản lý vận hành lưới điện:",
+    "options": {
+      "A": "Luôn tươi cười, niềm nở.",
+      "B": "Lắng nghe và ghi chép đầy đủ, trung thực ý kiến của các đối tượng khi tiếp xúc.",
+      "C": "Xưng tên để diễn tả ý kiến của mình",
+      "D": "Chỉ cần cười hoặc gật đầu."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 168,
+    "question": "Hội nghị tổng kết thi đua khen thưởng hàng năm của Công ty điện lực là một dạng của:",
+    "options": {
+      "A": "Nghi thức",
+      "B": "Chuẩn mực",
+      "C": "Giá trị",
+      "D": "Cạnh tranh"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 169,
+    "question": "Trong công sở, khi người được chào đang bận giao tiếp với người khác:",
+    "options": {
+      "A": "Có thể chỉ cần cười hoặc gật đầu.",
+      "B": "Tình huống này không cần chào.",
+      "C": "Chào lớn tiếng để người chào biết mình chào.",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 170,
+    "question": "Bộ Tài liệu văn hóa Tổng Công ty Điện lực Miền Nam ban hành tháng 06/2015 được soạn thảo bởi:",
+    "options": {
+      "A": "Ban Pháp chế Tổng Công ty Điện lực Miền Nam.",
+      "B": "Ban Quan hệ cộng đồng Tổng Công ty Điện lực Miền Nam.",
+      "C": "Ban Kế hoạch Tổng Công ty Điện lực Miền Nam.",
+      "D": "Ban Quan hệ quốc tế Tổng Công ty Điện lực Miền Nam."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 171,
+    "question": "Trong văn hóa hội họp, EVNSPC quy định, nếu có đối tác ngoài đơn vị:",
+    "options": {
+      "A": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi phía bên tay phải.",
+      "B": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi phía bên tay trái.",
+      "C": "Lãnh đạo cao nhất của đơn vị trong thành phần cuộc họp ngồi vào ghế chủ tọa và đối tác ngồi đối diện.",
+      "D": "Tất cả đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 172,
+    "question": "Việc chào hỏi dựa trên chênh lệch tuổi tác trong công việc thể hiện:",
+    "options": {
+      "A": "Sự cụ thể hóa ứng xử nội bộ của EVN “Gia đình EVN trên thuận, dưới hòa”",
+      "B": "Sự tiếp nối văn hóa ứng xử tôn trọng thiên nhiên của văn hóa Việt Nam",
+      "C": "Sự chi phối của tuổi tác đến vị trí xã hội “Sống lâu lên lão làng”.",
+      "D": "Sự cứng nhắc trong văn hóa công việc."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 173,
+    "question": "Việc chào hỏi giữa lãnh đạo và nhân viên, văn hóa doanh nghiệp EVNSPC quy định:",
+    "options": {
+      "A": "Lãnh đạo phải đáp lại bằng cách chào hỏi thân thiện hoặc có thể gật đầu mỉm cười đáp lại khi nhân viên chào.",
+      "B": "Lãnh đạo không cần phải đáp lại khi nhân viên chào.",
+      "C": "Nhân viên không được chào trước vì có khoảng cách địa vị xã hội.",
+      "D": "A và C đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 174,
+    "question": "Văn hóa doanh nghiệp EVNSPC quy định về văn hóa trò chuyện:",
+    "options": {
+      "A": "Diễn đạt bằng những câu nói ngắn gọn, dễ hiểu và truyền cảm, thể hiện thái độ thân thiện, vui vẻ và hòa đồng.",
+      "B": "Xưng tên để diễn tả ý kiến của mình với người đối diện.",
+      "C": "Nói đủ nghe, có thể nói khi đang ăn cũng như khi đang nhai kẹo cao su.",
+      "D": "A và C đúng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 175,
+    "question": "Quy định về văn hóa chào hỏi, VHDN EVNSPC yêu cầu cách thức bắt tay:",
+    "options": {
+      "A": "Không cần bắt tay lần lượt từng người theo thứ tự đến trước, đến sau, người cao tuổi hơn, người có chức vụ cao hơn.",
+      "B": "Dùng tay phải để bắt tay, khi bắt tay, mắt nhìn thẳng người đối diện.",
+      "C": "Cần phải siết nhẹ để biểu hiện sự nồng ấm thân thiết",
+      "D": "Bắt tay nhanh, lắc mạnh bàn tay đối tác."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 176,
+    "question": "Theo “Văn hóa chào hỏi”, EVNSPC quy định cách thức bắt tay:",
+    "options": {
+      "A": "Dùng tay phải để bắt tay, khi bắt tay, mắt nhìn thẳng người đối diện",
+      "B": "Siết mạnh tay và giữ lâu biểu hiện sự thân thiện và nhiệt tình.",
+      "C": "Cúi lưng hay cầm cả hai tay của người đối diện khi bắt tay, tỏ thái độ tôn trọng.",
+      "D": "Chỉ bắt tay với nhân vật quan trọng hoặc chức vụ cao hơn"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 177,
+    "question": "CBCNV thuộc Tồng Công ty Điện lực Miền Nam khi nhận điện thoại giao tiếp, câu đầu tiên sẽ là:",
+    "options": {
+      "A": "Alo + Tên đơn vị/Tên mình + Xin nghe.",
+      "B": "Alo + Tên mình/Chức vụ + Xin nghe.",
+      "C": "Alo + Tên đơn vị/Địa chỉ đơn vị + Xin nghe.",
+      "D": "Alo + Chào hỏi + Xin nghe."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 178,
+    "question": "Nội dung nào sau đây là sai trong “Văn hóa khi làm việc” theo quy định của văn hóa doanh nghiệp EVNSPC:",
+    "options": {
+      "A": "Đi làm đúng giờ.",
+      "B": "Tránh ngắt lời người khác.",
+      "C": "Tuyệt đối không rời chỗ làm việc",
+      "D": "Chào tạm biệt trước khi rời khỏi văn phòng."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 179,
+    "question": "“EVN mong muốn xây dựng phong cách điển hình của CBCNV EVN là tận tâm, có tinh thần trách nhiệm cao. Các thành viên của EVN luôn mang hết sức lực và trí tuệ để giải quyết công việc hiệu quả, hết lòng phục vụ để đem lại sự hài lòng cho khách hàng và vì hạnh phúc của nhân dân” là nội dung phản ánh giá trị cốt lõi:",
+    "options": {
+      "A": "Chất lượng – tín nhiệm",
+      "B": "Hợp tác – chia sẻ",
+      "C": "Tận tâm – trí tuệ",
+      "D": "Sáng tạo – hiệu quả"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 180,
+    "question": "Trong văn hóa sử dụng danh thiếp, EVNSPC quy định:",
+    "options": {
+      "A": "Không hỏi thông tin về cách phát âm tên hoặc bất cứ thông tin gì chưa rõ trên danh thiếp.",
+      "B": "Có thể viết bổ sung những thông tin khác trên danh thiếp in sẵn.",
+      "C": "Mẫu danh thiếp được trình bày tùy thuộc vào thiết kế của mỗi cá nhân.",
+      "D": "Người tự giới thiệu đưa danh thiếp trước, đứng lên khi đưa và đưa bằng tay trái và nhận bằng tay phải."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 181,
+    "question": "Trong văn hóa giao tiếp, khi gặp khách hàng hay đối tác lần đầu, chúng ta sẽ:",
+    "options": {
+      "A": "Vui mừng và ôm chặt người đó.",
+      "B": "Mỉm cười, tự giới thiệu và chủ động bắt tay.",
+      "C": "Đợi người khác giới thiệu.",
+      "D": "Cúi đầu chào từ xa thể hiện sự tôn trọng."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 182,
+    "question": "Văn hóa doanh nghiệp đặc sắc sẽ được thể hiện ở biểu hiện hữu hình nổi bật nào:",
+    "options": {
+      "A": "Các hành vi văn hoá của từng cá nhân trong doanh nghiệp",
+      "B": "Xây dựng quy trình, quy chế làm việc chuẩn mực",
+      "C": "Thường xuyên tổ chức những buổi dã ngoại cho nhân viên",
+      "D": "Thể hiện tính độc đáo, gây nhiều sự chú ý"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 183,
+    "question": "Nhân viên đeo thẻ nhân viên khi giao dịch, công tác mang ý nghĩa:",
+    "options": {
+      "A": "Khẳng định vị thế với khách hàng, đối tác, đồng nghiệp.",
+      "B": "Khiến cho khách hàng phải tự điều chỉnh hành vi ứng xử nếu muốn được việc.",
+      "C": "Góp phần nhận dạng thương hiệu doanh nghiệp",
+      "D": "Để người quản lý dễ điểm danh."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 184,
+    "question": "Mỗi CBCNV EVN là một đại sứ thương hiệu đưa các giá trị văn hóa ngành Điện lan tỏa vào cộng đồng có ý nghĩa là:",
+    "options": {
+      "A": "Khẳng định những cam kết của ngành điện được thực thi hiệu quả và bền vững.",
+      "B": "Tạo sự đồng thuận xã hội, cùng chung tay chia sẻ những khó khăn, thách thức đối với hoạt động sản xuất, phân phối, tiêu thụ sản phẩm điện năng.",
+      "C": "Mang đến dấu ấn văn hóa doanh nghiệp nghành điện đặc sắc, gần gũi.",
+      "D": "Tất cả đều đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 185,
+    "question": "Văn hóa giao tiếp với khách hàng được quy định cụ thể trong tài liệu văn hóa Doanh nghiệp, theo đó nhân viên EVN cần phải:",
+    "options": {
+      "A": "Có sự hiểu biết, có tinh thần trách nhiệm với sản phẩm.",
+      "B": "Nắm thông tin về các hoạt động sản xuất kinh doanh của công ty.",
+      "C": "Đáp ứng cơ bản các thắc mắc của khách hàng.",
+      "D": "A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 186,
+    "question": "Kỹ năng cần thiết trong giao tiếp với khách hàng khi bị khách hàng phàn nàn:",
+    "options": {
+      "A": "Thành thật xin lỗi khách hàng.",
+      "B": "Nhanh chóng xem xét đền bù.",
+      "C": "Không tiếp nhận ý kiến mà chuyển lên lãnh đạo cấp trên.",
+      "D": "Xoa dịu theo yêu cầu khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 187,
+    "question": "Cách đúng nhất đánh giá mức độ hài lòng của khách hàng đối với chất lượng, dịch vụ điện là:",
+    "options": {
+      "A": "Lắng nghe khách hàng.",
+      "B": "Theo dõi doanh thu đơn vị theo từng giai đoạn.",
+      "C": "Phân tích tập trung vào các báo cáo của nhân viên cấp dưới.",
+      "D": "Tất cả đều sai."
+    },
+    "answer": "1"
+  },
+  {
+"number": 188,
+"question": "Một trong những hạn chế của văn hóa doanh nghiệp là:",
+"options": {
+"A": "Tăng tính cam kết trong tổ chức",
+"B": "Kiên định trong hành vi của nhân viên",
+"C": "Giảm sự mơ hồ trong nhân viên",
+"D": "Khó khăn trong việc hợp nhất giữa các tổ chức"
+},
+"answer": "4"
+},
+    {
+"number": 189,
+"question": "Quản lý công ty bằng quy định có đặc điểm:",
+"options": {
+"A": "Văn hóa doanh nghiệp là quyền lực mềm trong kiểm soát và điều chỉnh hành vi nhân viên",
+"B": "Bắt buộc các thành viên phải tuân thủ dù muốn hay không",
+"C": "Các thành viên hiểu, tin tưởng, tự hào, và tự giác tuân thủ.",
+"D": "A,B,C đúng"
+},
+"answer": "2"
+},
+  {
+    "number": 190,
+    "question": "Vai trò của văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Tạo động lực làm việc",
+      "B": "Giảm xung đột",
+      "C": "Điều phối và kiểm soát",
+      "D": "Tất cả các ý trên"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 191,
+    "question": "Nếu doanh nghiệp đầu tư nhiều vào nghiên cứu và phát triển sản phẩm. Điều này phản ảnh yếu tố nào của văn hóa:",
+    "options": {
+      "A": "Khoảng cách quyền lực",
+      "B": "Mức độ chấp nhận mạo hiểm",
+      "C": "Tập thể và cá nhân",
+      "D": "Nam tính và nữ tính"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 192,
+    "question": "Tác phong chuyên nghiệp trong giao tiếp khách hàng thể hiện qua các nội dung sau:",
+    "options": {
+      "A": "Cách giao tiếp qua điện thoại: giọng nói; ngữ điệu; tiếp nhận và xử lý thông tin phù hợp với tính chất, phạm vi công việc chuyên môn.",
+      "B": "Cách sử dụng ngôn ngữ, điệu bộ cử chỉ gắn với nghiệp vụ giỏi khi giao tiếp trực tiếp với khách hàng.",
+      "C": "Là một dấu ấn đặc sắc về văn hóa của đơn vị công tác khiến khách hàng có ấn tượng tốt đẹp.",
+      "D": "A, B, C đúng."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 193,
+    "question": "Trong giao tiếp với khách hàng, nhân viên EVN hành xử như thế nào là không phù hợp:",
+    "options": {
+      "A": "Tranh luận đến cùng để bảo vệ lý lẽ của minh, lợi ích của công ty, ngay cả khi là giao tiếp qua điện thoại.",
+      "B": "Nói chuyện với khách hàng bằng những câu từ ngắn gọn và rõ ràng.",
+      "C": "Không lợi dụng quyền hạn, khả năng, phạm vi công việc để trục lợi.",
+      "D": "Lễ phép, lịch sự, tôn trọng khách hàng."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 194,
+    "question": "Khi khách hàng có thái độ bất bình, bực tức trong quá trình giao tiếp, việc cần thiết phải thực hiện ngay là:",
+    "options": {
+      "A": "Nhanh chóng chấm dứt cuộc giao dịch.",
+      "B": "Hãy chủ động xin lỗi và lắng nghe khách hàng.",
+      "C": "Báo ngay lên lãnh đạo cấp trên.",
+      "D": "Cố gắng giải thích cho khách hàng hiểu."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 195,
+    "question": "Việc thực thi chuẩn mực văn hóa giao tiếp đối với khách hàng trong Tập đoàn Điện lực Việt Nam nhằm mục đích:",
+    "options": {
+      "A": "Chuẩn hóa, áp đặt mô hình giao tiếp với khách hàng đến tất cả các điện lực.",
+      "B": "Có thêm thang đo để siết hoạt động của nhân viên chặt chẽ hơn.",
+      "C": "Từng bước hình thành, duy trì môi trường làm việc chuyên nghiệp, văn minh.",
+      "D": "Nhanh chóng tăng lợi nhuận."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 196,
+    "question": "Đâu không phải là đặc trưng của văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Văn hóa doanh nghiệp mang tính nhân sinh, tức là gắn với con người",
+      "B": "Văn hóa doanh nghiệp có tính giá trị",
+      "C": "Văn hóa doanh nghiệp là yếu tố thường xuyên thay đổi",
+      "D": "Văn hóa doanh nghiệp có tính ổn định"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 197,
+    "question": "Nội dung nào không phải là muc đích của việc xây dựng văn hóa doanh nghiệp:",
+    "options": {
+      "A": "Tạo ra bầu không khí làm việc hăng say của người lao động",
+      "B": "Nhanh chóng hạ gục đối thủ cạnh tranh",
+      "C": "Giảm xung đột và nâng cao hiệu quả làm việc",
+      "D": "Tăng cường tái tạo sức lao động để mọi người lại tiếp tục lao động sáng tạo"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 198,
+    "question": "Khẩu hiệu của EVN là:",
+    "options": {
+      "A": "Điện đi trước một bước",
+      "B": "EVN trên thuận dưới hòa",
+      "C": "EVN thắp sáng niềm tin",
+      "D": "Hợp tác cùng phát triển"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 199,
+    "question": "Nội dung nào không phản ánh trong ý nghĩa của nhãn hiệu EVN:",
+    "options": {
+      "A": "Đặc tính kỹ thuật của Công nghiệp điện với dòng điện 3 pha",
+      "B": "Sự đáp ứng của EVN đối với nhu cầu điện ngày càng tăng của nền kinh tế quốc dân",
+      "C": "Quan tâm đến môi trường để phát triển bền vững",
+      "D": "Cạnh tranh để thâu tóm thị phần và gia tăng lợi nhuận"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 200,
+    "question": "Giới thiệu nhân viên mới đến các phòng, bộ phận tại Công ty Điện lực là một dạng của:",
+    "options": {
+      "A": "Giả định",
+      "B": "Nghi thức",
+      "C": "Niềm tin",
+      "D": "Giá trị"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 201,
+    "question": "Theo quy định Văn hóa tổ chức tiệc và dự tiệc của EVN SPC, nội dung nào sau đây là sai:",
+    "options": {
+      "A": "Chủ tiệc ngồi ở vị trí trung tâm quay ra cửa để quan sát.",
+      "B": "Nên xếp xen kẽ nam và nữ, chủ và khách.",
+      "C": "Xếp theo địa vị ngoại giao của người dự tiệc.",
+      "D": "Không xếp vợ, chồng (hoặc người thân) ngồi cạnh nhau."
+    },
+    "answer": "4"
+  },
+  {
+    "number": 202,
+    "question": "Trong văn hóa giao tiếp, khoảng cách giữa 2 người sẽ là:",
+    "options": {
+      "A": "Đứng cách người nói 5 – 6 bước chân.",
+      "B": "Đứng cách người nói 4 – 5 bước chân.",
+      "C": "Đứng cách người nói 2 – 3 bước chân.",
+      "D": "Đứng cách người nói 1 bước chân."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 203,
+    "question": "Vai trò của từng cá nhân tương đối có tính tự trị cao. Người lãnh đạo khéo léo hướng dẫn những cá nhân có đầu óc sáng tạo cao vào mục tiêu chung của tổ chức và không có thái độ phô trương quyền uy đối với họ.",
+    "options": {
+      "A": "Văn hóa chấp nhận rủi ro",
+      "B": "Văn hóa đồng đội",
+      "C": "Văn hóa đề cao vai trò cá nhân",
+      "D": "Văn hóa nguyên tắc"
+    },
+    "answer": "3"
+  },
+  {
+    "number": 204,
+    "question": "Theo “Văn hóa chào hỏi”, EVNSPC quy định thứ tự ưu tiên chào hỏi:",
+    "options": {
+      "A": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người ít tuổi chào trước.",
+      "B": "Cấp trên chào nhân viên chào trước; đồng nghiệp cùng cấp: người ít tuổi chào trước.",
+      "C": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người nhiều tuổi chào trước.",
+      "D": "Nhân viên chào cấp trên trước; đồng nghiệp cùng cấp: người nhiều tuổi chào trước."
+    },
+    "answer": "1"
+  },
+  {
+    "number": 205,
+    "question": "Trong văn hóa sử dụng danh thiếp, EVNSPC quy định khoảng cách trao và nhận danh thiếp:",
+    "options": {
+      "A": "50cm.",
+      "B": "Một cánh tay.",
+      "C": "Một sải tay.",
+      "D": "Tùy mỗi trường hợp."
+    },
+    "answer": "2"
+  },
+  {
+    "number": 206,
+    "question": "Nội dung nào không thuộc về ý nghĩa nhãn hiệu của EVN.",
+    "options": {
+      "A": "Vòng tròn hình cầu bên ngoài thể hiện mơ ước bao trùm và độc quyền thị trường khu vực",
+      "B": "Thể hiện sự cam kết của EVN đối với đất nước",
+      "C": "Sự quan tâm đến môi trường để phát triển bền vững",
+      "D": "Mơ ước vươn ra các thị trường khu vực và trên thế giới"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 207,
+    "question": "Quản lý dựa vào công việc hơn là dựa vào phẩm chất cá nhân, các quyết định đưa ra trên cơ sở quy trình, thủ tục thuộc về:",
+    "options": {
+      "A": "Văn hóa quyền hạn",
+      "B": "Văn hóa đồng đội",
+      "C": "Văn hóa nguyên tắc",
+      "D": "Văn hóa sáng tạo"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 208,
+    "question": "Văn hóa doanh nghiệp khi đã định hình sẽ trở thành:",
+    "options": {
+      "A": "Tài sản vô hình của doanh nghiệp",
+      "B": "Giúp phân biệt giữa các doanh nghiệp",
+      "C": "Truyền thống của doanh nghiệp",
+      "D": "Cả A, B, C đều đúng"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 209,
+    "question": "Luôn hợp tác, chia sẻ kiến thức, thông tin để giải quyết công việc đạt chất lượng và hiệu quả cao nhất, vì lợi ích chung của EVN và vì sự phát triển chung của đất nước là nội dung thuộc về:",
+    "options": {
+      "A": "Văn hóa công việc của EVN",
+      "B": "Văn hóa giao tiếp của EVN",
+      "C": "Cam kết của EVN với đối tác",
+      "D": "Cam kết của EVN với người lao động"
+    },
+    "answer": "1"
+  },
+  {
+    "number": 210,
+    "question": "“Sức mạnh trong mọi hành động của EVN là sự đồng thuận và trí tuệ tập thể” là một nội dung thuộc về:",
+    "options": {
+      "A": "Hệ giá trị cốt lõi",
+      "B": "Chuẩn mực đạo đức",
+      "C": "Thực thi văn hóa",
+      "D": "Cả A, B, C đều sai"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 211,
+    "question": "Khái niệm văn hóa được hiểu là:",
+    "options": {
+      "A": "Kết quả hoạt động do máy móc tạo ra",
+      "B": "Một hệ thống hữu cơ của giá trị vật chất và tinh thần do con người sáng tạo",
+      "C": "Là cái vốn có trong thế giới khách quan",
+      "D": "Chỉ bao gồm giá trị vật chất"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 212,
+    "question": "“Các thành viên của EVN luôn mang hết sức lực và trí tuệ để giải quyết công việc hiệu quả, hết lòng phục vụ để đem lại sự hài lòng cho khách hàng và vì hạnh phúc nhân dân”, phản ánh yếu tố nào của văn hóa EVN.",
+    "options": {
+      "A": "Tầm nhìn.",
+      "B": "Sứ mệnh.",
+      "C": "Khẩu hiệu.",
+      "D": "Giá trị cốt lõi"
+    },
+    "answer": "4"
+  },
+  {
+    "number": 213,
+    "question": "Khẩu hiệu của EVNSPC là:",
+    "options": {
+      "A": "Điện đi trước một bước",
+      "B": "EVNSPC thắp sáng niềm tin",
+      "C": "EVNEVN thắp sáng niềm tin",
+      "D": "EVNSPC hợp tác cùng phát triển"
+    },
+    "answer": "2"
+  },
+  {
+    "number": 214,
+    "question": "Quy trình làm việc của CBCNV quản lý vận hành lưới điện nếu khách quan thì sẽ:",
+    "options": {
+      "A": "Chủ quan xem nhẹ việc thu thập số liệu.",
+      "B": "Không phát hiện kịp thời sai phạm.",
+      "C": "Không gây oan sai cho đối tượng kiểm tra",
+      "D": "Tất cả cùng sai."
+    },
+    "answer": "3"
+  },
+  {
+    "number": 215,
+    "question": "Phần không nhìn thấy được của văn hóa doanh nghiệp gồm có:",
+    "options": {
+      "A": "Lý tưởng, giá trị, chuẩn mực, niềm tin, triết lý hành động.",
+      "B": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, đồng phục, ân phẩm điển hình",
+      "C": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, ấn phẩm điển hình.",
+      "D": "Kiến trúc, biểu tượng, màu sắc chủ đạo, ngôn ngữ, nghi lễ, giai thoại về nhân vật anh hùng, ấn phẩm điển hình."
+    },
+    "answer": "1"
+  },
+  {
+"number": 216,
+"question": "Tổng Công ty Điện lực Miền Nam quy định văn hóa hội họp trong các cuộc họp nội bộ:",
+"options": {
+"A": "Lãnh đạo ngồi vào ghế chủ tọa được bố trí quay lưng ra cửa để hạn chế việc ra vào của các thành viên",
+"B": "Người quan trọng ngồi đối diện lãnh đạo.",
+"C": "Người ngồi phía tay trái quan trọng hơn người ngồi phía tay phải.",
+"D": "Lãnh đạo ngồi vào ghế chủ tọa được bố trí ở trung tâm quay mặt ra phòng họp nhằm bao quát hết các thành phần tham dự"
+},
+"answer": "D"
+},{
+"number": 217,
+"question": "Nội dung nào phản ánh trong ý nghĩa ở phần chữ của nhãn hiệu EVN:",
+"options": {
+"A": "Đặc tính kỹ thuật của Công nghiệp điện với dòng điện 3 pha.",
+"B": "Phong cách hiện đại, khả năng phát triển bền vững và hùng mạnh trong tương lai.",
+"C": "Sự đáp ứng của EVN đối với nhu cầu điện ngày càng tăng của nền kinh tế quốc dân.",
+"D": "Cạnh tranh để thâu tóm thị phần và gia tăng lợi nhuận."
+},
+"answer": "B"
+}
+]

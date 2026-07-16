@@ -7,7 +7,7 @@ function App() {
   const [showAllAnswers, setShowAllAnswers] = useState(false); // hiển thị tất cả đáp án đúng
 
   useEffect(() => {
-    fetch("/5.dienke.json")
+    fetch("/Dien ke Cup hoi Kiem tra 2025.json")
       .then((res) => res.json())
       .then((data) => setQuestions(data))
       .catch((err) => console.error(err));
@@ -28,7 +28,7 @@ function App() {
   return (
     <div style={{ padding: 20, fontFamily: "sans-serif" }}>
       <h1 style={{ textAlign: "center", color: "#007bff" }}>
-        🧩 Trắc nghiệm Điện kế
+        🧩 Trắc nghiệm Điện kế - Cúp hơi - Kiểm tra
       </h1>
 
       <button
